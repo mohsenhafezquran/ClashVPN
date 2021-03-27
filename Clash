@@ -6,6 +6,17 @@ log-level: info
 external-controller: 127.0.0.1:9090
 
 proxies:
+  - {name: MOHSEN TV 1, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 2, server: 130.0.233.26, port: 3000, type: vmess, uuid: a92d8ef9-fb27-4d40-9a99-b089b054a92f, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 3, server: 80.67.3.119, port: 3000, type: vmess, uuid: 58475427-180a-4716-8029-1bd5f5efdd89, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 4, server: 37.252.1.197, port: 3000, type: vmess, uuid: 6920f6b8-27bb-44e6-bfc1-87cde5cd16e4, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 5, server: 64.15.75.72, port: 3000, type: vmess, uuid: 5df89052-f319-4acd-99ca-fb9d1bf344b2, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TS 3, server: ru.timevpn.com, port: 29313, type: ss, cipher: aes-256-cfb, password: zhqsY2W}
+  - {name: MOHSEN TS 4, server: se.timevpn.com, port: 16116, type: ss, cipher: aes-256-cfb, password: sB9WKFH}
+  - {name: MOHSEN TS 7, server: ca.timevpn.com, port: 14582, type: ss, cipher: aes-256-cfb, password: vaaxLkM}
+  - {name: MOHSEN TS 8, server: ua.timevpn.com, port: 41182, type: ss, cipher: aes-256-cfb, password: B8b6DNT}
+  - {name: MOHSEN TS 9, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
+  - {name: MOHSEN TS 10, server: se.timevpn.com, port: 25377, type: ss, cipher: aes-256-cfb, password: w9CKeVz}
   - {name: MOHSEN S 1, server: 185.232.20.131, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 2, server: 45.12.222.245, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 3, server: 37.120.213.7, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -192,17 +203,6 @@ proxies:
   - {name: MOHSEN N 14, server: 45.77.25.146, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
   - {name: MOHSEN V 1, server: 51.158.150.84, port: 49031, type: vmess, uuid: 3f09cac8-53ab-4a6b-ba31-09b85910c8f3, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 51.158.150.84}}
   - {name: MOHSEN V 2, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
-  - {name: MOHSEN TV 1, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 2, server: 130.0.233.26, port: 3000, type: vmess, uuid: a92d8ef9-fb27-4d40-9a99-b089b054a92f, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 3, server: 80.67.3.119, port: 3000, type: vmess, uuid: 58475427-180a-4716-8029-1bd5f5efdd89, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 4, server: 37.252.1.197, port: 3000, type: vmess, uuid: 6920f6b8-27bb-44e6-bfc1-87cde5cd16e4, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 5, server: 64.15.75.72, port: 3000, type: vmess, uuid: 5df89052-f319-4acd-99ca-fb9d1bf344b2, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TS 3, server: ru.timevpn.com, port: 29313, type: ss, cipher: aes-256-cfb, password: zhqsY2W}
-  - {name: MOHSEN TS 4, server: se.timevpn.com, port: 16116, type: ss, cipher: aes-256-cfb, password: sB9WKFH}
-  - {name: MOHSEN TS 7, server: ca.timevpn.com, port: 14582, type: ss, cipher: aes-256-cfb, password: vaaxLkM}
-  - {name: MOHSEN TS 8, server: ua.timevpn.com, port: 41182, type: ss, cipher: aes-256-cfb, password: B8b6DNT}
-  - {name: MOHSEN TS 9, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
-  - {name: MOHSEN TS 10, server: se.timevpn.com, port: 25377, type: ss, cipher: aes-256-cfb, password: w9CKeVz}
   
 proxy-groups:
   - name: 🎯 Select automatically
@@ -210,6 +210,17 @@ proxy-groups:
     url: https://www.google.com
     interval: 300
     proxies:
+      - MOHSEN TV 1
+      - MOHSEN TV 2
+      - MOHSEN TV 3
+      - MOHSEN TV 4
+      - MOHSEN TV 5
+      - MOHSEN TS 3
+      - MOHSEN TS 4
+      - MOHSEN TS 7
+      - MOHSEN TS 8
+      - MOHSEN TS 9
+      - MOHSEN TS 10
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
@@ -396,17 +407,6 @@ proxy-groups:
       - MOHSEN N 14
       - MOHSEN V 1
       - MOHSEN V 2
-      - MOHSEN TV 1
-      - MOHSEN TV 2
-      - MOHSEN TV 3
-      - MOHSEN TV 4
-      - MOHSEN TV 5
-      - MOHSEN TS 3
-      - MOHSEN TS 4
-      - MOHSEN TS 7
-      - MOHSEN TS 8
-      - MOHSEN TS 9
-      - MOHSEN TS 10
       
 rules:
  - MATCH,🎯 Select automatically
