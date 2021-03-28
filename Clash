@@ -225,6 +225,80 @@ proxies:
   - {name: MOHSEN EP 2, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
   - {name: MOHSEN EP 3, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
   - {name: MOHSEN EP 4, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: MOHSEN U N 1, server: 37.120.217.118, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 2, server: 51.195.63.231, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 3, server: 51.195.63.224, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 4, server: 193.108.116.97, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 5, server: 51.195.13.210, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 6, server: 51.68.178.55, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 7, server: 51.195.63.225, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 8, server: 193.108.116.70, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 9, server: 165.231.67.3, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 10, server: 51.195.92.147, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 11, server: 193.108.116.98, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 12, server: 93.186.201.51, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 13, server: 51.89.105.66, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 14, server: 185.137.138.26, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 15, server: 193.108.116.119, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 16, server: 51.89.33.57, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 17, server: 54.37.206.176, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 18, server: 93.186.201.69, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 19, server: 85.114.138.92, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 20, server: 185.104.184.78, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 21, server: 18.185.94.137, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 22, server: 18.185.63.41, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 23, server: 185.160.26.170, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 24, server: 134.209.155.247, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 25, server: 52.66.200.183, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 26, server: 13.127.197.3, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 27, server: 34.244.63.147, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 28, server: 158.58.173.240, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 29, server: 178.132.3.141, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 30, server: 37.120.192.158, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 31, server: 178.132.3.123, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 32, server: 193.228.193.171, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 33, server: 217.170.206.215, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 34, server: 92.38.139.60, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 35, server: 196.240.126.74, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 36, server: 1.168.211.144, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 37, server: 45.123.119.51, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 38, server: 188.241.120.16, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 39, server: 51.222.117.148, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 40, server: 196.247.59.156, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 41, server: 196.196.156.122, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 42, server: 196.196.156.106, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 43, server: 51.178.133.154, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 44, server: 51.210.33.2, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 45, server: 163.172.110.54, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 46, server: 51.159.30.61, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 47, server: 51.210.113.68, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 48, server: 51.159.19.148, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 49, server: 163.172.65.156, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 50, server: 89.34.96.57, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 51, server: 92.223.59.226, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 52, server: 78.129.253.9, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 53, server: 217.138.195.138, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 54, server: 89.34.96.61, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 55, server: 89.34.96.49, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 56, server: 109.230.215.10, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 57, server: 89.34.96.53, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 58, server: "", port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 59, server: 89.34.96.39, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 60, server: 84.252.94.98, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 61, server: 38.143.66.12, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 62, server: 162.251.61.47, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 63, server: 38.68.134.196, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 64, server: 95.214.113.177, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 65, server: 167.88.61.2, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 66, server: 38.64.138.137, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 67, server: 209.222.98.114, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 68, server: 77.247.126.153, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 69, server: 194.124.76.194, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 70, server: 162.251.61.221, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 71, server: 92.119.16.204, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 72, server: 38.68.134.238, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 73, server: 74.63.242.2, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U N 74, server: 38.91.107.225, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U 1, server: 185.137.138.26, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U 2, server: 193.108.116.70, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U 3, server: ip176.ip-54-37-206.eu, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -523,6 +597,80 @@ proxy-groups:
       - MOHSEN EP 2
       - MOHSEN EP 3
       - MOHSEN EP 4
+      - MOHSEN U N 1
+      - MOHSEN U N 2
+      - MOHSEN U N 3
+      - MOHSEN U N 4
+      - MOHSEN U N 5
+      - MOHSEN U N 6
+      - MOHSEN U N 7
+      - MOHSEN U N 8
+      - MOHSEN U N 9
+      - MOHSEN U N 10
+      - MOHSEN U N 11
+      - MOHSEN U N 12
+      - MOHSEN U N 13
+      - MOHSEN U N 14
+      - MOHSEN U N 15
+      - MOHSEN U N 16
+      - MOHSEN U N 17
+      - MOHSEN U N 18
+      - MOHSEN U N 19
+      - MOHSEN U N 20
+      - MOHSEN U N 21
+      - MOHSEN U N 22
+      - MOHSEN U N 23
+      - MOHSEN U N 24
+      - MOHSEN U N 25
+      - MOHSEN U N 26
+      - MOHSEN U N 27
+      - MOHSEN U N 28
+      - MOHSEN U N 29
+      - MOHSEN U N 30
+      - MOHSEN U N 31
+      - MOHSEN U N 32
+      - MOHSEN U N 33
+      - MOHSEN U N 34
+      - MOHSEN U N 35
+      - MOHSEN U N 36
+      - MOHSEN U N 37
+      - MOHSEN U N 38
+      - MOHSEN U N 39
+      - MOHSEN U N 40
+      - MOHSEN U N 41
+      - MOHSEN U N 42
+      - MOHSEN U N 43
+      - MOHSEN U N 44
+      - MOHSEN U N 45
+      - MOHSEN U N 46
+      - MOHSEN U N 47
+      - MOHSEN U N 48
+      - MOHSEN U N 49
+      - MOHSEN U N 50
+      - MOHSEN U N 51
+      - MOHSEN U N 52
+      - MOHSEN U N 53
+      - MOHSEN U N 54
+      - MOHSEN U N 55
+      - MOHSEN U N 56
+      - MOHSEN U N 57
+      - MOHSEN U N 58
+      - MOHSEN U N 59
+      - MOHSEN U N 60
+      - MOHSEN U N 61
+      - MOHSEN U N 62
+      - MOHSEN U N 63
+      - MOHSEN U N 64
+      - MOHSEN U N 65
+      - MOHSEN U N 66
+      - MOHSEN U N 67
+      - MOHSEN U N 68
+      - MOHSEN U N 69
+      - MOHSEN U N 70
+      - MOHSEN U N 71
+      - MOHSEN U N 72
+      - MOHSEN U N 73
+      - MOHSEN U N 74
       - MOHSEN U 1
       - MOHSEN U 2
       - MOHSEN U 3
