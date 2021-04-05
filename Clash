@@ -31,17 +31,10 @@ dns:
     - tls://185.253.154.66:4343
     - tls://116.202.176.26:853
 proxies:
-  - {name: MOHSEN TV 1, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 2, server: 130.0.233.26, port: 3000, type: vmess, uuid: a92d8ef9-fb27-4d40-9a99-b089b054a92f, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 3, server: 80.67.3.119, port: 3000, type: vmess, uuid: 58475427-180a-4716-8029-1bd5f5efdd89, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 4, server: 37.252.1.197, port: 3000, type: vmess, uuid: 6920f6b8-27bb-44e6-bfc1-87cde5cd16e4, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TV 5, server: 64.15.75.72, port: 3000, type: vmess, uuid: 5df89052-f319-4acd-99ca-fb9d1bf344b2, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN TS 3, server: ru.timevpn.com, port: 29313, type: ss, cipher: aes-256-cfb, password: zhqsY2W}
-  - {name: MOHSEN TS 4, server: se.timevpn.com, port: 16116, type: ss, cipher: aes-256-cfb, password: sB9WKFH}
-  - {name: MOHSEN TS 7, server: ca.timevpn.com, port: 14582, type: ss, cipher: aes-256-cfb, password: vaaxLkM}
-  - {name: MOHSEN TS 8, server: ua.timevpn.com, port: 41182, type: ss, cipher: aes-256-cfb, password: B8b6DNT}
-  - {name: MOHSEN TS 9, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
-  - {name: MOHSEN TS 10, server: se.timevpn.com, port: 25377, type: ss, cipher: aes-256-cfb, password: w9CKeVz}
+  - {name: MOHSEN EP 1, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
+  - {name: MOHSEN EP 3, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
+  - {name: MOHSEN EP 4, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
   - {name: MOHSEN S A 1, server: 193.29.106.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 2, server: 143.244.42.71, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 3, server: 89.46.223.241, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -236,20 +229,6 @@ proxies:
   - {name: MOHSEN S D 42, server: 188.208.141.116, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S D 43, server: 84.17.58.166, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S D 44, server: 185.153.151.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN BP N1, server: 37.218.241.223, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oXBFqMdxeViU}
-  - {name: MOHSEN BP 1, server: 45.62.123.253, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: FICZkw5DVMxK}
-  - {name: MOHSEN BP 2, server: 185.239.69.52, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PfPYlZiuH4mU}
-  - {name: MOHSEN BP 3, server: 185.239.68.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b7uFiV3LkUKP}
-  - {name: MOHSEN BP 4N, server: 37.218.241.229, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6uKWsahz9Fe4}
-  - {name: MOHSEN BP 4, server: 185.239.71.196, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uCvlAqIN8nxt}
-  - {name: MOHSEN BP 5, server: 37.218.246.164, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: r95Sf2WSHh8e}
-  - {name: MOHSEN BP 6, server: 37.218.241.229, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: x4m5HXUfK3zd}
-  - {name: MOHSEN BP 7, server: 213.108.110.185, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: OddI7L7U5RJK}
-  - {name: MOHSEN BP 8, server: 37.218.241.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: EcC5dTKDFNM7}
-  - {name: MOHSEN EP 1, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
-  - {name: MOHSEN EP 2, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
-  - {name: MOHSEN EP 3, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
-  - {name: MOHSEN EP 4, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: MOHSEN U N 1, server: 37.120.217.118, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U N 2, server: 51.195.63.231, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U N 3, server: 51.195.63.224, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -394,25 +373,27 @@ proxies:
   - {name: MOHSEN N 12, server: 185.224.249.97, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
   - {name: MOHSEN N 13, server: 136.244.113.182, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
   - {name: MOHSEN N 14, server: 45.77.25.146, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
-  - {name: MOHSEN V 1, server: 51.158.150.84, port: 49031, type: vmess, uuid: 3f09cac8-53ab-4a6b-ba31-09b85910c8f3, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 51.158.150.84}}
-  - {name: MOHSEN V 2, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
+  - {name: MOHSEN TV 1, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 2, server: 130.0.233.26, port: 3000, type: vmess, uuid: a92d8ef9-fb27-4d40-9a99-b089b054a92f, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 3, server: 80.67.3.119, port: 3000, type: vmess, uuid: 58475427-180a-4716-8029-1bd5f5efdd89, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 4, server: 37.252.1.197, port: 3000, type: vmess, uuid: 6920f6b8-27bb-44e6-bfc1-87cde5cd16e4, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TV 5, server: 64.15.75.72, port: 3000, type: vmess, uuid: 5df89052-f319-4acd-99ca-fb9d1bf344b2, alterId: 0, cipher: auto, tls: false}
+  - {name: MOHSEN TS 3, server: ru.timevpn.com, port: 29313, type: ss, cipher: aes-256-cfb, password: zhqsY2W}
+  - {name: MOHSEN TS 4, server: se.timevpn.com, port: 16116, type: ss, cipher: aes-256-cfb, password: sB9WKFH}
+  - {name: MOHSEN TS 7, server: ca.timevpn.com, port: 14582, type: ss, cipher: aes-256-cfb, password: vaaxLkM}
+  - {name: MOHSEN TS 8, server: ua.timevpn.com, port: 41182, type: ss, cipher: aes-256-cfb, password: B8b6DNT}
+  - {name: MOHSEN TS 9, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
+  - {name: MOHSEN TS 10, server: se.timevpn.com, port: 25377, type: ss, cipher: aes-256-cfb, password: w9CKeVz}
 proxy-groups:
   - name: 🎯 Select automatically
     type: url-test
     url: https://www.google.com
     interval: 300
     proxies:
-      - MOHSEN TV 1
-      - MOHSEN TV 2
-      - MOHSEN TV 3
-      - MOHSEN TV 4
-      - MOHSEN TV 5
-      - MOHSEN TS 3
-      - MOHSEN TS 4
-      - MOHSEN TS 7
-      - MOHSEN TS 8
-      - MOHSEN TS 9
-      - MOHSEN TS 10
+      - MOHSEN EP 1
+      - MOHSEN EP 2
+      - MOHSEN EP 3
+      - MOHSEN EP 4
       - MOHSEN S A 1
       - MOHSEN S A 2
       - MOHSEN S A 3
@@ -607,20 +588,6 @@ proxy-groups:
       - MOHSEN S D 42
       - MOHSEN S D 43
       - MOHSEN S D 44
-      - MOHSEN BP N1
-      - MOHSEN BP 1
-      - MOHSEN BP 2
-      - MOHSEN BP 3
-      - MOHSEN BP 4N
-      - MOHSEN BP 4
-      - MOHSEN BP 5
-      - MOHSEN BP 6
-      - MOHSEN BP 7
-      - MOHSEN BP 8
-      - MOHSEN EP 1
-      - MOHSEN EP 2
-      - MOHSEN EP 3
-      - MOHSEN EP 4
       - MOHSEN U N 1
       - MOHSEN U N 2
       - MOHSEN U N 3
@@ -765,8 +732,17 @@ proxy-groups:
       - MOHSEN N 12
       - MOHSEN N 13
       - MOHSEN N 14
-      - MOHSEN V 1
-      - MOHSEN V 2
+      - MOHSEN TV 1
+      - MOHSEN TV 2
+      - MOHSEN TV 3
+      - MOHSEN TV 4
+      - MOHSEN TV 5
+      - MOHSEN TS 3
+      - MOHSEN TS 4
+      - MOHSEN TS 7
+      - MOHSEN TS 8
+      - MOHSEN TS 9
+      - MOHSEN TS 10
 rules:
  - MATCH,🎯 Select automatically
  
