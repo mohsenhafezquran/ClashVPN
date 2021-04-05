@@ -1,10 +1,35 @@
 port: 7890
 socks-port: 7891
-allow-lan: true
+allow-lan: false
+ipv6: false
 mode: Rule
-log-level: info
-external-controller: 127.0.0.1:9090
-
+log-level: silent
+dns:
+  enable: true
+  ipv6: false
+  nameserver:
+    - https://dns.aa.net.uk/dns-query
+    - https://dns.arapurayil.com/dns-query
+    - https://dns1.ryan-palmer.com/dns-query
+    - https://doh-2.seby.io:443/dns-query
+    - https://dns.nextdns.io/dnscrypt-proxy
+    - https://doh.libredns.gr/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.alidns.com/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.dnshome.de/dns-query
+    - https://doh.pi-dns.com/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dnses.alekberg.net/dns-query
+    - tls://dns.quad9.net:853
+    - tls://cloudflare-dns.com:853
+    - tls://dns.google:853
+    - tls://dot.xfinity.com:853
+    - tls://dns.aa.net.uk:853
+    - tls://dns.quad9.net:853
+    - tls://dot.libredns.gr:853
+    - tls://185.253.154.66:4343
+    - tls://116.202.176.26:853
 proxies:
   - {name: MOHSEN TV 1, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
   - {name: MOHSEN TV 2, server: 130.0.233.26, port: 3000, type: vmess, uuid: a92d8ef9-fb27-4d40-9a99-b089b054a92f, alterId: 0, cipher: auto, tls: false}
@@ -371,7 +396,6 @@ proxies:
   - {name: MOHSEN N 14, server: 45.77.25.146, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
   - {name: MOHSEN V 1, server: 51.158.150.84, port: 49031, type: vmess, uuid: 3f09cac8-53ab-4a6b-ba31-09b85910c8f3, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 51.158.150.84}}
   - {name: MOHSEN V 2, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
-  
 proxy-groups:
   - name: 🎯 Select automatically
     type: url-test
@@ -743,6 +767,6 @@ proxy-groups:
       - MOHSEN N 14
       - MOHSEN V 1
       - MOHSEN V 2
-      
 rules:
  - MATCH,🎯 Select automatically
+ 
