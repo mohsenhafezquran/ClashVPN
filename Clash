@@ -4,32 +4,6 @@ allow-lan: false
 ipv6: false
 mode: Rule
 log-level: silent
-dns:
-  enable: true
-  ipv6: false
-  nameserver:
-    - https://dns.aa.net.uk/dns-query
-    - https://dns.arapurayil.com/dns-query
-    - https://dns1.ryan-palmer.com/dns-query
-    - https://doh-2.seby.io:443/dns-query
-    - https://dns.nextdns.io/dnscrypt-proxy
-    - https://doh.libredns.gr/dns-query
-    - https://dnsforge.de/dns-query
-    - https://dns.alidns.com/dns-query
-    - https://cloudflare-dns.com/dns-query
-    - https://dns.dnshome.de/dns-query
-    - https://doh.pi-dns.com/dns-query
-    - https://dns.quad9.net/dns-query
-    - https://dnses.alekberg.net/dns-query
-    - tls://dns.quad9.net:853
-    - tls://cloudflare-dns.com:853
-    - tls://dns.google:853
-    - tls://dot.xfinity.com:853
-    - tls://dns.aa.net.uk:853
-    - tls://dns.quad9.net:853
-    - tls://dot.libredns.gr:853
-    - tls://185.253.154.66:4343
-    - tls://116.202.176.26:853
 proxies:
   - {name: MOHSEN EP 1, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
@@ -745,4 +719,3 @@ proxy-groups:
       - MOHSEN TS 10
 rules:
  - MATCH,🎯 Select automatically
- 
