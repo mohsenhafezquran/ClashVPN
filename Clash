@@ -4,7 +4,68 @@ allow-lan: false
 ipv6: false
 mode: Rule
 log-level: silent
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 127.8.0.1/16
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fallback:
+    - 1.1.1.1
+    - 8.8.8.8
 proxies:
+  - {name: MOHSEN S 1, server: 185.102.219.48, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 2, server: 176.222.34.121, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 3, server: 193.228.193.171, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 4, server: 185.137.138.26, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 5, server: 138.199.16.142, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 6, server: 82.102.16.100, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 7, server: 143.244.42.76, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: MOHSEN S 8, server: 91.219.215.69, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 9, server: 143.244.42.91, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 10, server: 193.29.107.179, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 11, server: 195.158.249.38, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 12, server: 185.210.217.187, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 13, server: 5.226.139.234, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 14, server: 89.34.96.49, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 15, server: 18.185.63.41, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 16, server: 51.178.133.154, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 17, server: 194.150.167.38, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: MOHSEN S 18, server: 178.132.3.123, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 19, server: 185.104.184.78, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 20, server: 89.34.96.57, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 21, server: 188.92.78.150, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 22, server: 91.90.121.163, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 23, server: 194.110.115.67, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: MOHSEN S 24, server: 109.230.215.10, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 25, server: 152.89.160.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: MOHSEN S 26, server: 138.199.16.135, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 27, server: 51.210.113.68, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 28, server: 194.150.167.40, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 29, server: 185.114.224.119, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 30, server: 91.90.123.187, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 31, server: 213.136.64.21, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 32, server: 34.244.63.147, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 33, server: 152.89.160.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 34, server: 188.92.78.150, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 35, server: 185.166.84.95, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 36, server: 185.166.84.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 37, server: 185.76.8.212, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 38, server: 185.108.106.51, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 39, server: 84.17.60.250, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: MOHSEN S 40, server: 143.244.42.86, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 41, server: 194.150.167.30, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 42, server: 185.108.106.148, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 43, server: 185.166.84.83, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 44, server: 194.150.167.46, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: MOHSEN S 45, server: 5.226.139.216, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 46, server: 178.132.3.141, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN S 47, server: 195.158.249.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: MOHSEN S 48, server: 194.37.98.211, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 49, server: 143.244.57.91, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: MOHSEN S 50, server: 185.166.84.19, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: MOHSEN S A 1, server: 185.153.150.46, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 2, server: 212.102.54.170, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 3, server: 89.164.99.136, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -270,6 +331,56 @@ proxy-groups:
     url: https://www.google.com
     interval: 300
     proxies:
+      - MOHSEN S 1
+      - MOHSEN S 2
+      - MOHSEN S 3
+      - MOHSEN S 4
+      - MOHSEN S 5
+      - MOHSEN S 6
+      - MOHSEN S 7
+      - MOHSEN S 8
+      - MOHSEN S 9
+      - MOHSEN S 10
+      - MOHSEN S 11
+      - MOHSEN S 12
+      - MOHSEN S 13
+      - MOHSEN S 14
+      - MOHSEN S 15
+      - MOHSEN S 16
+      - MOHSEN S 17
+      - MOHSEN S 18
+      - MOHSEN S 19
+      - MOHSEN S 20
+      - MOHSEN S 21
+      - MOHSEN S 22
+      - MOHSEN S 23
+      - MOHSEN S 24
+      - MOHSEN S 25
+      - MOHSEN S 26
+      - MOHSEN S 27
+      - MOHSEN S 28
+      - MOHSEN S 29
+      - MOHSEN S 30
+      - MOHSEN S 31
+      - MOHSEN S 32
+      - MOHSEN S 33
+      - MOHSEN S 34
+      - MOHSEN S 35
+      - MOHSEN S 36
+      - MOHSEN S 37
+      - MOHSEN S 38
+      - MOHSEN S 39
+      - MOHSEN S 40
+      - MOHSEN S 41
+      - MOHSEN S 42
+      - MOHSEN S 43
+      - MOHSEN S 44
+      - MOHSEN S 45
+      - MOHSEN S 46
+      - MOHSEN S 47
+      - MOHSEN S 48
+      - MOHSEN S 49
+      - MOHSEN S 50
       - MOHSEN S A 1
       - MOHSEN S A 2
       - MOHSEN S A 3
