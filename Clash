@@ -224,38 +224,29 @@ proxies:
   - {name: MOHSEN T 11, server: se.timevpn.com, port: 25377, type: ss, cipher: aes-256-cfb, password: w9CKeVz}
   - {name: MOHSEN T 12, server: de.timevpn.com, port: 54684, type: ss, cipher: aes-256-cfb, password: NJ6Wxez}
   - {name: MOHSEN T 13, server: 80.79.125.71, port: 3000, type: vmess, uuid: e6b813a1-0d3e-4beb-9715-81ff2a28281b, alterId: 0, cipher: auto, tls: false}
-  - {name: MOHSEN v2 1, server: ss.de.sshmax.net, port: 21474, type: ss, cipher: chacha20-ietf-poly1305, password: cWv8FcJk0VpS}
-  - {name: MOHSEN v2 2, server: ss.uk.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: HgVDIN05O6bH}
-  - {name: MOHSEN v2 3, server: ss.sg.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: o4qygNrXw7cE}
-  - {name: MOHSEN v2 4, server: ss-18.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 5, server: ss-15.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 6, server: ss-13.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 7, server: ss.id.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: ku382YXK8cLE}
-  - {name: MOHSEN v2 8, server: ss-16.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 9, server: ss-03.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 10, server: ss-04.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 11, server: ss-05.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 12, server: ss-06.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 13, server: ss-07.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 14, server: ss-08.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 15, server: ss-09.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 16, server: ss-10.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 17, server: ss-14.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: MOHSEN v2 18, server: ss.au.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: kRAxb8hPUxS0}
-  - {name: MOHSEN v2 19, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
-  - {name: MOHSEN v2 20, server: ss.us.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: T3j6elRwEuA4}
-  - {name: MOHSEN v2 21, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
-  - {name: MOHSEN v2 22, server: ss.ru.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: KACUGSkPS3FG}
-  - {name: MOHSEN v2 23, server: ss.pl.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: M1LCZAlfz1bV}
-  - {name: MOHSEN v2 24, server: ss.fr.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: 6nhHHuGHw2D5}
-  - {name: MOHSEN v2 25, server: ss.us.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: syCiJl3nb8OD}
-  - {name: MOHSEN v2 26, server: ss.sg.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: grtvkkHAinCf}
-  - {name: MOHSEN v2 27, server: ss.sg.sshmax.net, port: 8139, type: ss, cipher: chacha20-ietf-poly1305, password: qyzhBfoKRzXl}
-  - {name: MOHSEN v2 28, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: gmegme.ga}}
-  - {name: MOHSEN v2 29, server: cdn1.ssrsub.one, port: 443, type: vmess, uuid: 41cd5675-26d0-4cfe-947b-1f4ec3593651, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdn1.ssrsub.one}}
-  - {name: MOHSEN v2 30, server: cdn2.ssrsub.one, port: 443, type: vmess, uuid: 5179627c-a4c2-44ba-9587-caac0df1ea93, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdn2.ssrsub.one}}
-  - {name: MOHSEN v2 31, server: cdn3.ssrsub.one, port: 443, type: vmess, uuid: 1e45afb3-895f-4310-8ec7-822f6c9d12c5, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdn3.ssrsub.one}}
-  - {name: MOHSEN v2 32, server: cdn5.ssrsub.one, port: 443, type: vmess, uuid: 6c67580c-a1ac-11eb-a423-11434cb8a4b7, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdn5.ssrsub.one}}
+  - {name: MOHSEN SUB 1, server: ss-11.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: MOHSEN SUB 2, server: ss-12.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: MOHSEN SUB 3, server: ss-13.ssrsub.one, port: 1443, type: ss, cipher: aes-128-gcm, password: dlj.tf/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: MOHSEN SUB 4, server: ss-14.ssrsub.one, port: 152, type: ss, cipher: aes-128-gcm, password: t.me/SSRSUB, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: MOHSEN SUB 5, server: ss.ru.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: KACUGSkPS3FG}
+  - {name: MOHSEN SUB 6, server: ss.pl.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: M1LCZAlfz1bV}
+  - {name: MOHSEN SUB 7, server: ss.id.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: ku382YXK8cLE}
+  - {name: MOHSEN SUB 8, server: gzyd-zz.tsutsu.top, port: 56224, type: vmess, uuid: b3a32dba-55b5-405d-b173-28d1d4b539c1, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: gzyd-zz.tsutsu.top}}
+  - {name: MOHSEN SUB 9, server: zhongzhuangazhk2.xiaobaiyun.me, port: 800, type: vmess, uuid: 6d04dd65-c0b0-38b0-8d3a-be30a68cb55d, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: els.xiaobaiyun.me}}
+  - {name: MOHSEN SUB 10, server: 13.230.147.52, port: 80, type: vmess, uuid: d494263d-d317-4d74-971c-3ffc7a427c2b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.230.147.52}}
+  - {name: MOHSEN SUB 11, server: ss.au.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: kRAxb8hPUxS0}
+  - {name: MOHSEN SUB 12, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
+  - {name: MOHSEN SUB 13, server: ss.us.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: T3j6elRwEuA4}
+  - {name: MOHSEN SUB 14, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
+  - {name: MOHSEN SUB 15, server: ss.fr.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: 6nhHHuGHw2D5}
+  - {name: MOHSEN SUB 16, server: ss.de.sshmax.net, port: 21474, type: ss, cipher: chacha20-ietf-poly1305, password: HgCMlgbtQMxl}
+  - {name: MOHSEN SUB 17, server: ss.us.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: syCiJl3nb8OD}
+  - {name: MOHSEN SUB 18, server: ss.uk.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: HgVDIN05O6bH}
+  - {name: MOHSEN SUB 19, server: ss.sg.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: grtvkkHAinCf}
+  - {name: MOHSEN SUB 20, server: ss.sg.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: o4qygNrXw7cE}
+  - {name: MOHSEN SUB 21, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: MOHSEN SUB 22, server: in1-relay.kejibearnode.cf, port: 10015, type: vmess, uuid: 3647ebdb-fa25-385f-a78b-f137811e586f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: in1-relay.kejibearnode.cf}}
+  - {name: MOHSEN SUB 23, server: gzyd-zz.tsutsu.top, port: 48376, type: vmess, uuid: 52e423e2-1adc-4046-8807-af2ef38ab688, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: gzyd-zz.tsutsu.top}}
 proxy-groups:
   - name: 🎯 Select automatically
     type: url-test
@@ -481,37 +472,28 @@ proxy-groups:
       - MOHSEN T 11
       - MOHSEN T 12
       - MOHSEN T 13
-      - MOHSEN v2 1
-      - MOHSEN v2 2
-      - MOHSEN v2 3
-      - MOHSEN v2 4
-      - MOHSEN v2 5
-      - MOHSEN v2 6
-      - MOHSEN v2 7
-      - MOHSEN v2 8
-      - MOHSEN v2 9
-      - MOHSEN v2 10
-      - MOHSEN v2 11
-      - MOHSEN v2 12
-      - MOHSEN v2 13
-      - MOHSEN v2 14
-      - MOHSEN v2 15
-      - MOHSEN v2 16
-      - MOHSEN v2 17
-      - MOHSEN v2 18
-      - MOHSEN v2 19
-      - MOHSEN v2 20
-      - MOHSEN v2 21
-      - MOHSEN v2 22
-      - MOHSEN v2 23
-      - MOHSEN v2 24
-      - MOHSEN v2 25
-      - MOHSEN v2 26
-      - MOHSEN v2 27
-      - MOHSEN v2 28
-      - MOHSEN v2 29
-      - MOHSEN v2 30
-      - MOHSEN v2 31
-      - MOHSEN v2 32
+      - MOHSEN SUB 1
+      - MOHSEN SUB 2
+      - MOHSEN SUB 3
+      - MOHSEN SUB 4
+      - MOHSEN SUB 5
+      - MOHSEN SUB 6
+      - MOHSEN SUB 7
+      - MOHSEN SUB 8
+      - MOHSEN SUB 9
+      - MOHSEN SUB 10
+      - MOHSEN SUB 11
+      - MOHSEN SUB 12
+      - MOHSEN SUB 13
+      - MOHSEN SUB 14
+      - MOHSEN SUB 15
+      - MOHSEN SUB 16
+      - MOHSEN SUB 17
+      - MOHSEN SUB 18
+      - MOHSEN SUB 19
+      - MOHSEN SUB 20
+      - MOHSEN SUB 21
+      - MOHSEN SUB 22
+      - MOHSEN SUB 23
 rules:
  - MATCH,🎯 Select automatically
