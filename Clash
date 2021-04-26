@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: MOHSEN U A, server: 135.125.158.159, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U A 1, server: 185.137.138.26, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U A 2, server: 89.34.96.59, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U A 3, server: 89.34.96.57, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -105,106 +106,106 @@ proxies:
   - {name: MOHSEN U B 48, server: 163.172.110.119, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U B 49, server: 163.172.110.53, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN U B 50, server: 163.172.65.156, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: MOHSEN S A 1, server: 185.153.150.46, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 2, server: 212.102.54.170, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 3, server: 89.164.99.136, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 4, server: 185.153.150.48, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 5, server: 103.156.50.115, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 6, server: 193.29.107.237, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 7, server: 68.71.244.222, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 8, server: 104.200.138.147, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 9, server: 192.111.128.136, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 10, server: 185.99.3.141, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 11, server: 212.102.54.177, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 12, server: 212.102.54.175, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 13, server: 107.150.95.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 14, server: 84.17.53.214, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 15, server: 185.99.3.144, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 16, server: 212.102.54.160, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 17, server: 37.120.212.131, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 18, server: 89.187.163.136, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 19, server: 37.120.200.5, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 20, server: 212.102.55.66, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 21, server: 66.115.147.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 22, server: 185.99.3.146, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 23, server: 89.187.163.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 24, server: 192.111.128.138, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 25, server: 156.146.56.135, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 26, server: 107.181.177.183, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 27, server: 84.247.49.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 28, server: 84.247.49.19, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 29, server: 185.99.3.102, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 30, server: 66.115.147.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 31, server: 185.153.151.106, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 32, server: 66.115.182.109, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 33, server: 195.181.166.226, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 34, server: 104.200.131.167, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 35, server: 102.165.47.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 36, server: 172.83.40.147, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 37, server: 172.83.40.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 38, server: 156.146.56.137, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 39, server: 208.78.41.197, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 40, server: 185.99.3.118, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 41, server: 173.237.207.64, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 42, server: 192.111.128.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 43, server: 208.78.41.195, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 44, server: 195.12.48.215, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 45, server: 37.120.200.7, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 46, server: 66.115.182.112, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 47, server: 195.12.48.213, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 48, server: 104.200.131.245, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 49, server: 185.164.34.252, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S A 50, server: 192.111.128.146, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 1, server: 37.120.148.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 2, server: 173.237.207.62, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 3, server: 89.46.223.54, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 4, server: 185.153.151.118, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 5, server: 172.93.153.150, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 6, server: 84.17.53.221, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 7, server: 89.46.223.70, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 8, server: 185.153.151.122, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 9, server: 188.92.78.208, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 10, server: 107.175.104.82, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 11, server: 107.174.20.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 12, server: 172.93.153.146, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 13, server: 172.93.153.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 14, server: 185.153.151.120, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 15, server: 5.187.49.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 16, server: 84.17.53.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 17, server: 107.174.20.132, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 18, server: 5.253.205.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 19, server: 188.92.78.205, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 20, server: 107.174.20.130, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 21, server: 45.248.79.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 22, server: 188.92.78.210, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 23, server: 185.153.151.124, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 24, server: 74.119.146.179, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 25, server: 89.46.223.66, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 26, server: 181.40.18.59, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 27, server: 74.119.146.131, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 28, server: 74.119.146.133, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 29, server: 196.244.191.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 30, server: 45.248.79.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 31, server: 185.153.151.126, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 32, server: 188.92.78.203, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 33, server: 2.58.241.45, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 34, server: 185.108.106.160, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 35, server: 184.170.250.154, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 36, server: 74.119.146.119, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 37, server: 185.108.106.158, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 38, server: 74.119.146.183, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 39, server: 74.119.146.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 40, server: 172.93.146.210, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 41, server: 74.119.146.197, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 42, server: 184.170.250.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 43, server: 104.244.208.205, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 44, server: 184.170.250.152, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 45, server: 45.134.224.18, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 46, server: 194.39.127.151, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 47, server: 64.44.42.162, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 48, server: 89.187.177.122, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 49, server: 74.119.146.195, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
-  - {name: MOHSEN S B 50, server: 185.153.151.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 1, server: 81.19.209.51, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 2, server: 81.19.209.100, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 3, server: 178.239.172.111, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 4, server: 82.102.26.61, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 5, server: 81.19.209.113, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 6, server: 81.19.214.63, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 7, server: 5.226.139.65, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 8, server: 81.19.208.56, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 9, server: 82.102.26.91, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 10, server: 81.19.209.59, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 11, server: 5.226.139.232, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 12, server: 185.141.206.234, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 13, server: 81.19.214.32, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 14, server: 5.226.139.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 15, server: 185.44.78.90, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 16, server: 185.44.76.104, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 17, server: 195.206.169.200, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 18, server: 185.125.207.155, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 19, server: 185.44.76.72, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 20, server: 212.102.35.218, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 21, server: 185.44.76.186, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 22, server: 5.226.139.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 23, server: 185.125.207.177, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 24, server: 143.244.42.89, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 25, server: 143.244.42.76, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 26, server: 5.226.139.225, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 27, server: 82.102.26.93, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 28, server: 5.226.137.10, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 29, server: 185.141.206.230, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 30, server: 81.19.209.120, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 31, server: 143.244.42.86, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 32, server: 185.153.151.89, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 33, server: 194.37.96.243, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 34, server: 185.141.206.250, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 35, server: 185.44.76.188, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 36, server: 185.44.76.55, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 37, server: 81.19.210.241, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 38, server: 185.44.78.174, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 39, server: 212.102.35.199, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 40, server: 89.44.201.181, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 41, server: 195.140.215.42, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 42, server: 194.37.98.235, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 43, server: 185.44.76.164, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 44, server: 185.108.105.5, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 45, server: 185.16.206.116, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 46, server: 212.102.35.214, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 47, server: 194.37.98.229, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 48, server: 185.153.151.140, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 49, server: 185.16.206.75, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S A 50, server: 89.238.130.201, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B, server: 194.37.98.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 2, server: 89.238.141.187, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 3, server: 185.153.151.175, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 4, server: 185.125.207.199, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 5, server: 89.238.143.101, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 6, server: 89.238.130.197, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 7, server: 143.244.42.84, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 8, server: 89.238.130.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 9, server: 185.108.106.166, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 10, server: 143.244.42.81, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 11, server: 185.153.151.118, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 12, server: 185.153.151.102, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 13, server: 2.58.46.5, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 14, server: 84.39.114.83, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 15, server: 2.58.46.3, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 16, server: 185.153.151.62, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 17, server: 89.187.168.41, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 18, server: 194.37.98.3, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 19, server: 194.37.98.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 20, server: 95.174.65.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 21, server: 185.153.151.191, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 22, server: 185.76.8.215, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 23, server: 193.29.107.109, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 24, server: 185.153.151.108, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 25, server: 185.153.151.160, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 26, server: 95.174.65.73, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 27, server: 193.148.17.131, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 28, server: 193.29.107.205, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 29, server: 185.44.78.155, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 30, server: 91.90.121.187, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 31, server: 185.108.106.142, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 32, server: 82.102.26.59, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 33, server: 45.12.221.181, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 34, server: 143.244.42.91, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 35, server: 193.29.107.93, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 36, server: 84.17.62.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 37, server: 185.59.222.94, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 38, server: 185.76.9.44, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 39, server: 185.153.151.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 40, server: 193.29.107.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 41, server: 185.153.151.167, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 42, server: 185.108.106.171, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 43, server: 185.153.151.189, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 44, server: 185.153.151.124, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 45, server: 185.153.151.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 46, server: 193.29.107.195, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 47, server: 193.29.107.235, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 48, server: 185.108.106.180, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 49, server: 185.153.151.91, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S B 50, server: 193.29.107.213, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN EP 1, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
   - {name: MOHSEN EP 3, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
@@ -261,6 +262,7 @@ proxy-groups:
     url: https://www.google.com
     interval: 300
     proxies:
+      - MOHSEN U A
       - MOHSEN U A 1
       - MOHSEN U A 2
       - MOHSEN U A 3
