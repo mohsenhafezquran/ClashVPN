@@ -205,10 +205,16 @@ proxies:
   - {name: MOHSEN S D 48, server: 217.138.219.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S D 49, server: 185.16.206.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S D 50, server: 185.44.76.55, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN EP 0, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: MOHSEN EP 1, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
   - {name: MOHSEN EP 3, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
   - {name: MOHSEN EP 4, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
+  - {name: MOHSEN HV 1, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
+  - {name: MOHSEN HV 2, server: 176.31.146.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7Zo1naHUEndM}
+  - {name: MOHSEN HV 3, server: 136.243.158.13, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 1k4eQUgnZPRh}
+  - {name: MOHSEN HV 4, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
+  - {name: MOHSEN HV 5, server: 51.89.89.110, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: PT2VpfD8Y4T8}
   - {name: MOHSEN T, server: 45.93.217.219, port: 8810, type: ss, cipher: aes-256-gcm, password: 2397226CbL5YKE5qwcG9W}
   - {name: MOHSEN T 1, server: 207.246.107.132, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
   - {name: MOHSEN T 2, server: 139.180.156.158, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
@@ -452,10 +458,16 @@ proxy-groups:
       - MOHSEN S D 48
       - MOHSEN S D 49
       - MOHSEN S D 50
+      - MOHSEN EP 0
       - MOHSEN EP 1
       - MOHSEN EP 2
       - MOHSEN EP 3
       - MOHSEN EP 4
+      - MOHSEN HV 1
+      - MOHSEN HV 2
+      - MOHSEN HV 3
+      - MOHSEN HV 4
+      - MOHSEN HV 5
       - MOHSEN T
       - MOHSEN T 1
       - MOHSEN T 2
