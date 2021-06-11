@@ -5,6 +5,16 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: MOHSEN U 1, server: 135.125.248.215, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 2, server: 167.88.63.29, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 3, server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 4, server: 167.88.63.29, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 5, server: 135.125.248.215, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 6, server: 35.154.201.59, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 7, server: 178.132.3.124, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 8, server: 15.236.142.139, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 9, server: 18.185.63.41, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 10, server: 15.236.142.139, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN S A 1, server: 81.19.209.51, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 2, server: 81.19.209.100, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 3, server: 178.239.172.111, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -258,6 +268,16 @@ proxy-groups:
     url: https://www.google.com
     interval: 300
     proxies:
+      - MOHSEN U 1
+      - MOHSEN U 2
+      - MOHSEN U 3
+      - MOHSEN U 4
+      - MOHSEN U 5
+      - MOHSEN U 6
+      - MOHSEN U 7
+      - MOHSEN U 8
+      - MOHSEN U 9
+      - MOHSEN U 10
       - MOHSEN S A 1
       - MOHSEN S A 2
       - MOHSEN S A 3
