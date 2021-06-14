@@ -272,6 +272,13 @@ proxies:
   - {name: MOHSEN SV 21, server: 3.66.221.175, port: 31186, type: vmess, uuid: 3ebad99a-4470-4998-94be-43046d0b4986, alterId: 64, cipher: auto, tls: false}
   - {name: MOHSEN SV 22, server: 13.51.207.45, port: 24226, type: vmess, uuid: e9824a8c-ae12-4a33-909b-a87459a7c8dd, alterId: 64, cipher: auto, tls: false}
   - {name: MOHSEN SV 23, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
+  - {name: MOHSEN 1, server: 172.104.203.132, port: 4001, type: ss, cipher: aes-256-gcm, password: f833abce-00af-4058-adb4-0c44df8cdf7e}
+  - {name: MOHSEN 2, server: 176.58.101.13, port: 4001, type: ss, cipher: aes-256-gcm, password: badabc95-f120-49a0-acca-a566b6af7689}
+  - {name: MOHSEN 3, server: 217.69.10.197, port: 51904, type: ss, cipher: aes-256-gcm, password: UkkGvkfLBD}
+  - {name: MOHSEN 4, server: 137.220.33.225, port: 32343, type: ss, cipher: aes-256-gcm, password: 6tHzmvYjou}
+  - {name: MOHSEN 5, server: 185.159.68.24, port: 15347, type: ss, cipher: aes-256-gcm, password: X2uWzchbqu}
+  - {name: MOHSEN 6, server: 45.77.67.131, port: 22449, type: ss, cipher: aes-256-gcm, password: jvkPOEQLpr}
+  - {name: MOHSEN 7, server: 135.125.190.15, port: 11778, type: ss, cipher: aes-256-gcm, password: 5afy34k9a2}
 proxy-groups:
   - name: 🎯 Select automatically
     type: url-test
@@ -545,5 +552,12 @@ proxy-groups:
       - MOHSEN SV 21
       - MOHSEN SV 22
       - MOHSEN SV 23
+      - MOHSEN 1
+      - MOHSEN 2
+      - MOHSEN 3
+      - MOHSEN 4
+      - MOHSEN 5
+      - MOHSEN 6
+      - MOHSEN 7
 rules:
  - MATCH,🎯 Select automatically
