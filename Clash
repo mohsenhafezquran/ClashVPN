@@ -170,6 +170,8 @@ proxies:
   - {name: MOHSEN SV 13, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false}
   - {name: MOHSEN SV 14, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: MOHSEN SV 15, server: 165.154.234.111, port: 41182, type: vmess, uuid: 610a5731-123c-4e8d-8f82-2d96459e42f5, alterId: 64, cipher: auto, tls: false}
+  - {name: National 1, server: Triple-f.xyz, port: 8081, type: ss, cipher: aes-256-gcm, password: Khozestan}
+  - {name: National 2, server: 185.141.107.129, port: 50987, type: ss, cipher: chacha20-ietf-poly1305, password: 3gs5nxc5Wl4m}
 proxy-groups:
   - name: 🎯 Select automatically
     type: url-test
@@ -330,5 +332,7 @@ proxy-groups:
       - MOHSEN SV 13
       - MOHSEN SV 14
       - MOHSEN SV 15
+      - National 1
+      - National 2
 rules:
  - MATCH,🎯 Select automatically
