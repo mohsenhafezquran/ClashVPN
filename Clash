@@ -21,6 +21,10 @@ proxies:
   - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
   - {name: MOHSEN EP 3, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
   - {name: MOHSEN EP 4, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
+  - {name: MOHSEN BP 1, server: 217.70.189.155, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bOOi88mJwE8y}
+  - {name: MOHSEN BP 2, server: 194.34.133.168, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QiITD07tVIlT}
+  - {name: MOHSEN BP 3, server: 167.86.82.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: JxbSUY8eYJoN}
+  - {name: MOHSEN BP 4, server: 37.218.241.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: imLTvDJBzurf}
   - {name: MOHSEN S A 1, server: 138.199.19.192, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 2, server: 212.102.54.175, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S A 3, server: 81.19.209.20, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -176,6 +180,10 @@ proxy-groups:
       - MOHSEN EP 2
       - MOHSEN EP 3
       - MOHSEN EP 4
+      - MOHSEN BP 1
+      - MOHSEN BP 2
+      - MOHSEN BP 3
+      - MOHSEN BP 4
       - MOHSEN S A 1
       - MOHSEN S A 2
       - MOHSEN S A 3
