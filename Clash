@@ -10,10 +10,10 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
-    - https://cloudflare-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
     - https://dns.google/dns-query
   fallback:
-    - https://cloudflare-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
     - https://dns.google/dns-query
 proxies:
   - {name: MOHSEN EP 0, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -195,15 +195,15 @@ proxies:
   - {name: MOHSEN PV 3, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
   - {name: MOHSEN PV 4, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
   - {name: MOHSEN PV 5, server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
-  - {name: "MOHSEN SQV 1", server: 141.98.116.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 2", server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 3", server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 4", server: 37.48.80.203, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 5", server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 6", server: 119.59.113.121, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 7", server: 54.180.135.103, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 8", server: 185.172.113.58, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
-  - {name: "MOHSEN SQV 9", server: 185.225.19.64, port: 50002, type: ss, cipher: aes-256-cfb, password: !<str> 9280247878}
+  - {name: MOHSEN SQV 1, server: 141.98.116.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 2, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 3, server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 4, server: 37.48.80.203, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 5, server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 6, server: 119.59.113.121, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 7, server: 54.180.135.103, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 8, server: 185.172.113.58, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 9, server: 185.225.19.64, port: 50002, type: ss, cipher: aes-256-cfb, password: !<str> 9280247878}
   - {name: MOHSEN Z 1, server: 142.202.48.43, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: MOHSEN Z 2, server: 89.163.212.75, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: MOHSEN Z 3, server: 185.213.21.7, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
@@ -219,7 +219,7 @@ proxies:
   - {name: MOHSEN T 4, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
   - {name: MOHSEN T 5, server: de.timevpn.com, port: 54684, type: ss, cipher: aes-256-cfb, password: NJ6Wxez}
 proxy-groups:
-  - name: 🎯 Select automatically
+  - name: ⚡Fastest server
     type: url-test
     url: https://www.google.com
     interval: 300
@@ -403,15 +403,15 @@ proxy-groups:
       - MOHSEN PV 3
       - MOHSEN PV 4
       - MOHSEN PV 5
-      - "MOHSEN SQV 1"
-      - "MOHSEN SQV 2"
-      - "MOHSEN SQV 3"
-      - "MOHSEN SQV 4"
-      - "MOHSEN SQV 5"
-      - "MOHSEN SQV 6"
-      - "MOHSEN SQV 7"
-      - "MOHSEN SQV 8"
-      - "MOHSEN SQV 9"
+      - MOHSEN SQV 1
+      - MOHSEN SQV 2
+      - MOHSEN SQV 3
+      - MOHSEN SQV 4
+      - MOHSEN SQV 5
+      - MOHSEN SQV 6
+      - MOHSEN SQV 7
+      - MOHSEN SQV 8
+      - MOHSEN SQV 9
       - MOHSEN Z 1
       - MOHSEN Z 2
       - MOHSEN Z 3
@@ -427,4 +427,4 @@ proxy-groups:
       - MOHSEN T 4
       - MOHSEN T 5
 rules:
- - MATCH,🎯 Select automatically
+ - MATCH,⚡Fastest server
