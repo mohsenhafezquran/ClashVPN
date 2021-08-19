@@ -1,12 +1,12 @@
 port: 7890
 socks-port: 7891
-allow-lan: true
-ipv6: true
+allow-lan: false
 mode: Rule
 log-level: silent
+external-controller: 127.0.0.1:9090
 dns:
   enable: true
-  ipv6: true
+  ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
@@ -219,7 +219,7 @@ proxies:
   - {name: MOHSEN T 4, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
   - {name: MOHSEN T 5, server: de.timevpn.com, port: 54684, type: ss, cipher: aes-256-cfb, password: NJ6Wxez}
 proxy-groups:
-  - name: ⚡Fastest server⚡
+  - name: ⚡Fastest server
     type: url-test
     url: https://www.google.com
     interval: 300
@@ -427,4 +427,4 @@ proxy-groups:
       - MOHSEN T 4
       - MOHSEN T 5
 rules:
- - MATCH,⚡Fastest server⚡
+ - MATCH,⚡Fastest server
