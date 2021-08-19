@@ -10,10 +10,10 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
-    - https://dns.adguard.com/dns-query
+    - https://dns.cloudflare.com/dns-query
     - https://dns.google/dns-query
   fallback:
-    - https://dns.adguard.com/dns-query
+    - https://dns.cloudflare.com/dns-query
     - https://dns.google/dns-query
 proxies:
   - {name: MOHSEN EP 0, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
