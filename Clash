@@ -426,5 +426,9 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
+  - name: Updated 1400/05/29
+    type: select
+    proxies:
+      - DIRECT
 rules:
- - MATCH,⚡Fastest server
+ - MATCH, ⚡Fastest server
