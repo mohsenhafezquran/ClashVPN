@@ -431,6 +431,7 @@ proxy-groups:
   - name: 🗓 1400/05/29
     type: select
     proxies:
+      - ⚡Fastest server
       - DIRECT
 rules:
  - MATCH, ⚡Fastest server
