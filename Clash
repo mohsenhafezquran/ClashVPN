@@ -223,7 +223,7 @@ proxies:
 proxy-groups:
   - name: ⚡Fastest server
     type: url-test
-    url: https://www.google.com
+    url: 'http://www.gstatic.com/generate_204'
     interval: 300
     proxies:
       - MOHSEN EP 0
@@ -431,7 +431,6 @@ proxy-groups:
   - name: 🗓 1400/05/29
     type: select
     proxies:
-      - ⚡Fastest server
       - DIRECT
 rules:
  - MATCH, ⚡Fastest server
