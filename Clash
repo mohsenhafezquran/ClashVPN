@@ -349,7 +349,7 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
-  - name: 🗓 1400/06/05
+  - name: 🗓 1400/06/08
     type: select
     proxies:
       - DIRECT
