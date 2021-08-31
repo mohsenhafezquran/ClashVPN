@@ -14,6 +14,12 @@ proxies:
   - {name: MOHSEN BP 2, server: 194.34.133.168, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QiITD07tVIlT}
   - {name: MOHSEN BP 3, server: 167.86.82.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: JxbSUY8eYJoN}
   - {name: MOHSEN BP 4, server: 37.218.241.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: imLTvDJBzurf}
+  - {name: MOHSEN BN 1, server: 134.195.196.118, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 2, server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 3, server: 146.0.36.44, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 4, server: 46.29.219.246, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 5, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 6, server: 149.7.16.10, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: MOHSEN S 1, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 2, server: 91.90.123.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 3, server: 91.90.123.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -189,6 +195,12 @@ proxy-groups:
       - MOHSEN BP 2
       - MOHSEN BP 3
       - MOHSEN BP 4
+      - MOHSEN BN 1
+      - MOHSEN BN 2
+      - MOHSEN BN 3
+      - MOHSEN BN 4
+      - MOHSEN BN 5
+      - MOHSEN BN 6
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
@@ -349,7 +361,7 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
-  - name: 🗓 1400/06/08
+  - name: 🗓 1400/06/09
     type: select
     proxies:
       - DIRECT
