@@ -383,4 +383,4 @@ proxy-groups:
     proxies:
       - DIRECT
 rules:
- - MATCH, ⚡Fastest server,dns-failed
+ - MATCH,,⚡Fastest server,dns-failed
