@@ -385,4 +385,4 @@ proxy-groups:
     proxies:
       - DIRECT
 rules:
- - MATCH,⚡Fastest server
+ - MATCH,,⚡Fastest server,dns-failed
