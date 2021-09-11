@@ -23,6 +23,14 @@ proxies:
   - {name: MOHSEN BN 7, server: 185.243.214.55, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
   - {name: MOHSEN BN 8, server: 51.222.142.94, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
   - {name: MOHSEN BN 9, server: 3.36.99.38, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
+  - {name: MOHSEN BN 10, server: 165.227.30.115, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: n20olPthkF27}
+  - {name: MOHSEN BN 11, server: 206.81.21.204, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WxY7xcCSkOm3}
+  - {name: MOHSEN BN 12, server: 165.227.30.44, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8i0K7bEQt1CK}
+  - {name: MOHSEN BN 13, server: 138.197.200.21, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i2j3yqOc54cJ}
+  - {name: MOHSEN BN 14, server: 159.89.139.140, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YFa77Byaec74}
+  - {name: MOHSEN BN 15, server: 45.76.32.81, port: 80, type: vmess, uuid: 34d4f63d-5b48-4141-84f2-00e7a67dac85, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.76.32.81}}
+  - {name: MOHSEN BN 16, server: 199.247.12.184, port: 80, type: vmess, uuid: 43b7c40a-4a05-4f53-8863-ac862066f1dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 199.247.12.184}}
+  - {name: MOHSEN BN 17, server: 95.179.200.10, port: 80, type: vmess, uuid: ba13c4c7-6c2d-4add-ca67-db275c0b8fc0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 95.179.200.10}}
   - {name: MOHSEN S 1, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 2, server: 91.90.123.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 3, server: 91.90.123.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -207,6 +215,14 @@ proxy-groups:
       - MOHSEN BN 7
       - MOHSEN BN 8
       - MOHSEN BN 9
+      - MOHSEN BN 10
+      - MOHSEN BN 11
+      - MOHSEN BN 12
+      - MOHSEN BN 13
+      - MOHSEN BN 14
+      - MOHSEN BN 15
+      - MOHSEN BN 16
+      - MOHSEN BN 17
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
@@ -367,7 +383,7 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
-  - name: 🗓 1400/06/14
+  - name: 🗓 1400/06/21
     type: select
     proxies:
       - DIRECT
