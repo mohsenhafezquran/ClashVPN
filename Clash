@@ -31,6 +31,7 @@ proxies:
   - {name: MOHSEN BN 15, server: 45.76.32.81, port: 80, type: vmess, uuid: 34d4f63d-5b48-4141-84f2-00e7a67dac85, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.76.32.81}}
   - {name: MOHSEN BN 16, server: 199.247.12.184, port: 80, type: vmess, uuid: 43b7c40a-4a05-4f53-8863-ac862066f1dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 199.247.12.184}}
   - {name: MOHSEN BN 17, server: 95.179.200.10, port: 80, type: vmess, uuid: ba13c4c7-6c2d-4add-ca67-db275c0b8fc0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 95.179.200.10}}
+  - {name: MOHSEN BN 18, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: MOHSEN S 1, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 2, server: 91.90.123.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
   - {name: MOHSEN S 3, server: 91.90.123.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
@@ -223,6 +224,7 @@ proxy-groups:
       - MOHSEN BN 15
       - MOHSEN BN 16
       - MOHSEN BN 17
+      - MOHSEN BN 18
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
