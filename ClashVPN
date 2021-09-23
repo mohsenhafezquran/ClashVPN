@@ -5,502 +5,390 @@ ipv6: false
 mode: Global
 log-level: silent
 proxies:
-  - {name: BE 🇧🇪 Brussels 1, server: 91.90.123.131, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Brussels 2, server: 91.90.123.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Brussels 3, server: 91.90.123.187, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Brussels 4, server: 91.90.123.211, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Antwerp 1, server: 188.95.55.113, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Antwerp 2, server: 188.95.55.114, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Antwerp 3, server: 188.95.55.120, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BE 🇧🇪 Antwerp 4, server: 188.95.55.121, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: LU 🇱🇺 Luxembourg 1, server: 185.153.151.60, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: LU 🇱🇺 Luxembourg 2, server: 185.153.151.82, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: LU 🇱🇺 Luxembourg 3, server: 185.153.151.134, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: LU 🇱🇺 Luxembourg 4, server: 185.153.151.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Gdansk 1, server: 5.187.49.187, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Gdansk 2, server: 5.187.49.148, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Gdansk 3, server: 5.133.14.198, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Gdansk 4, server: 5.187.49.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Warsaw 1, server: 185.246.208.182, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Warsaw 2, server: 5.253.206.229, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Warsaw 3, server: 185.246.208.176, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PL 🇵🇱 Warsaw 4, server: 138.199.17.132, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Paris 1, server: 143.244.57.106, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Paris 2, server: 143.244.57.119, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Paris 3, server: 143.244.57.118, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Paris 4, server: 84.17.60.250, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Marseille 1, server: 185.166.84.51, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Marseille 2, server: 185.166.84.73, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Marseille 3, server: 185.166.84.21, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Marseille 4, server: 185.166.84.81, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Bordeaux 1, server: 185.108.106.145, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Bordeaux 2, server: 185.108.106.106, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Bordeaux 3, server: 185.108.106.104, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FR 🇫🇷 Bordeaux 4, server: 185.108.106.105, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Berlin 1, server: 193.29.106.213, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Berlin 2, server: 193.29.106.149, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Berlin 3, server: 193.29.106.148, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Berlin 4, server: 193.29.106.214, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main 1, server: 185.102.219.51, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main 2, server: 138.199.19.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main 3, server: 138.199.19.170, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main 4, server: 138.199.19.137, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AZ 🇦🇿 Baku 1, server: 94.20.154.61, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AZ 🇦🇿 Baku 2, server: 62.212.239.51, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AZ 🇦🇿 Baku 3, server: 62.212.239.45, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AZ 🇦🇿 Baku 4, server: 94.20.154.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NL 🇳🇱 Amsterdam 1, server: 212.102.35.201, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NL 🇳🇱 Amsterdam 2, server: 89.46.223.214, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NL 🇳🇱 Amsterdam 3, server: 89.46.223.66, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NL 🇳🇱 Amsterdam 4, server: 89.46.223.239, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DK 🇩🇰 Copenhagen 1, server: 193.29.107.219, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DK 🇩🇰 Copenhagen 2, server: 193.29.107.195, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DK 🇩🇰 Copenhagen 3, server: 193.29.107.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: DK 🇩🇰 Copenhagen 4, server: 193.29.107.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Rome 1, server: 82.102.26.60, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Rome 2, server: 82.102.26.102, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Rome 3, server: 82.102.26.100, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Rome 4, server: 82.102.26.101, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Milan 1, server: 212.102.54.168, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Milan 2, server: 212.102.54.183, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Milan 3, server: 212.102.54.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IT 🇮🇹 Milan 4, server: 212.102.54.150, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FI 🇫🇮 Helsinki 1, server: 196.196.203.101, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FI 🇫🇮 Helsinki 2, server: 196.196.203.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FI 🇫🇮 Helsinki 3, server: 196.196.203.107, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: FI 🇫🇮 Helsinki 4, server: 196.196.203.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CH 🇨🇭 Zurich 1, server: 156.146.62.57, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CH 🇨🇭 Zurich 2, server: 156.146.62.41, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CH 🇨🇭 Zurich 3, server: 156.146.62.34, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CH 🇨🇭 Zurich 4, server: 156.146.62.46, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 London 1, server: 178.239.166.231, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 London 2, server: 185.44.77.60, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 London 3, server: 185.125.207.201, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 London 4, server: 5.226.139.232, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Glasgow 1, server: 185.108.105.98, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Glasgow 2, server: 185.108.105.81, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Glasgow 3, server: 185.108.105.97, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Glasgow 4, server: 185.108.105.82, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Manchester 1, server: 194.37.98.229, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Manchester 2, server: 194.37.98.220, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Manchester 3, server: 194.37.98.235, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GB 🇬🇧 Manchester 4, server: 81.92.205.115, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Latham 1, server: 45.43.19.92, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Latham 2, server: 192.154.248.179, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Latham 3, server: 45.43.19.68, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Latham 4, server: 45.43.19.82, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Boston 1, server: 173.237.207.66, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Boston 2, server: 173.237.207.54, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Boston 3, server: 173.237.207.32, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Boston 4, server: 173.237.207.52, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Buffalo 1, server: 107.174.20.130, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Buffalo 2, server: 172.93.146.84, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Buffalo 3, server: 64.44.42.60, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Buffalo 4, server: 172.93.146.210, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 New York 1, server: 84.17.35.76, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 New York 2, server: 37.19.199.196, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 New York 3, server: 84.17.35.103, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 New York 4, server: 37.19.199.224, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Seattle 1, server: 212.102.46.67, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Seattle 2, server: 212.102.46.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Seattle 3, server: 212.102.46.69, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Seattle 4, server: 212.102.46.42, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Chicago 1, server: 185.246.209.52, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Chicago 2, server: 185.246.209.55, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Chicago 3, server: 138.199.42.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Chicago 4, server: 185.246.209.57, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Detroit 1, server: 104.244.211.171, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Detroit 2, server: 104.244.208.107, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Detroit 3, server: 104.244.211.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Detroit 4, server: 104.244.211.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Denver 1, server: 212.102.44.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Denver 2, server: 212.102.44.91, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Denver 3, server: 212.102.44.73, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Denver 4, server: 212.102.44.66, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Bend 1, server: 154.16.168.186, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Bend 2, server: 154.16.168.184, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Bend 3, server: 45.43.14.73, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Bend 4, server: 45.43.14.75, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Kansas City 1, server: 173.208.149.195, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Kansas City 2, server: 63.141.236.245, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Kansas City 3, server: 63.141.248.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Kansas City 4, server: 63.141.236.243, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Manassas 1, server: 23.105.178.142, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Manassas 2, server: 23.105.178.160, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Manassas 3, server: 207.244.67.149, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Manassas 4, server: 162.210.199.217, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Salt Lake City 1, server: 104.200.131.7, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Salt Lake City 2, server: 104.200.131.245, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Salt Lake City 3, server: 104.200.131.233, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Salt Lake City 4, server: 104.200.131.5, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 St. Louis 1, server: 148.72.171.180, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 St. Louis 2, server: 148.72.174.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 St. Louis 3, server: 148.72.171.178, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 St. Louis 4, server: 148.72.174.51, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Tampa 1, server: 209.216.92.3, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Tampa 2, server: 209.216.92.202, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Tampa 3, server: 209.216.92.200, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Tampa 4, server: 209.216.92.212, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Miami 1, server: 23.108.54.70, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Miami 2, server: 89.187.173.250, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Miami 3, server: 89.38.227.173, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Miami 4, server: 23.82.142.222, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Charlotte 1, server: 155.254.29.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Charlotte 2, server: 155.254.29.165, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Charlotte 3, server: 154.16.171.213, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Charlotte 4, server: 192.154.254.135, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Dallas 1, server: 89.187.175.165, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Dallas 2, server: 212.102.40.73, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Dallas 3, server: 66.115.177.156, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Dallas 4, server: 172.241.114.88, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Phoenix 1, server: 199.58.187.5, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Phoenix 2, server: 199.58.187.18, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Phoenix 3, server: 172.98.87.37, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Phoenix 4, server: 199.58.187.67, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Atlanta 1, server: 195.181.171.226, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Atlanta 2, server: 138.199.2.132, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Atlanta 3, server: 66.115.166.149, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Atlanta 4, server: 66.115.175.50, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Orlando 1, server: 198.147.22.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Orlando 2, server: 66.115.182.77, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Orlando 3, server: 66.115.182.106, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Orlando 4, server: 66.115.182.74, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Las Vegas 1, server: 79.110.54.133, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Las Vegas 2, server: 79.110.54.125, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Las Vegas 3, server: 79.110.53.205, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Las Vegas 4, server: 79.110.54.123, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Los Angeles 1, server: 89.187.187.76, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Los Angeles 2, server: 138.199.9.204, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Los Angeles 3, server: 138.199.9.193, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Los Angeles 4, server: 89.187.187.68, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 San Francisco 1, server: 23.81.181.9, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 San Francisco 2, server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 San Francisco 3, server: 185.124.240.157, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 San Francisco 4, server: 185.124.240.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Ashburn 1, server: 37.19.220.201, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Ashburn 2, server: 37.19.220.199, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Ashburn 3, server: 37.19.220.196, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Ashburn 4, server: 37.19.220.194, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Houston 1, server: 199.10.64.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Houston 2, server: 199.10.64.131, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Houston 3, server: 199.10.64.245, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: US 🇺🇸 Houston 4, server: 199.10.64.227, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: TR 🇹🇷 Istanbul, server: 107.150.94.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AL 🇦🇱 Tirana, server: 31.171.154.219, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AT 🇦🇹 Vienna, server: 146.70.28.93, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BA 🇧🇦 Sarajevo, server: 185.164.34.250, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BG 🇧🇬 Sofia, server: 217.138.202.21, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: HR 🇭🇷 Zagreb, server: 176.222.34.119, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CY 🇨🇾 Nicosia, server: 195.47.194.66, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CZ 🇨🇿 Prague, server: 217.138.199.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: EE 🇪🇪 Tallinn, server: 185.174.159.138, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GR 🇬🇷 Athens, server: 194.150.167.48, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: HU 🇭🇺 Budapest, server: 185.252.223.83, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IS 🇮🇸 Reykjavik, server: 45.133.193.221, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IE 🇮🇪 Dublin, server: 5.157.13.91, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: LV 🇱🇻 Riga, server: 188.92.78.150, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: MD 🇲🇩 Chisinau, server: 194.33.40.114, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: MK 🇲🇰 Skopje, server: 185.225.28.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NO 🇳🇴 Oslo, server: 91.219.215.69, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PT 🇵🇹 Lisbon, server: 91.205.230.133, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PT 🇵🇹 Porto, server: 194.39.127.153, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: RO 🇷🇴 Bucharest, server: 185.102.217.169, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: RU 🇷🇺 Moscow, server: 92.38.138.139, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: RS 🇷🇸 Belgrade, server: 152.89.160.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: SK 🇸🇰 Bratislava, server: 185.76.8.210, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: SI 🇸🇮 Ljubljana, server: 195.158.249.59, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: ES 🇪🇸 Barcelona, server: 185.188.61.83, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: ES 🇪🇸 Madrid, server: 89.37.95.183, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: ES 🇪🇸 Valencia, server: 185.153.150.50, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: SE 🇸🇪 Stockholm, server: 185.76.9.49, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: UA 🇺🇦 Kyiv, server: 156.146.50.102, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AR 🇦🇷 Buenos Aires, server: 91.206.168.64, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: BR 🇧🇷 Sao Paulo, server: 191.96.15.90, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CA 🇨🇦 Montreal, server: 91.245.254.131, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CA 🇨🇦 Toronto, server: 37.19.211.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CA 🇨🇦 Vancouver, server: 66.115.147.92, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CO 🇨🇴 Bogota, server: 45.129.32.32, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: CR 🇨🇷 San Jose, server: 176.227.241.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: MX 🇲🇽 Mexico City, server: 194.41.112.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AU 🇦🇺 Perth, server: 124.150.139.123, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AU 🇦🇺 Adelaide, server: 45.248.79.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AU 🇦🇺 Brisbane, server: 144.48.39.67, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AU 🇦🇺 Melbourne, server: 103.192.80.245, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AU 🇦🇺 Sydney, server: 45.125.247.45, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: HK 🇭🇰 Hong Kong, server: 212.102.42.89, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IN 🇮🇳 Indore, server: 103.73.189.61, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IN 🇮🇳 Mumbai, server: 103.156.51.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IN 🇮🇳 Chennai, server: 103.108.117.118, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: ID 🇮🇩 Jakarta, server: 103.148.242.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: JP 🇯🇵 Tokyo, server: 84.17.34.26, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: KZ 🇰🇿 Oral, server: 5.189.202.11, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: My 🇲🇾 Kuala Lumpur, server: 42.0.30.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: Nz 🇳🇿 Auckland, server: 180.149.231.13, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PH 🇵🇭 Manila, server: 45.134.224.31, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: SG 🇸🇬 Singapore, server: 89.187.163.195, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: KR 🇰🇷 Seoul, server: 45.130.137.28, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: TW 🇹🇼 Taichung City, server: 103.152.151.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: TH 🇹🇭 Bangkok, server: 27.131.164.109, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: VN 🇻🇳 Ho Chi Minh City, server: 202.143.110.32, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: IL 🇮🇱 Tel Aviv, server: 84.110.41.85, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: NG 🇳🇬 Lagos, server: 102.165.23.44, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: ZA 🇿🇦 Johannesburg, server: 102.165.47.134, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: AE 🇦🇪 Dubai, server: 176.125.231.11, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PA 🇵🇦 Panama, server: 185.244.139.9, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: PE 🇵🇪 Lima, server: 193.218.35.9, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: VE 🇻🇪 Caracas, server: 45.149.3.7, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: GE 🇬🇪 Tbilisi, server: 91.239.207.226, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: MOHSEN S 1, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 2, server: 91.90.123.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 3, server: 91.90.123.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 4, server: 212.102.54.182, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 5, server: 91.90.123.125, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 6, server: 91.90.123.141, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 7, server: 194.110.115.77, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 8, server: 193.29.106.75, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 9, server: 84.17.58.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 10, server: 84.17.58.166, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 11, server: 193.29.107.117, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 12, server: 212.102.54.175, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 13, server: 212.102.54.130, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 14, server: 84.17.58.192, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 15, server: 176.222.34.119, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 16, server: 91.90.123.155, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 17, server: 194.110.115.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 18, server: 193.29.107.115, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 19, server: 45.12.223.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 20, server: 212.102.54.145, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 21, server: 91.90.123.187, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 22, server: 91.90.123.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 23, server: 193.29.107.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 24, server: 91.90.123.181, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 25, server: 193.29.107.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 26, server: 194.110.115.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 27, server: 212.102.54.152, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 28, server: 84.17.58.202, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 29, server: 84.17.58.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 30, server: 193.29.107.123, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 31, server: 185.166.84.65, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 32, server: 185.246.208.77, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 33, server: 185.246.208.182, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 34, server: 212.102.54.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 35, server: 212.102.54.150, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 36, server: 193.29.106.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 37, server: 185.108.106.176, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 38, server: 193.29.107.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 39, server: 91.219.215.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 40, server: 185.99.3.102, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 41, server: 185.99.3.66, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 42, server: 185.166.84.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 43, server: 91.90.123.117, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 44, server: 91.219.215.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 45, server: 91.219.215.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 46, server: 185.108.106.140, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 47, server: 185.99.3.207, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 48, server: 84.17.58.154, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN S 49, server: 194.110.115.243, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN}
+  - {name: MOHSEN U 1, server: 167.88.63.29, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 2, server: 178.132.3.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 3, server: 167.88.63.29, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 4, server: 35.154.201.59, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 5, server: 167.88.63.29, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 6, server: 89.31.125.101, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 7, server: 135.125.248.215, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 8, server: 15.236.142.139, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 9, server: 18.185.63.41, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 10, server: 89.31.125.101, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 11, server: 135.125.248.215, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 12, server: 167.88.63.29, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 13, server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 14, server: 167.88.63.29, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 15, server: 135.125.248.215, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 16, server: 35.154.201.59, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 17, server: 178.132.3.124, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 18, server: 15.236.142.139, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 19, server: 18.185.63.41, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN U 20, server: 15.236.142.139, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: MOHSEN EP 0, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: MOHSEN EP 1, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: MOHSEN EP 2, server: xey.wrxjys.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: xey.wrxjys.tech}}
+  - {name: MOHSEN EP 3, server: ahvuxfq.oqnqrysa.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ahvuxfq.oqnqrysa.com}}
+  - {name: MOHSEN EP 4, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
+  - {name: MOHSEN BP 1, server: 217.70.189.155, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bOOi88mJwE8y}
+  - {name: MOHSEN BP 2, server: 194.34.133.168, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QiITD07tVIlT}
+  - {name: MOHSEN BP 3, server: 167.86.82.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: JxbSUY8eYJoN}
+  - {name: MOHSEN BP 4, server: 37.218.241.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: imLTvDJBzurf}
+  - {name: MOHSEN FV 1, server: 185.97.118.62, port: 5650, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: MOHSEN FV 2, server: 185.97.118.62, port: 5651, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: MOHSEN BN 1, server: 134.195.196.118, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 2, server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 3, server: 146.0.36.44, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 4, server: 46.29.219.246, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 5, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 6, server: 149.7.16.10, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: MOHSEN BN 7, server: 185.243.214.55, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
+  - {name: MOHSEN BN 8, server: 51.222.142.94, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
+  - {name: MOHSEN BN 9, server: 3.36.99.38, port: 50005, type: ss, cipher: aes-256-cfb, password: !<str> 7620447880}
+  - {name: MOHSEN BN 10, server: 165.227.30.115, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: n20olPthkF27}
+  - {name: MOHSEN BN 11, server: 206.81.21.204, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WxY7xcCSkOm3}
+  - {name: MOHSEN BN 12, server: 165.227.30.44, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8i0K7bEQt1CK}
+  - {name: MOHSEN BN 13, server: 138.197.200.21, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i2j3yqOc54cJ}
+  - {name: MOHSEN BN 14, server: 159.89.139.140, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YFa77Byaec74}
+  - {name: MOHSEN BN 15, server: 45.76.32.81, port: 80, type: vmess, uuid: 34d4f63d-5b48-4141-84f2-00e7a67dac85, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.76.32.81}}
+  - {name: MOHSEN BN 16, server: 199.247.12.184, port: 80, type: vmess, uuid: 43b7c40a-4a05-4f53-8863-ac862066f1dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 199.247.12.184}}
+  - {name: MOHSEN BN 17, server: 95.179.200.10, port: 80, type: vmess, uuid: ba13c4c7-6c2d-4add-ca67-db275c0b8fc0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 95.179.200.10}}
+  - {name: MOHSEN BN 18, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
+  - {name: MOHSEN XV 1, server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 2, server: 46.29.219.246, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 3, server: 46.29.218.146, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 4, server: 46.29.218.170, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 5, server: 146.0.36.23, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 6, server: 172.107.233.234, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 7, server: 158.247.193.230, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 8, server: 141.164.59.168, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 9, server: 167.88.63.117, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 10, server: 167.88.63.99, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 11, server: 167.88.63.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 12, server: 169.197.143.11, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 13, server: 169.197.143.111, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 14, server: 169.197.143.46, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN XV 15, server: 169.197.141.178, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: MOHSEN AV 1, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 2, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 3, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 4, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 5, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 6, server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 7, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 8, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 9, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 10, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 11, server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 12, server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 13, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 14, server: 31.192.104.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 15, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 16, server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 17, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 18, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 19, server: 129.232.222.74, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 20, server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 21, server: 185.192.124.183, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 22, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 23, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 24, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 25, server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 26, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 27, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 28, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 29, server: 37.143.130.213, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 30, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 31, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 32, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 33, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 34, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 35, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 36, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 37, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 38, server: 147.78.3.242, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 39, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 40, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 41, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 42, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 43, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 44, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN AV 45, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MOHSEN PV 1, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: MOHSEN PV 2, server: 5.188.111.182, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: MOHSEN PV 3, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: MOHSEN PV 4, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: MOHSEN PV 5, server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: MOHSEN SQV 1, server: 141.98.116.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 2, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 3, server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 4, server: 37.48.80.203, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 5, server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 6, server: 119.59.113.121, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 7, server: 54.180.135.103, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 8, server: 185.172.113.58, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: MOHSEN SQV 9, server: 185.225.19.64, port: 50002, type: ss, cipher: aes-256-cfb, password: !<str> 9280247878}
+  - {name: MOHSEN HV 1, server: 151.80.236.63, port: 4040, type: ss, cipher: aes-256-gcm, password: hnWFuujWbaJm}
+  - {name: MOHSEN HV 2, server: 176.31.146.89, port: 5050, type: ss, cipher: aes-256-gcm, password: mRarmtakmVRjYgK8jQ}
+  - {name: MOHSEN HV 3, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
+  - {name: MOHSEN Z 1, server: 142.202.48.43, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 2, server: 89.163.212.75, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 3, server: 185.213.21.7, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 4, server: 62.112.9.220, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 5, server: 91.232.105.253, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 6, server: 62.210.140.163, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 7, server: 62.210.206.236, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 8, server: 62.210.38.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN Z 9, server: 217.182.199.223, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: MOHSEN T 1, server: ru.timevpn.com, port: 29313, type: ss, cipher: aes-256-cfb, password: zhqsY2W}
+  - {name: MOHSEN T 2, server: de.timevpn.com, port: 22291, type: ss, cipher: aes-256-cfb, password: aRBV7wr}
+  - {name: MOHSEN T 3, server: ca.timevpn.com, port: 14582, type: ss, cipher: aes-256-cfb, password: vaaxLkM}
+  - {name: MOHSEN T 4, server: ru.timevpn.com, port: 26964, type: ss, cipher: aes-256-cfb, password: B8k4M4N}
+  - {name: MOHSEN T 5, server: de.timevpn.com, port: 54684, type: ss, cipher: aes-256-cfb, password: NJ6Wxez}
 proxy-groups:
   - name: ⚡Fastest server
     type: url-test
     url: https://www.google.com
     interval: 900
     proxies:
-      - BE 🇧🇪 Brussels 1
-      - BE 🇧🇪 Brussels 2
-      - BE 🇧🇪 Brussels 3
-      - BE 🇧🇪 Brussels 4
-      - BE 🇧🇪 Antwerp 1
-      - BE 🇧🇪 Antwerp 2
-      - BE 🇧🇪 Antwerp 3
-      - BE 🇧🇪 Antwerp 4
-      - LU 🇱🇺 Luxembourg 1
-      - LU 🇱🇺 Luxembourg 2
-      - LU 🇱🇺 Luxembourg 3
-      - LU 🇱🇺 Luxembourg 4
-      - PL 🇵🇱 Gdansk 1
-      - PL 🇵🇱 Gdansk 2
-      - PL 🇵🇱 Gdansk 3
-      - PL 🇵🇱 Gdansk 4
-      - PL 🇵🇱 Warsaw 1
-      - PL 🇵🇱 Warsaw 2
-      - PL 🇵🇱 Warsaw 3
-      - PL 🇵🇱 Warsaw 4
-      - FR 🇫🇷 Paris 1
-      - FR 🇫🇷 Paris 2
-      - FR 🇫🇷 Paris 3
-      - FR 🇫🇷 Paris 4
-      - FR 🇫🇷 Marseille 1
-      - FR 🇫🇷 Marseille 2
-      - FR 🇫🇷 Marseille 3
-      - FR 🇫🇷 Marseille 4
-      - FR 🇫🇷 Bordeaux 1
-      - FR 🇫🇷 Bordeaux 2
-      - FR 🇫🇷 Bordeaux 3
-      - FR 🇫🇷 Bordeaux 4
-      - DE 🇩🇪 Berlin 1
-      - DE 🇩🇪 Berlin 2
-      - DE 🇩🇪 Berlin 3
-      - DE 🇩🇪 Berlin 4
-      - DE 🇩🇪 Frankfurt am Main 1
-      - DE 🇩🇪 Frankfurt am Main 2
-      - DE 🇩🇪 Frankfurt am Main 3
-      - DE 🇩🇪 Frankfurt am Main 4
-      - AZ 🇦🇿 Baku 1
-      - AZ 🇦🇿 Baku 2
-      - AZ 🇦🇿 Baku 3
-      - AZ 🇦🇿 Baku 4
-      - NL 🇳🇱 Amsterdam 1
-      - NL 🇳🇱 Amsterdam 2
-      - NL 🇳🇱 Amsterdam 3
-      - NL 🇳🇱 Amsterdam 4
-      - DK 🇩🇰 Copenhagen 1
-      - DK 🇩🇰 Copenhagen 2
-      - DK 🇩🇰 Copenhagen 3
-      - DK 🇩🇰 Copenhagen 4
-      - IT 🇮🇹 Rome 1
-      - IT 🇮🇹 Rome 2
-      - IT 🇮🇹 Rome 3
-      - IT 🇮🇹 Rome 4
-      - IT 🇮🇹 Milan 1
-      - IT 🇮🇹 Milan 2
-      - IT 🇮🇹 Milan 3
-      - IT 🇮🇹 Milan 4
-      - FI 🇫🇮 Helsinki 1
-      - FI 🇫🇮 Helsinki 2
-      - FI 🇫🇮 Helsinki 3
-      - FI 🇫🇮 Helsinki 4
-      - CH 🇨🇭 Zurich 1
-      - CH 🇨🇭 Zurich 2
-      - CH 🇨🇭 Zurich 3
-      - CH 🇨🇭 Zurich 4
-      - GB 🇬🇧 London 1
-      - GB 🇬🇧 London 2
-      - GB 🇬🇧 London 3
-      - GB 🇬🇧 London 4
-      - GB 🇬🇧 Glasgow 1
-      - GB 🇬🇧 Glasgow 2
-      - GB 🇬🇧 Glasgow 3
-      - GB 🇬🇧 Glasgow 4
-      - GB 🇬🇧 Manchester 1
-      - GB 🇬🇧 Manchester 2
-      - GB 🇬🇧 Manchester 3
-      - GB 🇬🇧 Manchester 4
-      - US 🇺🇸 Latham 1
-      - US 🇺🇸 Latham 2
-      - US 🇺🇸 Latham 3
-      - US 🇺🇸 Latham 4
-      - US 🇺🇸 Boston 1
-      - US 🇺🇸 Boston 2
-      - US 🇺🇸 Boston 3
-      - US 🇺🇸 Boston 4
-      - US 🇺🇸 Buffalo 1
-      - US 🇺🇸 Buffalo 2
-      - US 🇺🇸 Buffalo 3
-      - US 🇺🇸 Buffalo 4
-      - US 🇺🇸 New York 1
-      - US 🇺🇸 New York 2
-      - US 🇺🇸 New York 3
-      - US 🇺🇸 New York 4
-      - US 🇺🇸 Seattle 1
-      - US 🇺🇸 Seattle 2
-      - US 🇺🇸 Seattle 3
-      - US 🇺🇸 Seattle 4
-      - US 🇺🇸 Chicago 1
-      - US 🇺🇸 Chicago 2
-      - US 🇺🇸 Chicago 3
-      - US 🇺🇸 Chicago 4
-      - US 🇺🇸 Detroit 1
-      - US 🇺🇸 Detroit 2
-      - US 🇺🇸 Detroit 3
-      - US 🇺🇸 Detroit 4
-      - US 🇺🇸 Denver 1
-      - US 🇺🇸 Denver 2
-      - US 🇺🇸 Denver 3
-      - US 🇺🇸 Denver 4
-      - US 🇺🇸 Bend 1
-      - US 🇺🇸 Bend 2
-      - US 🇺🇸 Bend 3
-      - US 🇺🇸 Bend 4
-      - US 🇺🇸 Kansas City 1
-      - US 🇺🇸 Kansas City 2
-      - US 🇺🇸 Kansas City 3
-      - US 🇺🇸 Kansas City 4
-      - US 🇺🇸 Manassas 1
-      - US 🇺🇸 Manassas 2
-      - US 🇺🇸 Manassas 3
-      - US 🇺🇸 Manassas 4
-      - US 🇺🇸 Salt Lake City 1
-      - US 🇺🇸 Salt Lake City 2
-      - US 🇺🇸 Salt Lake City 3
-      - US 🇺🇸 Salt Lake City 4
-      - US 🇺🇸 St. Louis 1
-      - US 🇺🇸 St. Louis 2
-      - US 🇺🇸 St. Louis 3
-      - US 🇺🇸 St. Louis 4
-      - US 🇺🇸 Tampa 1
-      - US 🇺🇸 Tampa 2
-      - US 🇺🇸 Tampa 3
-      - US 🇺🇸 Tampa 4
-      - US 🇺🇸 Miami 1
-      - US 🇺🇸 Miami 2
-      - US 🇺🇸 Miami 3
-      - US 🇺🇸 Miami 4
-      - US 🇺🇸 Charlotte 1
-      - US 🇺🇸 Charlotte 2
-      - US 🇺🇸 Charlotte 3
-      - US 🇺🇸 Charlotte 4
-      - US 🇺🇸 Dallas 1
-      - US 🇺🇸 Dallas 2
-      - US 🇺🇸 Dallas 3
-      - US 🇺🇸 Dallas 4
-      - US 🇺🇸 Phoenix 1
-      - US 🇺🇸 Phoenix 2
-      - US 🇺🇸 Phoenix 3
-      - US 🇺🇸 Phoenix 4
-      - US 🇺🇸 Atlanta 1
-      - US 🇺🇸 Atlanta 2
-      - US 🇺🇸 Atlanta 3
-      - US 🇺🇸 Atlanta 4
-      - US 🇺🇸 Orlando 1
-      - US 🇺🇸 Orlando 2
-      - US 🇺🇸 Orlando 3
-      - US 🇺🇸 Orlando 4
-      - US 🇺🇸 Las Vegas 1
-      - US 🇺🇸 Las Vegas 2
-      - US 🇺🇸 Las Vegas 3
-      - US 🇺🇸 Las Vegas 4
-      - US 🇺🇸 Los Angeles 1
-      - US 🇺🇸 Los Angeles 2
-      - US 🇺🇸 Los Angeles 3
-      - US 🇺🇸 Los Angeles 4
-      - US 🇺🇸 San Francisco 1
-      - US 🇺🇸 San Francisco 2
-      - US 🇺🇸 San Francisco 3
-      - US 🇺🇸 San Francisco 4
-      - US 🇺🇸 Ashburn 1
-      - US 🇺🇸 Ashburn 2
-      - US 🇺🇸 Ashburn 3
-      - US 🇺🇸 Ashburn 4
-      - US 🇺🇸 Houston 1
-      - US 🇺🇸 Houston 2
-      - US 🇺🇸 Houston 3
-      - US 🇺🇸 Houston 4
-      - TR 🇹🇷 Istanbul
-      - AL 🇦🇱 Tirana
-      - AT 🇦🇹 Vienna
-      - BA 🇧🇦 Sarajevo
-      - BG 🇧🇬 Sofia
-      - HR 🇭🇷 Zagreb
-      - CY 🇨🇾 Nicosia
-      - CZ 🇨🇿 Prague
-      - EE 🇪🇪 Tallinn
-      - GR 🇬🇷 Athens
-      - HU 🇭🇺 Budapest
-      - IS 🇮🇸 Reykjavik
-      - IE 🇮🇪 Dublin
-      - LV 🇱🇻 Riga
-      - MD 🇲🇩 Chisinau
-      - MK 🇲🇰 Skopje
-      - NO 🇳🇴 Oslo
-      - PT 🇵🇹 Lisbon
-      - PT 🇵🇹 Porto
-      - RO 🇷🇴 Bucharest
-      - RU 🇷🇺 Moscow
-      - RS 🇷🇸 Belgrade
-      - SK 🇸🇰 Bratislava
-      - SI 🇸🇮 Ljubljana
-      - ES 🇪🇸 Barcelona
-      - ES 🇪🇸 Madrid
-      - ES 🇪🇸 Valencia
-      - SE 🇸🇪 Stockholm
-      - UA 🇺🇦 Kyiv
-      - AR 🇦🇷 Buenos Aires
-      - BR 🇧🇷 Sao Paulo
-      - CA 🇨🇦 Montreal
-      - CA 🇨🇦 Toronto
-      - CA 🇨🇦 Vancouver
-      - CO 🇨🇴 Bogota
-      - CR 🇨🇷 San Jose
-      - MX 🇲🇽 Mexico City
-      - AU 🇦🇺 Perth
-      - AU 🇦🇺 Adelaide
-      - AU 🇦🇺 Brisbane
-      - AU 🇦🇺 Melbourne
-      - AU 🇦🇺 Sydney
-      - HK 🇭🇰 Hong Kong
-      - IN 🇮🇳 Indore
-      - IN 🇮🇳 Mumbai
-      - IN 🇮🇳 Chennai
-      - ID 🇮🇩 Jakarta
-      - JP 🇯🇵 Tokyo
-      - KZ 🇰🇿 Oral
-      - My 🇲🇾 Kuala Lumpur
-      - Nz 🇳🇿 Auckland
-      - PH 🇵🇭 Manila
-      - SG 🇸🇬 Singapore
-      - KR 🇰🇷 Seoul
-      - TW 🇹🇼 Taichung City
-      - TH 🇹🇭 Bangkok
-      - VN 🇻🇳 Ho Chi Minh City
-      - IL 🇮🇱 Tel Aviv
-      - NG 🇳🇬 Lagos
-      - ZA 🇿🇦 Johannesburg
-      - AE 🇦🇪 Dubai  
-      - PA 🇵🇦 Panama
-      - PE 🇵🇪 Lima
-      - VE 🇻🇪 Caracas
-      - GE 🇬🇪 Tbilisi
+      - MOHSEN S 1
+      - MOHSEN S 2
+      - MOHSEN S 3
+      - MOHSEN S 4
+      - MOHSEN S 5
+      - MOHSEN S 6
+      - MOHSEN S 7
+      - MOHSEN S 8
+      - MOHSEN S 9
+      - MOHSEN S 10
+      - MOHSEN S 11
+      - MOHSEN S 12
+      - MOHSEN S 13
+      - MOHSEN S 14
+      - MOHSEN S 15
+      - MOHSEN S 16
+      - MOHSEN S 17
+      - MOHSEN S 18
+      - MOHSEN S 19
+      - MOHSEN S 20
+      - MOHSEN S 21
+      - MOHSEN S 22
+      - MOHSEN S 23
+      - MOHSEN S 24
+      - MOHSEN S 25
+      - MOHSEN S 26
+      - MOHSEN S 27
+      - MOHSEN S 28
+      - MOHSEN S 29
+      - MOHSEN S 30
+      - MOHSEN S 31
+      - MOHSEN S 32
+      - MOHSEN S 33
+      - MOHSEN S 34
+      - MOHSEN S 35
+      - MOHSEN S 36
+      - MOHSEN S 37
+      - MOHSEN S 38
+      - MOHSEN S 39
+      - MOHSEN S 40
+      - MOHSEN S 41
+      - MOHSEN S 42
+      - MOHSEN S 43
+      - MOHSEN S 44
+      - MOHSEN S 45
+      - MOHSEN S 46
+      - MOHSEN S 47
+      - MOHSEN S 48
+      - MOHSEN S 49
+      - MOHSEN U 1
+      - MOHSEN U 2
+      - MOHSEN U 3
+      - MOHSEN U 4
+      - MOHSEN U 5
+      - MOHSEN U 6
+      - MOHSEN U 7
+      - MOHSEN U 8
+      - MOHSEN U 9
+      - MOHSEN U 10
+      - MOHSEN U 11
+      - MOHSEN U 12
+      - MOHSEN U 13
+      - MOHSEN U 14
+      - MOHSEN U 15
+      - MOHSEN U 16
+      - MOHSEN U 17
+      - MOHSEN U 18
+      - MOHSEN U 19
+      - MOHSEN U 20
+      - MOHSEN EP 0
+      - MOHSEN EP 1
+      - MOHSEN EP 2
+      - MOHSEN EP 3
+      - MOHSEN EP 4
+      - MOHSEN BP 1
+      - MOHSEN BP 2
+      - MOHSEN BP 3
+      - MOHSEN BP 4
+      - MOHSEN FV 1
+      - MOHSEN FV 2
+      - MOHSEN BN 1
+      - MOHSEN BN 2
+      - MOHSEN BN 3
+      - MOHSEN BN 4
+      - MOHSEN BN 5
+      - MOHSEN BN 6
+      - MOHSEN BN 7
+      - MOHSEN BN 8
+      - MOHSEN BN 9
+      - MOHSEN BN 10
+      - MOHSEN BN 11
+      - MOHSEN BN 12
+      - MOHSEN BN 13
+      - MOHSEN BN 14
+      - MOHSEN BN 15
+      - MOHSEN BN 16
+      - MOHSEN BN 17
+      - MOHSEN BN 18
+      - MOHSEN XV 1
+      - MOHSEN XV 2
+      - MOHSEN XV 3
+      - MOHSEN XV 4
+      - MOHSEN XV 5
+      - MOHSEN XV 6
+      - MOHSEN XV 7
+      - MOHSEN XV 8
+      - MOHSEN XV 9
+      - MOHSEN XV 10
+      - MOHSEN XV 11
+      - MOHSEN XV 12
+      - MOHSEN XV 13
+      - MOHSEN XV 14
+      - MOHSEN XV 15
+      - MOHSEN AV 1
+      - MOHSEN AV 2
+      - MOHSEN AV 3
+      - MOHSEN AV 4
+      - MOHSEN AV 5
+      - MOHSEN AV 6
+      - MOHSEN AV 7
+      - MOHSEN AV 8
+      - MOHSEN AV 9
+      - MOHSEN AV 10
+      - MOHSEN AV 11
+      - MOHSEN AV 12
+      - MOHSEN AV 13
+      - MOHSEN AV 14
+      - MOHSEN AV 15
+      - MOHSEN AV 16
+      - MOHSEN AV 17
+      - MOHSEN AV 18
+      - MOHSEN AV 19
+      - MOHSEN AV 20
+      - MOHSEN AV 21
+      - MOHSEN AV 22
+      - MOHSEN AV 23
+      - MOHSEN AV 24
+      - MOHSEN AV 25
+      - MOHSEN AV 26
+      - MOHSEN AV 27
+      - MOHSEN AV 28
+      - MOHSEN AV 29
+      - MOHSEN AV 30
+      - MOHSEN AV 31
+      - MOHSEN AV 32
+      - MOHSEN AV 33
+      - MOHSEN AV 34
+      - MOHSEN AV 35
+      - MOHSEN AV 36
+      - MOHSEN AV 37
+      - MOHSEN AV 38
+      - MOHSEN AV 39
+      - MOHSEN AV 40
+      - MOHSEN AV 41
+      - MOHSEN AV 42
+      - MOHSEN AV 43
+      - MOHSEN AV 44
+      - MOHSEN AV 45
+      - MOHSEN PV 1
+      - MOHSEN PV 2
+      - MOHSEN PV 3
+      - MOHSEN PV 4
+      - MOHSEN PV 5
+      - MOHSEN SQV 1
+      - MOHSEN SQV 2
+      - MOHSEN SQV 3
+      - MOHSEN SQV 4
+      - MOHSEN SQV 5
+      - MOHSEN SQV 6
+      - MOHSEN SQV 7
+      - MOHSEN SQV 8
+      - MOHSEN SQV 9
+      - MOHSEN HV 1
+      - MOHSEN HV 2
+      - MOHSEN HV 3
+      - MOHSEN Z 1
+      - MOHSEN Z 2
+      - MOHSEN Z 3
+      - MOHSEN Z 4
+      - MOHSEN Z 5
+      - MOHSEN Z 6
+      - MOHSEN Z 7
+      - MOHSEN Z 8
+      - MOHSEN Z 9
+      - MOHSEN T 1
+      - MOHSEN T 2
+      - MOHSEN T 3
+      - MOHSEN T 4
+      - MOHSEN T 5
   - name: 🗓 1400/06/23
     type: select
     proxies:
