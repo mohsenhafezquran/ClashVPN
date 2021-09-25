@@ -19,56 +19,55 @@ dns:
   fallback-filter:
     geoip: true
 proxies:
-  - {name: MOHSEN S 1, server: 193.29.106.187, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 2, server: 193.29.106.53, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 3, server: 193.29.106.139, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 4, server: 193.29.106.59, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 5, server: 193.29.106.61, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 6, server: 193.29.106.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 7, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 8, server: 81.19.208.93, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 9, server: 193.29.106.5, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 10, server: 193.29.106.83, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 11, server: 185.59.220.150, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 12, server: 156.146.33.77, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 13, server: 138.199.19.137, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 14, server: 193.29.106.29, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 15, server: 193.29.106.189, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 16, server: 156.146.33.87, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 17, server: 193.29.106.195, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 18, server: 185.102.219.49, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 19, server: 138.199.19.144, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 20, server: 193.29.106.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 21, server: 193.29.106.205, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 22, server: 138.199.19.169, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 23, server: 193.29.106.131, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 24, server: 81.19.209.59, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 25, server: 185.59.220.144, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 26, server: 185.153.151.183, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 27, server: 176.222.34.115, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 28, server: 178.239.173.47, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 29, server: 81.19.209.113, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 30, server: 81.19.208.102, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 31, server: 81.19.208.66, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 32, server: 81.19.208.78, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 33, server: 185.153.151.191, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 34, server: 81.19.208.80, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 35, server: 185.153.151.94, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 36, server: 81.19.209.124, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 37, server: 81.19.208.56, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 38, server: 81.19.208.91, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 39, server: 176.222.34.113, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 40, server: 185.153.151.164, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 41, server: 185.153.151.73, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 42, server: 194.110.115.253, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 43, server: 81.19.208.54, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 44, server: 91.90.123.123, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 45, server: 91.90.123.203, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 46, server: 185.153.151.98, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 47, server: 138.199.19.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 48, server: 138.199.19.147, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 49, server: 185.153.151.60, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
-  - {name: MOHSEN S 50, server: 185.210.217.189, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN, udp: true}
+  - {name: MOHSEN S 1, server: 193.29.106.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 2, server: 91.90.123.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 3, server: 91.90.123.211, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 4, server: 212.102.54.182, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 5, server: 91.90.123.125, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 6, server: 91.90.123.141, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 7, server: 194.110.115.77, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 8, server: 193.29.106.75, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 9, server: 84.17.58.148, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 10, server: 84.17.58.166, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 11, server: 193.29.107.117, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 12, server: 212.102.54.175, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 13, server: 212.102.54.130, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 14, server: 84.17.58.192, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 15, server: 176.222.34.119, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 16, server: 91.90.123.155, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 17, server: 194.110.115.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 18, server: 193.29.107.115, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 19, server: 45.12.223.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 20, server: 212.102.54.145, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 21, server: 91.90.123.187, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 22, server: 91.90.123.227, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 23, server: 193.29.107.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 24, server: 91.90.123.181, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 25, server: 193.29.107.99, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 26, server: 194.110.115.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 27, server: 212.102.54.152, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 28, server: 84.17.58.202, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 29, server: 84.17.58.134, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 30, server: 193.29.107.123, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 31, server: 185.166.84.65, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 32, server: 185.246.208.77, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 33, server: 185.246.208.182, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 34, server: 212.102.54.165, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 35, server: 212.102.54.150, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 36, server: 193.29.106.149, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 37, server: 185.108.106.176, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 38, server: 193.29.107.219, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 39, server: 91.219.215.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 40, server: 185.99.3.102, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 41, server: 185.99.3.66, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 42, server: 185.166.84.21, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 43, server: 91.90.123.117, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 44, server: 91.219.215.69, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 45, server: 91.219.215.67, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 46, server: 185.108.106.140, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 47, server: 185.99.3.207, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 48, server: 84.17.58.154, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
+  - {name: MOHSEN S 49, server: 194.110.115.243, port: 35905, type: ss, cipher: aes-256-gcm, password: tDKgKtnZts93mFqvauQBrdFN,udp: true}
   - {name: MOHSEN U 1, server: 167.88.63.29, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao,udp: true}
   - {name: MOHSEN U 2, server: 178.132.3.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao,udp: true}
   - {name: MOHSEN U 3, server: 167.88.63.29, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao,udp: true}
@@ -264,7 +263,6 @@ proxy-groups:
       - MOHSEN S 47
       - MOHSEN S 48
       - MOHSEN S 49
-      - MOHSEN S 50
       - MOHSEN U 1
       - MOHSEN U 2
       - MOHSEN U 3
@@ -405,7 +403,7 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
-  - name: 🗓 1400/07/03
+  - name: 🗓 1400/07/02
     type: select
     proxies:
       - DIRECT
