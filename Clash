@@ -406,7 +406,7 @@ proxy-groups:
   - name: 🗓 1400/07/02
     type: select
     proxies:
-      - DIRECT
+      - ⚡Fastest server
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
