@@ -3,7 +3,7 @@ socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: 127.0.0.1:10100
+external-controller: 127.0.0.1:9090
 dns:
   enable: true
   ipv6: false
@@ -485,10 +485,6 @@ proxy-groups:
       - MOHSEN T 3
       - MOHSEN T 4
       - MOHSEN T 5
-  - name: 🗓 1400/07/08
-    type: select
-    proxies:
-      - ⚡Fastest server
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
