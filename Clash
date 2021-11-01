@@ -662,7 +662,7 @@ proxies:
   - {name: USA 🇺🇸 Seattle, server: 169.197.143.15, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: USA 🇺🇸 Washington, server: 167.88.61.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
 proxy-groups:
-  - name: 🎛 MENU
+  - name: ⚙ MENU
     type: select
     proxies:
       - ⚡Fastest
@@ -1335,4 +1335,4 @@ rules:
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
   - IP-CIDR6,fd00::/8,DIRECT,no-resolve
   - GEOIP,IR,DIRECT,
-  - MATCH,🎛 MENU
+  - MATCH,⚙ MENU
