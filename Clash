@@ -388,7 +388,6 @@ proxy-groups:
     type: select
     proxies:
       - ⚡Fastest
-      - Surfshark
       - Ufo
 
   - name: ⚡Fastest
