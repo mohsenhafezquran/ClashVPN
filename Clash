@@ -225,6 +225,25 @@ proxies:
   - {name: MOHSEN XY TEST 14, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: MOHSEN XY TEST 15, server: 194.15.196.66, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: MOHSEN XY TEST 16, server: 194.15.196.54, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSEN PV TEST 1, server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
+  - {name: MOHSEN PV TEST 2, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA, udp: true}
+  - {name: MOHSEN PV TEST 3, server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
+  - {name: MOHSEN PV TEST 4, server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT, udp: true}
+  - {name: MOHSEN PV TEST 5, server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
+  - {name: MOHSEN PV TEST 6, server: 46.102.153.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: MOHSEN PV TEST 7, server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
+  - {name: MOHSEN PV TEST 8, server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA, udp: true}
+  - {name: MOHSEN PV TEST 9, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: MOHSEN PV TEST 10, server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
+  - {name: MOHSEN PV TEST 11, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
+  - {name: MOHSEN PV TEST 12, server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
+  - {name: MOHSEN PV TEST 13, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr, udp: true}
+  - {name: MOHSEN PV TEST 14, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
+  - {name: MOHSEN PV TEST 15, server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSEN PV TEST 16, server: 170.130.31.114, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
+  - {name: MOHSEN PV TEST 17, server: 45.152.182.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: MOHSEN PV TEST 18, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
+  - {name: MOHSEN PV TEST 19, server: 37.48.81.6, port: 22, type: ss, cipher: chacha20-ietf-poly1305, password: privatevpndotcom, udp: true}
   - {name: MOHSEN P TEST 1, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: MOHSEN P TEST 2, server: 5.188.111.182, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: MOHSEN P TEST 3, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
@@ -822,6 +841,25 @@ proxy-groups:
       - MOHSEN XY TEST 14
       - MOHSEN XY TEST 15
       - MOHSEN XY TEST 16
+      - MOHSEN PV TEST 1
+      - MOHSEN PV TEST 2
+      - MOHSEN PV TEST 3
+      - MOHSEN PV TEST 4
+      - MOHSEN PV TEST 5
+      - MOHSEN PV TEST 6
+      - MOHSEN PV TEST 7
+      - MOHSEN PV TEST 8
+      - MOHSEN PV TEST 9
+      - MOHSEN PV TEST 10
+      - MOHSEN PV TEST 11
+      - MOHSEN PV TEST 12
+      - MOHSEN PV TEST 13
+      - MOHSEN PV TEST 14
+      - MOHSEN PV TEST 15
+      - MOHSEN PV TEST 16
+      - MOHSEN PV TEST 17
+      - MOHSEN PV TEST 18
+      - MOHSEN PV TEST 19
       - MOHSEN P TEST 1
       - MOHSEN P TEST 2
       - MOHSEN P TEST 3
