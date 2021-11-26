@@ -21,6 +21,61 @@ dns:
     geoip: true
 
 proxies:
+  - {name: MOHSEN WV 1, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
+  - {name: MOHSEN WV 2, server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9, udp: true}
+  - {name: MOHSEN WV 3, server: 69.39.239.72, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2jQLXYq5xgrE3gKXmfjB, udp: true}
+  - {name: MOHSEN WV 4, server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
+  - {name: MOHSEN WV 5, server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSEN WV 6, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: MOHSEN WV 7, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
+  - {name: MOHSEN WV 8, server: 169.57.35.85, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
+  - {name: MOHSEN WV 9, server: 86.106.87.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: YDNYJcNdH5xuLrhyr7Fj, udp: true}
+  - {name: MOHSEN WV 10, server: 217.138.200.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
+  - {name: MOHSEN WV 11, server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
+  - {name: MOHSEN WV 12, server: 217.138.206.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: kGm85U8ewgPXbKr5LGxc, udp: true}
+  - {name: MOHSEN WV 13, server: 188.241.179.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2SKtWLpv3tWyS97wqrxC, udp: true}
+  - {name: MOHSEN WV 14, server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
+  - {name: MOHSEN WV 15, server: 107.182.234.233, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSEN WV 16, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
+  - {name: MOHSEN WV 17, server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
+  - {name: MOHSEN WV 18, server: 104.140.21.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL, udp: true}
+  - {name: MOHSEN WV 19, server: 184.75.208.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: MOHSEN WV 20, server: 71.19.249.109, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QBLw4rLXQ6ebxpWwSKDL, udp: true}
+  - {name: MOHSEN WV 21, server: 70.32.0.208, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q4apPAjyY9knqKS4e9xZ, udp: true}
+  - {name: MOHSEN WV 22, server: 217.138.193.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: kGm85U8ewgPXbKr5LGxc, udp: true}
+  - {name: MOHSEN WV 23, server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
+  - {name: MOHSEN WV 24, server: 102.129.144.142, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6, udp: true}
+  - {name: MOHSEN WV 25, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: MOHSEN WV 26, server: 95.173.161.240, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: fmxeGazCbFkCtsBFhRZc, udp: true}
+  - {name: MOHSEN WV 27, server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
+  - {name: MOHSEN WV 28, server: 188.214.122.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg, udp: true}
+  - {name: MOHSEN WV 29, server: 37.120.137.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
+  - {name: MOHSEN WV 30, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr, udp: true}
+  - {name: MOHSEN WV 31, server: 37.120.212.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2XtmwMEgsVJYKWF4VjkL, udp: true}
+  - {name: MOHSEN WV 32, server: 45.83.91.66, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: fAmKHf3Dft78ZyzL9kYF, udp: true}
+  - {name: MOHSEN WV 33, server: 217.138.221.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
+  - {name: MOHSEN WV 34, server: 217.138.199.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: S4w7wHjBRxCVkxZLgTaN, udp: true}
+  - {name: MOHSEN WV 35, server: 37.120.136.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Xd2xnHT8tYkVt5BDk92b, udp: true}
+  - {name: MOHSEN WV 36, server: 188.126.89.174, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
+  - {name: MOHSEN WV 37, server: 84.247.50.10, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
+  - {name: MOHSEN WV 38, server: 217.138.197.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: MOHSEN WV 39, server: 86.106.136.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: h6WG7sxsLTBGn7uyvMG8, udp: true}
+  - {name: MOHSEN WV 40, server: 45.152.183.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
+  - {name: MOHSEN WV 41, server: 5.253.204.194, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qLzS7DF9qRYxJTHfckhC, udp: true}
+  - {name: MOHSEN WV 42, server: 77.243.177.78, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Qu9b6jbYLF5Dtha3n7W2, udp: true}
+  - {name: MOHSEN WV 43, server: 45.141.154.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: sHWJUzzQUXtQSR2P6HNJ, udp: true}
+  - {name: MOHSEN WV 44, server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
+  - {name: MOHSEN WV 45, server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
+  - {name: MOHSEN WV 46, server: 185.212.149.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: SxFvGWWUtEjyQnGbggq2, udp: true}
+  - {name: MOHSEN WV 47, server: 45.141.152.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: FTvsfXCvXLPFEMKNSADr, udp: true}
+  - {name: MOHSEN WV 48, server: 217.138.222.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
+  - {name: MOHSEN WV 49, server: 37.120.194.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2V7N5kGUghaLxF4aUqTw, udp: true}
+  - {name: MOHSEN WV 50, server: 185.128.26.130, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: GU3kqh2ZSkzFkRBp4hxy, udp: true}
+  - {name: MOHSEN WV 51, server: 86.105.25.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
+  - {name: MOHSEN WV 52, server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: MOHSEN WV 53, server: 37.120.193.170, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Z3WEYrWQdmDZnLvJ94vE, udp: true}
+  - {name: MOHSEN WV 54, server: 185.51.134.210, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2, udp: true}
+  - {name: MOHSEN WV 55, server: 89.238.177.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VPPqaR4qpLmNw37jaJg6, udp: true}
   - {name: MOHSEN U 1, server: 167.88.63.29, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: MOHSEN U 2, server: 178.132.3.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: MOHSEN U 3, server: 167.88.63.29, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
@@ -635,8 +690,63 @@ proxy-groups:
   - name: ⚡Fastest
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 600
     proxies:
+      - MOHSEN WV 1
+      - MOHSEN WV 2
+      - MOHSEN WV 3
+      - MOHSEN WV 4
+      - MOHSEN WV 5
+      - MOHSEN WV 6
+      - MOHSEN WV 7
+      - MOHSEN WV 8
+      - MOHSEN WV 9
+      - MOHSEN WV 10
+      - MOHSEN WV 11
+      - MOHSEN WV 12
+      - MOHSEN WV 13
+      - MOHSEN WV 14
+      - MOHSEN WV 15
+      - MOHSEN WV 16
+      - MOHSEN WV 17
+      - MOHSEN WV 18
+      - MOHSEN WV 19
+      - MOHSEN WV 20
+      - MOHSEN WV 21
+      - MOHSEN WV 22
+      - MOHSEN WV 23
+      - MOHSEN WV 24
+      - MOHSEN WV 25
+      - MOHSEN WV 26
+      - MOHSEN WV 27
+      - MOHSEN WV 28
+      - MOHSEN WV 29
+      - MOHSEN WV 30
+      - MOHSEN WV 31
+      - MOHSEN WV 32
+      - MOHSEN WV 33
+      - MOHSEN WV 34
+      - MOHSEN WV 35
+      - MOHSEN WV 36
+      - MOHSEN WV 37
+      - MOHSEN WV 38
+      - MOHSEN WV 39
+      - MOHSEN WV 40
+      - MOHSEN WV 41
+      - MOHSEN WV 42
+      - MOHSEN WV 43
+      - MOHSEN WV 44
+      - MOHSEN WV 45
+      - MOHSEN WV 46
+      - MOHSEN WV 47
+      - MOHSEN WV 48
+      - MOHSEN WV 49
+      - MOHSEN WV 50
+      - MOHSEN WV 51
+      - MOHSEN WV 52
+      - MOHSEN WV 53
+      - MOHSEN WV 54
+      - MOHSEN WV 55
       - MOHSEN U 1
       - MOHSEN U 2
       - MOHSEN U 3
