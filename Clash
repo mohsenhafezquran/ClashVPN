@@ -402,7 +402,7 @@ proxies:
   - {name: MOHSENََََََََ 29, server: hkbn-home-a.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
   - {name: MOHSENََََََََ 30, server: tw-tb-d.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
 proxy-groups:
-  - name: ⚙ MENU
+  - name: ☰ MENU
     type: select
     proxies:
       - ⚡Fastest
@@ -806,4 +806,4 @@ rules:
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
   - IP-CIDR6,fd00::/8,DIRECT,no-resolve
   - GEOIP,IR,DIRECT,
-  - MATCH,⚙ MENU
+  - MATCH,☰ MENU
