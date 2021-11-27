@@ -21,1341 +21,778 @@ dns:
     geoip: true
 
 proxies:
-  - {name: MOHSEN WV 1, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
-  - {name: MOHSEN WV 2, server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9, udp: true}
-  - {name: MOHSEN WV 3, server: 69.39.239.72, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2jQLXYq5xgrE3gKXmfjB, udp: true}
-  - {name: MOHSEN WV 4, server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
-  - {name: MOHSEN WV 5, server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
-  - {name: MOHSEN WV 6, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
-  - {name: MOHSEN WV 7, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
-  - {name: MOHSEN WV 8, server: 169.57.35.85, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
-  - {name: MOHSEN WV 9, server: 86.106.87.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: YDNYJcNdH5xuLrhyr7Fj, udp: true}
-  - {name: MOHSEN WV 10, server: 217.138.200.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
-  - {name: MOHSEN WV 11, server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
-  - {name: MOHSEN WV 12, server: 217.138.206.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: kGm85U8ewgPXbKr5LGxc, udp: true}
-  - {name: MOHSEN WV 13, server: 188.241.179.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2SKtWLpv3tWyS97wqrxC, udp: true}
-  - {name: MOHSEN WV 14, server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
-  - {name: MOHSEN WV 15, server: 107.182.234.233, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
-  - {name: MOHSEN WV 16, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
-  - {name: MOHSEN WV 17, server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
-  - {name: MOHSEN WV 18, server: 104.140.21.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL, udp: true}
-  - {name: MOHSEN WV 19, server: 184.75.208.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
-  - {name: MOHSEN WV 20, server: 71.19.249.109, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QBLw4rLXQ6ebxpWwSKDL, udp: true}
-  - {name: MOHSEN WV 21, server: 70.32.0.208, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q4apPAjyY9knqKS4e9xZ, udp: true}
-  - {name: MOHSEN WV 22, server: 217.138.193.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: kGm85U8ewgPXbKr5LGxc, udp: true}
-  - {name: MOHSEN WV 23, server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
-  - {name: MOHSEN WV 24, server: 102.129.144.142, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6, udp: true}
-  - {name: MOHSEN WV 25, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
-  - {name: MOHSEN WV 26, server: 95.173.161.240, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: fmxeGazCbFkCtsBFhRZc, udp: true}
-  - {name: MOHSEN WV 27, server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
-  - {name: MOHSEN WV 28, server: 188.214.122.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg, udp: true}
-  - {name: MOHSEN WV 29, server: 37.120.137.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
-  - {name: MOHSEN WV 30, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr, udp: true}
-  - {name: MOHSEN WV 31, server: 37.120.212.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2XtmwMEgsVJYKWF4VjkL, udp: true}
-  - {name: MOHSEN WV 32, server: 45.83.91.66, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: fAmKHf3Dft78ZyzL9kYF, udp: true}
-  - {name: MOHSEN WV 33, server: 217.138.221.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
-  - {name: MOHSEN WV 34, server: 217.138.199.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: S4w7wHjBRxCVkxZLgTaN, udp: true}
-  - {name: MOHSEN WV 35, server: 37.120.136.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Xd2xnHT8tYkVt5BDk92b, udp: true}
-  - {name: MOHSEN WV 36, server: 188.126.89.174, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
-  - {name: MOHSEN WV 37, server: 84.247.50.10, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
-  - {name: MOHSEN WV 38, server: 217.138.197.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
-  - {name: MOHSEN WV 39, server: 86.106.136.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: h6WG7sxsLTBGn7uyvMG8, udp: true}
-  - {name: MOHSEN WV 40, server: 45.152.183.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
-  - {name: MOHSEN WV 41, server: 5.253.204.194, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qLzS7DF9qRYxJTHfckhC, udp: true}
-  - {name: MOHSEN WV 42, server: 77.243.177.78, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Qu9b6jbYLF5Dtha3n7W2, udp: true}
-  - {name: MOHSEN WV 43, server: 45.141.154.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: sHWJUzzQUXtQSR2P6HNJ, udp: true}
-  - {name: MOHSEN WV 44, server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
-  - {name: MOHSEN WV 45, server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
-  - {name: MOHSEN WV 46, server: 185.212.149.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: SxFvGWWUtEjyQnGbggq2, udp: true}
-  - {name: MOHSEN WV 47, server: 45.141.152.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: FTvsfXCvXLPFEMKNSADr, udp: true}
-  - {name: MOHSEN WV 48, server: 217.138.222.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
-  - {name: MOHSEN WV 49, server: 37.120.194.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2V7N5kGUghaLxF4aUqTw, udp: true}
-  - {name: MOHSEN WV 50, server: 185.128.26.130, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: GU3kqh2ZSkzFkRBp4hxy, udp: true}
-  - {name: MOHSEN WV 51, server: 86.105.25.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
-  - {name: MOHSEN WV 52, server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
-  - {name: MOHSEN WV 53, server: 37.120.193.170, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Z3WEYrWQdmDZnLvJ94vE, udp: true}
-  - {name: MOHSEN WV 54, server: 185.51.134.210, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2, udp: true}
-  - {name: MOHSEN WV 55, server: 89.238.177.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VPPqaR4qpLmNw37jaJg6, udp: true}
-  - {name: MOHSEN U 1, server: 167.88.63.29, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 2, server: 178.132.3.124, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 3, server: 167.88.63.29, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 4, server: 35.154.201.59, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 5, server: 167.88.63.29, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 6, server: 89.31.125.101, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 7, server: 135.125.248.215, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 8, server: 15.236.142.139, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 9, server: 18.185.63.41, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 10, server: 89.31.125.101, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 11, server: 135.125.248.215, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 12, server: 167.88.63.29, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 13, server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 14, server: 167.88.63.29, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 15, server: 135.125.248.215, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 16, server: 35.154.201.59, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 17, server: 178.132.3.124, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 18, server: 15.236.142.139, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 19, server: 18.185.63.41, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U 20, server: 15.236.142.139, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 1, server: 38.68.135.248, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 2, server: 196.240.126.74, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 3, server: 211.212.237.222, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 4, server: 196.196.156.106, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 5, server: 188.241.120.16, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 6, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 7, server: 217.138.193.6, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 8, server: 109.169.72.239, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 9, server: 109.169.72.249, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 10, server: 35.177.29.114, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 11, server: 89.238.165.226, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 12, server: 167.88.63.29, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 13, server: 38.64.138.103, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 14, server: 162.251.61.221, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 15, server: 81.90.189.229, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 16, server: 194.76.137.112, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 17, server: 37.120.147.230, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 18, server: 172.245.218.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 19, server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 20, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 21, server: 193.37.252.210, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 22, server: 38.91.107.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 23, server: 45.83.27.130, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 24, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 25, server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 26, server: 37.120.219.218, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 27, server: 167.88.61.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 28, server: 169.197.143.15, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 29, server: 13.233.237.144, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 30, server: 193.9.114.34, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 31, server: 177.54.150.39, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 32, server: 72.140.224.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 33, server: 35.180.88.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 34, server: 95.85.90.181, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 35, server: 135.125.248.215, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 36, server: 85.114.138.92, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 37, server: 93.186.201.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 38, server: 18.185.63.41, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 39, server: 185.104.184.78, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 40, server: 148.66.56.98, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 41, server: 134.209.155.247, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 42, server: 15.206.125.20, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 43, server: 66.203.112.53, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 44, server: 34.247.174.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 45, server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 46, server: 95.141.32.210, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 47, server: 95.141.37.111, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 48, server: 92.223.93.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 49, server: 103.140.136.200, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 50, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 51, server: 185.160.24.217, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 52, server: 194.156.231.185, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 53, server: 103.62.49.141, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 54, server: 185.101.35.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 55, server: 116.93.120.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN U TEST 56, server: 92.38.139.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN A TEST 1, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 2, server: 192.36.41.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 3, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 4, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 5, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 6, server: 147.78.1.236, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 7, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 8, server: 88.208.7.199, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 9, server: 51.15.0.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 10, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 11, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 12, server: 185.113.143.189, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 13, server: 194.68.44.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 14, server: 31.192.104.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 15, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 16, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 17, server: 176.97.70.125, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 18, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 19, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 20, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 21, server: 151.236.23.105, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 22, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 23, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 24, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 25, server: 213.159.2.186, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 26, server: 195.211.41.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 27, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 28, server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 29, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 30, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 31, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 32, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 33, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 34, server: 194.14.208.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 35, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 36, server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 37, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 38, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 39, server: 185.192.124.183, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 40, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 41, server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 42, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 43, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 44, server: 46.183.184.12, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 45, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 46, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 47, server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 48, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 49, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 50, server: 195.154.114.187, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 51, server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 52, server: 135.125.244.103, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 53, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 54, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 55, server: 91.245.255.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 56, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 57, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 58, server: 103.129.97.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 59, server: 103.84.192.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 60, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 61, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 62, server: 31.133.102.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN A TEST 63, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN SQ TEST 1, server: 104.149.149.158, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 2, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 3, server: 141.98.119.180, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 4, server: 185.219.134.52, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 5, server: 185.219.133.176, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 6, server: 185.219.134.182, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 7, server: 141.98.119.156, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 8, server: 185.219.134.161, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 9, server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 10, server: 51.195.217.21, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 11, server: 51.89.138.162, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 12, server: 77.247.125.27, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 13, server: 104.149.129.126, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 14, server: 92.38.171.101, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 15, server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 16, server: 155.94.196.234, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 17, server: 104.149.134.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 18, server: 2.56.178.201, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 19, server: 212.103.61.167, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 20, server: 5.188.0.184, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 21, server: 5.188.0.138, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 22, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 23, server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 24, server: 103.138.73.118, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 25, server: 92.38.149.173, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 26, server: 185.162.125.91, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 27, server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
-  - {name: MOHSEN SQ TEST 28, server: 51.222.142.94, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 29, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 30, server: 5.188.93.79, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 31, server: 193.108.118.154, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 32, server: 135.125.236.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 33, server: 185.243.214.55, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 34, server: 194.71.130.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 35, server: 3.249.52.148, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 36, server: 83.229.73.60, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 37, server: 185.162.126.217, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 38, server: 139.99.135.133, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 39, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 40, server: 91.193.5.198, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 41, server: 5.188.226.125, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 42, server: 92.223.93.140, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 43, server: 185.172.113.58, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 44, server: 92.119.179.62, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 45, server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 46, server: 82.118.21.21, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 47, server: 185.225.19.64, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 48, server: 92.38.139.95, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN SQ TEST 49, server: 92.38.152.142, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: MOHSEN XY TEST 1, server: 167.88.62.104, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 2, server: 142.202.48.58, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 3, server: 172.99.190.87, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 4, server: 134.195.196.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 5, server: 192.46.208.153, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 6, server: 134.195.198.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 7, server: 151.80.27.161, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 8, server: 172.105.244.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 9, server: 146.0.36.23, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 10, server: 91.194.84.53, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 11, server: 185.213.21.5, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 12, server: 185.213.21.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 13, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 14, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 15, server: 194.15.196.66, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN XY TEST 16, server: 194.15.196.54, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN PV TEST 1, server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
-  - {name: MOHSEN PV TEST 2, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA, udp: true}
-  - {name: MOHSEN PV TEST 3, server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
-  - {name: MOHSEN PV TEST 4, server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT, udp: true}
-  - {name: MOHSEN PV TEST 5, server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
-  - {name: MOHSEN PV TEST 6, server: 46.102.153.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
-  - {name: MOHSEN PV TEST 7, server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
-  - {name: MOHSEN PV TEST 8, server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA, udp: true}
-  - {name: MOHSEN PV TEST 9, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
-  - {name: MOHSEN PV TEST 10, server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
-  - {name: MOHSEN PV TEST 11, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
-  - {name: MOHSEN PV TEST 12, server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
-  - {name: MOHSEN PV TEST 13, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr, udp: true}
-  - {name: MOHSEN PV TEST 14, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
-  - {name: MOHSEN PV TEST 15, server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
-  - {name: MOHSEN PV TEST 16, server: 170.130.31.114, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
-  - {name: MOHSEN PV TEST 17, server: 45.152.182.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
-  - {name: MOHSEN PV TEST 18, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
-  - {name: MOHSEN PV TEST 19, server: 37.48.81.6, port: 22, type: ss, cipher: chacha20-ietf-poly1305, password: privatevpndotcom, udp: true}
-  - {name: MOHSEN P TEST 1, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: MOHSEN P TEST 2, server: 5.188.111.182, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: MOHSEN P TEST 3, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: MOHSEN P TEST 4, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: MOHSEN P TEST 5, server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: MOHSEN T TEST 1, server: 80.67.3.120, port: 40503, type: ss, cipher: aes-256-cfb, password: XS4DBE6, udp: true}
-  - {name: MOHSEN T TEST 2, server: 5.45.69.49, port: 43670, type: ss, cipher: aes-256-cfb, password: R3Mq7nn, udp: true}
-  - {name: MOHSEN T TEST 3, server: 37.1.192.129, port: 55605, type: ss, cipher: aes-256-cfb, password: ruEvBSp, udp: true}
-  - {name: MOHSEN T TEST 4, server: 37.1.210.145, port: 13724, type: ss, cipher: aes-256-cfb, password: 5ewqSLt, udp: true}
-  - {name: MOHSEN T TEST 5, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
-  - {name: MOHSEN VF TEST 1, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 2, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 3, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 4, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 5, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 6, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 7, server: 37.143.130.213, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 8, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 9, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 10, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 11, server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 12, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 13, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 14, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 15, server: 172.255.248.39, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 16, server: 172.255.248.40, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 17, server: 185.192.124.183, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 18, server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 19, server: 43.254.132.220, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 20, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 21, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 22, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 23, server: 185.113.143.189, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 24, server: 147.78.3.242, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 25, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 26, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 27, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 28, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 29, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 30, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 31, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 32, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 33, server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 34, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 35, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 36, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 37, server: 51.77.194.83, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 38, server: 145.239.75.87, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 39, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 40, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 41, server: 51.15.0.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 42, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 43, server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 44, server: 213.169.137.214, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 45, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 46, server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 47, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 48, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 49, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 50, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 51, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 52, server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 53, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 54, server: 139.59.30.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 55, server: 68.183.93.38, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 56, server: 185.227.137.209, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 57, server: 31.133.102.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 58, server: 31.192.104.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 59, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 60, server: 149.28.167.90, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 61, server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 62, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 63, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 64, server: 45.114.130.92, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 65, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN VF TEST 66, server: 129.232.222.74, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 1, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 2, server: 51.161.118.38, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 3, server: 51.161.118.38, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 4, server: 51.161.118.38, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 5, server: 134.195.196.33, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: MOHSEN BN TEST 1 6, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 7, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 8, server: 46.183.184.12, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 9, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 10, server: 51.161.118.38, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 11, server: 95.85.90.181, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 12, server: 31.22.110.232, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: D8YSqCZ5FIpRy9a3Oen24jASaXaSeYCR36x0DxNgZK3By8OFECADzplTu3c7wl, udp: true}
-  - {name: MOHSEN BN TEST 1 13, server: 31.22.110.231, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: D3YK0wxpIA5lgS326ej3qaDDaFSFROz8AZOYByXaE3Zn4u98pyCcRTelSxNCC7, udp: true}
-  - {name: MOHSEN BN TEST 1 14, server: 91.245.255.27, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 15, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 16, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 17, server: 103.129.97.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 18, server: 103.84.192.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 19, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: MOHSEN BN TEST 1 20, server: 45.66.134.210, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 21, server: 194.163.134.108, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Tq5iJl9cYkzf, udp: true}
-  - {name: MOHSEN BN TEST 1 22, server: 31.171.153.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 23, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 24, server: 194.14.208.111, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 25, server: 118.107.244.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN BN TEST 1 26, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN BN TEST 1 27, server: 118.107.244.114, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: MOHSEN BN TEST 1 28, server: 213.167.242.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: BDybfjpcRuiW, udp: true}
-  - {name: MOHSEN BN TEST 1 29, server: 118.107.244.110, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: MOHSEN BN TEST 1 30, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 31, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 32, server: 177.54.150.39, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 33, server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 1 34, server: 51.161.118.38, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 35, server: 51.161.118.38, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 1 36, server: 51.161.118.38, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 1, server: v112.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: v112.v2dns.xyz}, udp: true}
-  - {name: MOHSEN BN TEST 2 2, server: 194.124.76.241, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 3, server: 194.124.76.194, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 4, server: 45.144.112.162, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 5, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 6, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 7, server: 104.255.66.87, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 8, server: v111.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: v111.v2dns.xyz}, udp: true}
-  - {name: MOHSEN BN TEST 2 9, server: 89.163.220.82, port: 11016, type: vmess, uuid: 842fcd78-475d-11ec-aa20-9cb6548b0ccc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: 89.163.220.82}, udp: true}
-  - {name: MOHSEN BN TEST 2 10, server: 45.78.57.201, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 11, server: 77.247.126.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 12, server: 185.239.71.60, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 13, server: v1t.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: v1t.v2dns.xyz}, udp: true}
-  - {name: MOHSEN BN TEST 2 14, server: us1nhg-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: us1nhg-node.aiqiche123.com}, udp: true}
-  - {name: MOHSEN BN TEST 2 15, server: 74.121.149.28, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 16, server: 98.142.141.130, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 17, server: 80.251.223.37, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 18, server: 104.244.88.15, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 19, server: 23.105.208.198, port: 38922, type: vmess, uuid: f3e846c1-d8e4-42df-86d4-f4e5028630d8, alterId: 8, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: MOHSEN BN TEST 2 20, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 21, server: 63.250.61.77, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 22, server: 63.250.61.77, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 23, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 24, server: 95.141.37.111, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 25, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 26, server: 185.160.24.217, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: MOHSEN BN TEST 2 27, server: 176.97.70.125, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 28, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 29, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 30, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 31, server: 194.68.44.19, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 32, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 33, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 34, server: 151.236.23.105, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 35, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 36, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MOHSEN BN TEST 2 37, server: 195.211.41.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: Australia 🇦🇺 Sydney, server: 66.203.112.53, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Belgium 🇧🇪 Brussels, server: 193.9.114.34, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Brazil 🇧🇷 SãoPaulo, server: 177.54.150.39, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Canada 🇨🇦 Montreal, server: 142.44.135.104, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: China 🇨🇳 Beijing, server: 72.140.224.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Gravelines, server: 46.105.73.221, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 2, server: 163.172.65.156, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 3, server: 35.180.88.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 4, server: 51.159.30.61, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 5 YT, server: 95.85.90.181, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 6, server: 135.125.248.215, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris 7, server: 15.236.142.139, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: France 🇫🇷 Paris, server: 163.172.110.54, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 Berlin, server: 196.244.72.5, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 Düsseldorf 2, server: 85.114.138.92, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 Düsseldorf, server: 93.186.201.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 FrankfurtamMain 3, server: 18.185.63.41, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 FrankfurtamMain 2, server: 185.104.184.78, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 FrankfurtamMain, server: 3.126.91.132, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 LimburganderLahn 2, server: 135.125.248.209, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Germany 🇩🇪 LimburganderLahn, server: 135.125.253.250, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Hong Kong🇭🇰Central, server: 148.66.56.98, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: India 🇮🇳 Bengaluru, server: 134.209.155.247, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: India 🇮🇳 Mumbai 2, server: 15.206.125.20, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: India 🇮🇳 Mumbai 3, server: 35.154.201.59, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: India 🇮🇳 Mumbai, server: 13.233.237.144, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Ireland 🇮🇪 Dublin, server: 34.247.174.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Israel 🇮🇱 TelAviv, server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Italy 🇮🇹 Milan 2, server: 92.223.79.31, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Italy 🇮🇹 Milan 3, server: 95.141.32.210, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Italy 🇮🇹 Milan 4, server: 95.141.37.111, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Italy 🇮🇹 Milan, server: 92.223.93.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Japan 🇯🇵 Tokyo 2, server: 5.183.176.114, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Japan 🇯🇵 Tokyo 3, server: 103.140.136.200, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Japan 🇯🇵 Tokyo 4, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Japan 🇯🇵 Tokyo 5, server: 185.160.24.217, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Japan 🇯🇵 Tokyo, server: 194.156.231.185, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Netherlands 🇳🇱 Naaldwijk, server: 178.132.3.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: New Zealand 🇳🇿 Auckland, server: 103.62.49.141, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Norway 🇳🇴 Lensvik, server: 185.101.35.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Philippines 🇵🇭 MakatiCity, server: 116.93.120.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Russia 🇷🇺 Moscow, server: 92.38.139.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Singapore 🇸🇬 QueenstownEstate 2, server: 81.90.189.152, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Singapore 🇸🇬 QueenstownEstate, server: 81.90.189.229, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Singapore 🇸🇬 Singapore 2, server: 51.79.178.64, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Singapore 🇸🇬 Singapore 3, server: 196.240.126.74, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Singapore 🇸🇬 Singapore, server: 139.99.62.219, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: South Korea 🇰🇷 Gangnam, server: 211.212.237.222, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Sweden 🇸🇪 Stockholm, server: 196.196.156.106, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Switzerland 🇨🇭 Zurich, server: 188.241.120.16, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Taiwan 🇹🇼 Chang-hua, server: 61.224.67.42, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: Turkey 🇹🇷 Bahçelievler, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Arab Emirates 🇦🇪 Dubai, server: 217.138.193.6, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Arab Emirates 🇦🇪 Sharjah 2, server: 109.169.72.239, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Arab Emirates 🇦🇪 Sharjah, server: 109.169.72.249, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Kingdom 🇬🇧 Basingstoke, server: 78.129.253.9, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Kingdom 🇬🇧 London 2, server: 89.35.29.96, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Kingdom 🇬🇧 London 3, server: 35.177.29.114, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Kingdom 🇬🇧 London 4, server: 89.238.165.226, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: United Kingdom 🇬🇧 London, server: 89.34.96.73, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Atlanta 2, server: 167.88.63.29, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Atlanta, server: 92.119.16.204, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Chicago 2, server: 38.64.138.103, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Chicago, server: 162.251.61.221, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Dallas 2, server: 38.68.134.135, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Dallas, server: 38.68.135.248, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Denver, server: 194.76.137.112, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 LasVegas, server: 37.120.147.230, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 LosAngeles 2, server: 185.153.180.238, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 LosAngeles 3, server: 172.245.218.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 LosAngeles 4, server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 LosAngeles, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Miami 2, server: 193.37.252.210, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Miami, server: 38.91.107.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 NewYork 2, server: 45.83.27.130, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 NewYork 3, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 NewYork, server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Phoenix, server: 37.120.219.218, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 SantaClara, server: 167.88.61.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Seattle 2, server: 38.143.66.125, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Seattle, server: 169.197.143.15, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Washington, server: 167.88.61.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AZR 🇦🇿 Baku, server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: AZR 🇦🇿 Baku (1), server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
-  - {name: B&H 🇧🇦 Novi Travnik, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: BGR 🇧🇬 Sofia, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: BGR 🇧🇬 Sofia (1), server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: BLG 🇧🇪 Flanders, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CAN 🇨🇦 Montreal, server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: CAN 🇨🇦 Montreal (1), server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CAN 🇨🇦 Montreal (2), server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CAN 🇨🇦 Toronto, server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: CAN 🇨🇦 Toronto (1), server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: CAN 🇨🇦 Toronto (2), server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: CAN 🇨🇦 Toronto (3), server: 134.195.196.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: CAN 🇨🇦 Toronto (4), server: 134.195.196.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: CAN 🇨🇦 Toronto (5), server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: COL 🇨🇴 Bogota, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CYP 🇨🇾 Nicosia, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CZE 🇨🇿 Prague, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: DNK 🇩🇰 Copenhagen, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: DNK 🇩🇰 Copenhagen (1), server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: DNK 🇩🇰 Copenhagen (2), server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: GER 🇩🇪 Düsseldorf, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: GER 🇩🇪 Düsseldorf (1), server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: GER 🇩🇪 Hesse, server: 135.125.236.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: GER 🇩🇪 Hesse (1), server: 135.125.244.103, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: GER 🇩🇪 Hesse (2), server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: GER 🇩🇪 Nuremberg, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: GRE 🇬🇷 Athens, server: 185.243.214.55, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: GRE 🇬🇷 Thessaloniki, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: HUN 🇭🇺 Budapest, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: HUN 🇭🇺 Budapest (1), server: 194.71.130.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: ICL 🇮🇸 Hafnarfjordur, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IND 🇮🇳 Jaipur, server: 103.129.97.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IRL 🇮🇪 Dublin, server: 34.247.174.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇦🇷 ARG 🇦🇷 Buenos Aires, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇦🇺 AUT 🇦🇹 Graz, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇧🇪 BEL 🇧🇪 Oostkamp, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇧🇷 BRA 🇧🇷 Sao Paulo, server: 177.54.150.39, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇧🇷 BRA 🇧🇷 Sao Paulo (1), server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇪🇸 EST 🇪🇪 Tallinn, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Gravelines, server: 95.85.90.181, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Paris, server: 135.125.248.215, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Paris (1), server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Roubaix, server: 95.85.90.181, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Roubaix (1), server: 95.85.90.181, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Roubaix (2), server: 95.85.90.181, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Roubaix (3), server: 95.85.90.181, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇫🇷 FRA 🇫🇷 Roubaix (4), server: 151.80.27.161, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇭🇰 HKG 🇭🇰 Central, server: 91.245.255.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇷🇴 CROA 🇭🇷 Zagreb, server: 46.183.184.12, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IND 🇮🇳 Mumbai, server: 192.46.208.153, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: IND 🇮🇳 Mumbai (1), server: 192.46.211.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: ISLM 🇮🇲 Douglas, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: ISR 🇮🇱 Haifa, server: 185.162.125.91, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: ISR 🇮🇱 Haifa (1), server: 83.229.73.60, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: ISR 🇮🇱 Haifa (2), server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: ISR 🇮🇱 TelAviv, server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: ITA 🇮🇹 Milan, server: 95.141.37.111, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: ITA 🇮🇹 Milan (1), server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: ITA 🇮🇹 Milan (2), server: 185.213.21.5, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: LTV 🇱🇻 Riga, server: 192.36.41.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: LUX 🇱🇺 Luxembourg, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MDA 🇲🇩 Chisinau, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MKD 🇲🇰 Skopje, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MLT 🇲🇹 Qormi, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: MLT 🇲🇹 Safi, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: NOR 🇳🇴 Kristiansad, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: NOR 🇳🇴 Oslo, server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: NOR 🇳🇴 Oslo (1), server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SNG 🇸🇬 QueenstownEstate, server: 81.90.189.229, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: SPN 🇪🇸 Seville, server: 151.236.23.105, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SRB 🇷🇸 Belgrade, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SVK 🇸🇰 Bratislava, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SWE 🇸🇪 Stockholm, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: SWE 🇸🇪 Stockholm (1), server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: SWIT 🇨🇭 Zurich, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: TUR 🇹🇷 Bahçelievler, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: TUR 🇹🇷 Istanbul, server: 141.98.119.156, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: TUR 🇹🇷 Istanbul (1), server: 141.98.119.180, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: TUR 🇹🇷 Istanbul (2), server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: TUR 🇹🇷 Istanbul (3), server: 185.219.134.52, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: TUR 🇹🇷 Istanbul (4), server: 185.219.134.182, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇨🇳 TW 🇹🇼 Taipei, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London, server: 51.89.138.162, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (1), server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (2), server: 172.99.190.7, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (3), server: 172.99.190.7, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (4), server: 172.99.190.35, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇯🇵 JPN 🇯🇵 Tokyo, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇯🇵 JPN 🇯🇵 Tokyo (1), server: 185.160.24.217, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇯🇵 JPN 🇯🇵 Tokyo (2), server: 185.160.24.217, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇰🇷 KOR 🇰🇷 Seoul, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇲🇾 MYS 🇲🇾 Kuala Lumpur, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇷🇴 ROM 🇷🇴 Bucharest, server: 194.68.44.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇷🇴 ROM 🇷🇴 Lasi, server: 185.225.19.64, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇷🇺 RUS 🇷🇺 Moscow, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇷🇺 RUS 🇷🇺 Moscow (1), server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
-  - {name: 🇸🇬 SNG 🇸🇬 Singapore, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: 🇸🇬 SNG 🇸🇬 Singapore (1), server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇻🇳 SVN 🇸🇮 Ljubljana, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: VIET 🇻🇳 Ho Chi Minh City, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (10), server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (11), server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (12), server: 172.99.190.188, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (13), server: 172.99.190.205, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (14), server: 172.99.190.205, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (15), server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (16), server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (17), server: 172.99.190.188, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (18), server: 172.99.190.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (19), server: 172.99.190.230, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (20), server: 172.99.190.230, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (21), server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (22), server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (5), server: 172.99.190.87, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (6), server: 172.99.190.90, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (7), server: 172.99.190.92, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (8), server: 172.99.190.92, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇬🇧 UK 🇬🇧 London (9), server: 172.99.190.109, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇬🇧 UKR 🇺🇦 Kharkiv, server: 195.211.41.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇲 Virginia, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇲 Virginia (1), server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇲 Virginia (2), server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇲 Virginia (3), server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Ashburn, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Ashburn (1), server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Ashburn (2), server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Ashburn (3), server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Atlanta, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 California, server: 5.188.111.182, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Dalas, server: 167.88.62.104, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Georgia, server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Georgia (1), server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Los Angeles, server: 2.56.178.201, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Los Angeles (1), server: 104.149.129.126, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Los Angeles (2), server: 104.149.149.158, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Los Angeles (3), server: 155.94.196.234, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Los Angeles (4), server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 LosAngeles, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 LosAngeles (1), server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 New Jersey, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 New Memphis, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 New Memphis (1), server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 New York, server: 142.202.48.58, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 NewYork, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 NewYork (1), server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 San Jose, server: 103.138.73.118, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: 🇺🇲 USA 🇺🇸 Santa Clara, server: 92.38.149.173, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-
+  - {name: MOHSENَ 1, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 2, server: 185.219.134.161, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 3, server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 4, server: 18.185.63.41, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 5, server: 18.185.63.41, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 6, server: 5.45.69.49, port: 43670, type: ss, cipher: aes-256-cfb, password: R3Mq7nn, udp: true}
+  - {name: MOHSENَ 7, server: 172.99.190.7, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَ 8, server: 103.105.48.199, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 9, server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 10, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَ 11, server: 172.99.190.35, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَ 12, server: 93.186.201.124, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 13, server: 89.238.165.226, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 14, server: 185.219.134.52, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 15, server: 172.99.190.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 16, server: 91.194.84.53, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 17, server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 18, server: 185.219.133.176, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 19, server: 77.247.125.27, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 20, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَ 21, server: 185.213.21.5, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 22, server: 135.125.248.215, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 23, server: 172.99.190.230, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 24, server: 193.9.114.34, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 25, server: 188.241.120.16, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 26, server: 77.243.177.78, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Qu9b6jbYLF5Dtha3n7W2, udp: true}
+  - {name: MOHSENَ 27, server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَ 28, server: 172.99.190.230, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَ 29, server: 172.99.190.92, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 30, server: 95.141.37.111, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 31, server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَ 32, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَ 33, server: 185.104.184.78, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 34, server: 85.114.138.92, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 35, server: 172.99.190.92, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَ 36, server: 172.99.190.7, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَ 37, server: 172.99.190.90, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: MOHSENَ 38, server: 196.196.156.106, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 39, server: 146.0.36.23, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 40, server: 172.105.244.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 41, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَ 42, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: MOHSENَ 43, server: 51.15.0.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَ 44, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَ 45, server: 141.98.119.180, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَ 46, server: 18.185.63.41, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 47, server: 172.99.190.109, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَ 48, server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَ 49, server: 35.177.29.114, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَ 50, server: 145.239.1.137, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََ 1, server: 135.125.236.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 2, server: 145.239.1.137, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENََ 3, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 4, server: 145.239.1.137, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: MOHSENََ 5, server: 194.15.196.54, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََ 6, server: 91.193.5.198, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 7, server: 145.239.1.137, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: MOHSENََ 8, server: 92.119.179.62, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 9, server: 141.98.119.156, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 10, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 11, server: 51.89.138.162, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 12, server: 82.118.21.21, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 13, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََ 14, server: 145.239.1.137, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََ 15, server: 185.101.35.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 16, server: 145.239.1.137, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: MOHSENََ 17, server: 193.108.118.154, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 18, server: 3.249.52.148, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 19, server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: MOHSENََ 20, server: 145.239.1.137, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: MOHSENََ 21, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 22, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 23, server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 24, server: 45.152.183.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
+  - {name: MOHSENََ 25, server: 92.223.93.140, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 26, server: 195.154.114.187, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 27, server: 194.71.130.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 28, server: 23.106.33.156, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: R3wS0jxB8ARCZgapOF8a4CpFc5lSOqCDZYSXD2a3zuY7eETD6IANy39elnxKy3, udp: true}
+  - {name: MOHSENََ 29, server: 51.195.217.21, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 30, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 31, server: 35.180.88.172, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 32, server: 172.99.190.186, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََ 33, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََ 34, server: 89.238.177.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VPPqaR4qpLmNw37jaJg6, udp: true}
+  - {name: MOHSENََ 35, server: 92.223.93.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 36, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 37, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 38, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 39, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 40, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََ 41, server: 194.15.196.66, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََ 42, server: 185.225.19.64, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََ 43, server: 95.141.37.111, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََ 44, server: 86.106.136.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: h6WG7sxsLTBGn7uyvMG8, udp: true}
+  - {name: MOHSENََ 45, server: 185.90.57.152, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
+  - {name: MOHSENََ 46, server: 38.39.192.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََ 47, server: 77.243.177.78, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Qu9b6jbYLF5Dtha3n7W2, udp: true}
+  - {name: MOHSENََ 48, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََ 49, server: 172.99.190.186, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََ 50, server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: MOHSENَََ 1, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََ 2, server: 185.51.134.210, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2, udp: true}
+  - {name: MOHSENَََ 3, server: 145.239.1.137, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENَََ 4, server: 86.105.25.162, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
+  - {name: MOHSENَََ 5, server: 145.239.1.137, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََ 6, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََ 7, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: MOHSENَََ 8, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََ 9, server: 37.120.136.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Xd2xnHT8tYkVt5BDk92b, udp: true}
+  - {name: MOHSENَََ 10, server: 84.247.50.10, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
+  - {name: MOHSENَََ 11, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَََ 12, server: 217.138.199.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: S4w7wHjBRxCVkxZLgTaN, udp: true}
+  - {name: MOHSENَََ 13, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 14, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََ 15, server: 194.163.134.108, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Tq5iJl9cYkzf, udp: true}
+  - {name: MOHSENَََ 16, server: 194.68.44.19, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 17, server: 135.125.248.215, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََ 18, server: 172.99.190.186, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََ 19, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 20, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr, udp: true}
+  - {name: MOHSENَََ 21, server: 95.85.90.181, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََ 22, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 23, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 24, server: 192.36.41.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 25, server: 217.138.222.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
+  - {name: MOHSENَََ 26, server: 172.99.190.90, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََ 27, server: 92.38.139.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََ 28, server: 5.183.100.87, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََ 29, server: 37.120.137.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
+  - {name: MOHSENَََ 30, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 31, server: 92.38.171.101, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََ 32, server: 185.243.214.55, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََ 33, server: 92.38.139.95, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََ 34, server: 194.68.44.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 35, server: 217.138.197.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: MOHSENَََ 36, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 37, server: 15.206.125.20, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََ 38, server: 46.29.218.6, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََ 39, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 40, server: 23.226.131.146, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
+  - {name: MOHSENَََ 41, server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
+  - {name: MOHSENَََ 42, server: 13.233.237.144, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََ 43, server: 37.120.194.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2V7N5kGUghaLxF4aUqTw, udp: true}
+  - {name: MOHSENَََ 44, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 45, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 46, server: 86.105.25.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
+  - {name: MOHSENَََ 47, server: 195.211.41.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََ 48, server: 45.83.91.66, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: fAmKHf3Dft78ZyzL9kYF, udp: true}
+  - {name: MOHSENَََ 49, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَََ 50, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 1, server: 135.125.244.103, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 2, server: 212.103.61.167, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََ 3, server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 4, server: 194.124.76.241, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 5, server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 6, server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََ 7, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: MOHSENََََ 8, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََََ 9, server: 217.138.221.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
+  - {name: MOHSENََََ 10, server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََ 11, server: 95.85.90.181, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 12, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََََ 13, server: 134.195.198.252, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََ 14, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 15, server: 63.250.61.77, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 16, server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 17, server: 134.195.198.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 18, server: 5.188.0.138, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََ 19, server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 20, server: 63.250.61.77, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 21, server: 162.251.61.221, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 22, server: 151.236.23.105, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 23, server: 92.223.59.188, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 24, server: 188.214.122.138, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg, udp: true}
+  - {name: MOHSENََََ 25, server: 38.107.226.132, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENََََ 26, server: 134.195.198.252, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 27, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََ 28, server: 37.19.218.197, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
+  - {name: MOHSENََََ 29, server: 134.195.198.252, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََََ 30, server: 38.107.226.132, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: MOHSENََََ 31, server: 51.161.118.38, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 32, server: 45.152.183.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
+  - {name: MOHSENََََ 33, server: 109.169.72.239, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 34, server: 51.161.118.38, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 35, server: 134.195.198.252, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 36, server: 109.169.72.249, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 37, server: 51.161.118.38, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 38, server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
+  - {name: MOHSENََََ 39, server: 193.37.252.210, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 40, server: 134.195.198.95, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 41, server: 184.75.208.234, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: MOHSENََََ 42, server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََ 43, server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 44, server: 51.161.118.38, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََ 45, server: 188.126.89.174, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
+  - {name: MOHSENََََ 46, server: 185.51.134.210, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2, udp: true}
+  - {name: MOHSENََََ 47, server: 134.195.198.95, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََََ 48, server: 217.138.200.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
+  - {name: MOHSENََََ 49, server: 172.107.233.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََ 50, server: 194.124.76.194, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 1, server: 69.39.239.72, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 2jQLXYq5xgrE3gKXmfjB, udp: true}
+  - {name: MOHSENَََََ 2, server: 5.188.0.184, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 3, server: 172.107.233.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََ 4, server: 38.107.226.132, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENَََََ 5, server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََ 6, server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
+  - {name: MOHSENَََََ 7, server: 37.120.212.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2XtmwMEgsVJYKWF4VjkL, udp: true}
+  - {name: MOHSENَََََ 8, server: 172.107.233.234, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََ 9, server: 38.91.107.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 10, server: 104.223.91.146, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
+  - {name: MOHSENَََََ 11, server: 184.75.208.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: MOHSENَََََ 12, server: 172.107.233.234, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََ 13, server: 38.107.226.132, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENَََََ 14, server: 135.125.248.215, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 15, server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
+  - {name: MOHSENَََََ 16, server: 31.133.102.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََ 17, server: 38.39.192.74, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََ 18, server: 70.32.0.208, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q4apPAjyY9knqKS4e9xZ, udp: true}
+  - {name: MOHSENَََََ 19, server: 188.214.122.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg, udp: true}
+  - {name: MOHSENَََََ 20, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََ 21, server: 104.149.129.126, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 22, server: 155.94.196.234, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 23, server: 70.39.71.2, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSENَََََ 24, server: 103.138.73.118, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 25, server: 51.161.118.38, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 26, server: 37.120.147.230, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 27, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 28, server: 104.149.134.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 29, server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 30, server: 31.171.153.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََ 31, server: 134.195.198.252, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََ 32, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
+  - {name: MOHSENَََََ 33, server: 134.209.155.247, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 34, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 35, server: 5.188.111.182, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: MOHSENَََََ 36, server: 170.130.15.34, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
+  - {name: MOHSENَََََ 37, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 38, server: 172.245.218.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 39, server: 104.149.149.158, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 40, server: 37.120.219.218, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 41, server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA, udp: true}
+  - {name: MOHSENَََََ 42, server: 77.247.126.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 43, server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََ 44, server: 66.55.92.75, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
+  - {name: MOHSENَََََ 45, server: 51.161.118.38, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 46, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: MOHSENَََََ 47, server: 69.39.239.72, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2jQLXYq5xgrE3gKXmfjB, udp: true}
+  - {name: MOHSENَََََ 48, server: 72.140.224.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََ 49, server: 170.130.31.114, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
+  - {name: MOHSENَََََ 50, server: 83.229.73.60, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 1, server: 169.62.109.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
+  - {name: MOHSENََََََ 2, server: 167.88.61.236, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 3, server: 192.46.208.153, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََََ 4, server: 172.99.190.109, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََََ 5, server: 2.56.178.201, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 6, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: MOHSENََََََ 7, server: 51.161.118.38, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 8, server: 92.38.149.173, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 9, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََََ 10, server: 104.140.21.178, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL, udp: true}
+  - {name: MOHSENََََََ 11, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 12, server: 212.199.61.55, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: MOHSENََََََ 13, server: 188.241.179.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2SKtWLpv3tWyS97wqrxC, udp: true}
+  - {name: MOHSENََََََ 14, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 15, server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
+  - {name: MOHSENََََََ 16, server: 185.128.26.130, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: GU3kqh2ZSkzFkRBp4hxy, udp: true}
+  - {name: MOHSENََََََ 17, server: 185.172.113.58, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 18, server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSENََََََ 19, server: 185.162.125.91, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 20, server: 185.162.126.217, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََ 21, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 22, server: 89.31.125.101, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 23, server: 103.129.97.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 24, server: 66.55.92.101, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: MOHSENََََََ 25, server: 89.31.125.101, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 26, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
+  - {name: MOHSENََََََ 27, server: 185.160.24.217, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 28, server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH, udp: true}
+  - {name: MOHSENََََََ 29, server: 177.54.150.39, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 30, server: 185.172.113.85, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 31, server: 37.120.193.170, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Z3WEYrWQdmDZnLvJ94vE, udp: true}
+  - {name: MOHSENََََََ 32, server: 185.172.113.156, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 33, server: 172.105.59.32, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENََََََ 34, server: 185.172.113.85, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 35, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
+  - {name: MOHSENََََََ 36, server: 177.54.152.89, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
+  - {name: MOHSENََََََ 37, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 38, server: 37.1.210.145, port: 13724, type: ss, cipher: aes-256-cfb, password: 5ewqSLt, udp: true}
+  - {name: MOHSENََََََ 39, server: 107.182.234.233, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: MOHSENََََََ 40, server: 172.105.59.32, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENََََََ 41, server: 169.38.107.52, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
+  - {name: MOHSENََََََ 42, server: 177.54.150.39, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 43, server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
+  - {name: MOHSENََََََ 44, server: 185.172.113.85, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 45, server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
+  - {name: MOHSENََََََ 46, server: 91.245.255.27, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 47, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: MOHSENََََََ 48, server: 185.160.24.217, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََ 49, server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََ 50, server: 45.66.134.210, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 1, server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF, udp: true}
+  - {name: MOHSENَََََََ 2, server: 185.172.113.156, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 3, server: 91.245.255.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 4, server: 213.167.242.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: BDybfjpcRuiW, udp: true}
+  - {name: MOHSENَََََََ 5, server: 185.172.113.85, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 6, server: 148.66.56.98, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 7, server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9, udp: true}
+  - {name: MOHSENَََََََ 8, server: 185.172.113.85, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 9, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 10, server: 185.172.113.85, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 11, server: 116.93.120.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 12, server: 185.172.113.85, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 13, server: 185.172.113.156, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 14, server: 103.140.136.200, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 15, server: 185.172.113.85, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 16, server: 104.140.21.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL, udp: true}
+  - {name: MOHSENَََََََ 17, server: 103.62.49.141, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 18, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 19, server: 185.172.113.85, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 20, server: 217.138.193.6, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 21, server: 66.203.112.53, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 22, server: 118.107.244.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََََ 23, server: 139.99.135.133, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENَََََََ 24, server: 185.172.113.85, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 25, server: 185.172.113.156, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 26, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 27, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََََ 28, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA, udp: true}
+  - {name: MOHSENَََََََ 29, server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT, udp: true}
+  - {name: MOHSENَََََََ 30, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 31, server: 185.172.113.156, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 32, server: 217.138.193.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: kGm85U8ewgPXbKr5LGxc, udp: true}
+  - {name: MOHSENَََََََ 33, server: 118.107.244.114, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََََ 34, server: 172.104.168.83, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: MOHSENَََََََ 35, server: 118.107.244.112, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََََ 36, server: 185.172.113.156, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 37, server: 217.197.161.166, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 38, server: 188.126.89.174, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
+  - {name: MOHSENَََََََ 39, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENَََََََ 40, server: 71.19.249.109, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QBLw4rLXQ6ebxpWwSKDL, udp: true}
+  - {name: MOHSENَََََََ 41, server: 118.107.244.110, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: MOHSENَََََََ 42, server: 217.197.161.166, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 43, server: 95.85.90.181, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 44, server: 46.102.153.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: MOHSENَََََََ 45, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENَََََََ 46, server: 217.197.161.166, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 47, server: 217.197.161.166, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 48, server: 62.216.92.167, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 49, server: 217.197.161.166, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENَََََََ 50, server: 217.197.161.166, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 1, server: 131.255.4.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9, udp: true}
+  - {name: MOHSENََََََََ 2, server: 135.125.248.215, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 3, server: 118.107.244.110, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: MOHSENََََََََ 4, server: 103.84.192.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 5, server: 95.85.90.181, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 6, server: 217.197.161.166, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 7, server: 176.97.70.125, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 8, server: 194.14.208.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 9, server: 95.85.90.181, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 10, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 11, server: 217.197.161.166, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 12, server: 217.197.161.166, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: MOHSENََََََََ 13, server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: MOHSENََََََََ 14, server: 23.106.33.152, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: S3YqACC58uajapxRy7S3D63xcXOeFnl2w9NZezAKDgSYD0RZBFTy3pI8ElCaO4, udp: true}
+  - {name: MOHSENََََََََ 15, server: 194.14.208.111, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 16, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MOHSENََََََََ 17, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: MOHSENََََََََ 18, server: 60.249.3.226, port: 80, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: icloud.com}, udp: true}
+  - {name: MOHSENََََََََ 19, server: az0708-a.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 20, server: az0708-d.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 21, server: v111.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v111.v2dns.xyz}, udp: true}
+  - {name: MOHSENََََََََ 22, server: v1t.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v1t.v2dns.xyz}, udp: true}
+  - {name: MOHSENََََََََ 23, server: tw-tb-e.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 24, server: az0708-c.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 25, server: us1nhg-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: us1nhg-node.aiqiche123.com}, udp: true}
+  - {name: MOHSENََََََََ 26, server: hk1kte-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: hk1kte-node.aiqiche123.com}, udp: true}
+  - {name: MOHSENََََََََ 27, server: v112.v2dns.xyz, port: 443, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v112.v2dns.xyz}, udp: true}
+  - {name: MOHSENََََََََ 28, server: tw-tb-b.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 29, server: hkbn-home-a.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
+  - {name: MOHSENََََََََ 30, server: tw-tb-d.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, udp: true}
 proxy-groups:
   - name: ⚙ MENU
     type: select
     proxies:
       - ⚡Fastest
-      - Ufo
-      - VPN
+
 
   - name: ⚡Fastest
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 600
+    interval: 300
     proxies:
-      - MOHSEN WV 1
-      - MOHSEN WV 2
-      - MOHSEN WV 3
-      - MOHSEN WV 4
-      - MOHSEN WV 5
-      - MOHSEN WV 6
-      - MOHSEN WV 7
-      - MOHSEN WV 8
-      - MOHSEN WV 9
-      - MOHSEN WV 10
-      - MOHSEN WV 11
-      - MOHSEN WV 12
-      - MOHSEN WV 13
-      - MOHSEN WV 14
-      - MOHSEN WV 15
-      - MOHSEN WV 16
-      - MOHSEN WV 17
-      - MOHSEN WV 18
-      - MOHSEN WV 19
-      - MOHSEN WV 20
-      - MOHSEN WV 21
-      - MOHSEN WV 22
-      - MOHSEN WV 23
-      - MOHSEN WV 24
-      - MOHSEN WV 25
-      - MOHSEN WV 26
-      - MOHSEN WV 27
-      - MOHSEN WV 28
-      - MOHSEN WV 29
-      - MOHSEN WV 30
-      - MOHSEN WV 31
-      - MOHSEN WV 32
-      - MOHSEN WV 33
-      - MOHSEN WV 34
-      - MOHSEN WV 35
-      - MOHSEN WV 36
-      - MOHSEN WV 37
-      - MOHSEN WV 38
-      - MOHSEN WV 39
-      - MOHSEN WV 40
-      - MOHSEN WV 41
-      - MOHSEN WV 42
-      - MOHSEN WV 43
-      - MOHSEN WV 44
-      - MOHSEN WV 45
-      - MOHSEN WV 46
-      - MOHSEN WV 47
-      - MOHSEN WV 48
-      - MOHSEN WV 49
-      - MOHSEN WV 50
-      - MOHSEN WV 51
-      - MOHSEN WV 52
-      - MOHSEN WV 53
-      - MOHSEN WV 54
-      - MOHSEN WV 55
-      - MOHSEN U 1
-      - MOHSEN U 2
-      - MOHSEN U 3
-      - MOHSEN U 4
-      - MOHSEN U 5
-      - MOHSEN U 6
-      - MOHSEN U 7
-      - MOHSEN U 8
-      - MOHSEN U 9
-      - MOHSEN U 10
-      - MOHSEN U 11
-      - MOHSEN U 12
-      - MOHSEN U 13
-      - MOHSEN U 14
-      - MOHSEN U 15
-      - MOHSEN U 16
-      - MOHSEN U 17
-      - MOHSEN U 18
-      - MOHSEN U 19
-      - MOHSEN U 20
-      - MOHSEN U TEST 1
-      - MOHSEN U TEST 2
-      - MOHSEN U TEST 3
-      - MOHSEN U TEST 4
-      - MOHSEN U TEST 5
-      - MOHSEN U TEST 6
-      - MOHSEN U TEST 7
-      - MOHSEN U TEST 8
-      - MOHSEN U TEST 9
-      - MOHSEN U TEST 10
-      - MOHSEN U TEST 11
-      - MOHSEN U TEST 12
-      - MOHSEN U TEST 13
-      - MOHSEN U TEST 14
-      - MOHSEN U TEST 15
-      - MOHSEN U TEST 16
-      - MOHSEN U TEST 17
-      - MOHSEN U TEST 18
-      - MOHSEN U TEST 19
-      - MOHSEN U TEST 20
-      - MOHSEN U TEST 21
-      - MOHSEN U TEST 22
-      - MOHSEN U TEST 23
-      - MOHSEN U TEST 24
-      - MOHSEN U TEST 25
-      - MOHSEN U TEST 26
-      - MOHSEN U TEST 27
-      - MOHSEN U TEST 28
-      - MOHSEN U TEST 29
-      - MOHSEN U TEST 30
-      - MOHSEN U TEST 31
-      - MOHSEN U TEST 32
-      - MOHSEN U TEST 33
-      - MOHSEN U TEST 34
-      - MOHSEN U TEST 35
-      - MOHSEN U TEST 36
-      - MOHSEN U TEST 37
-      - MOHSEN U TEST 38
-      - MOHSEN U TEST 39
-      - MOHSEN U TEST 40
-      - MOHSEN U TEST 41
-      - MOHSEN U TEST 42
-      - MOHSEN U TEST 43
-      - MOHSEN U TEST 44
-      - MOHSEN U TEST 45
-      - MOHSEN U TEST 46
-      - MOHSEN U TEST 47
-      - MOHSEN U TEST 48
-      - MOHSEN U TEST 49
-      - MOHSEN U TEST 50
-      - MOHSEN U TEST 51
-      - MOHSEN U TEST 52
-      - MOHSEN U TEST 53
-      - MOHSEN U TEST 54
-      - MOHSEN U TEST 55
-      - MOHSEN U TEST 56
-      - MOHSEN A TEST 1
-      - MOHSEN A TEST 2
-      - MOHSEN A TEST 3
-      - MOHSEN A TEST 4
-      - MOHSEN A TEST 5
-      - MOHSEN A TEST 6
-      - MOHSEN A TEST 7
-      - MOHSEN A TEST 8
-      - MOHSEN A TEST 9
-      - MOHSEN A TEST 10
-      - MOHSEN A TEST 11
-      - MOHSEN A TEST 12
-      - MOHSEN A TEST 13
-      - MOHSEN A TEST 14
-      - MOHSEN A TEST 15
-      - MOHSEN A TEST 16
-      - MOHSEN A TEST 17
-      - MOHSEN A TEST 18
-      - MOHSEN A TEST 19
-      - MOHSEN A TEST 20
-      - MOHSEN A TEST 21
-      - MOHSEN A TEST 22
-      - MOHSEN A TEST 23
-      - MOHSEN A TEST 24
-      - MOHSEN A TEST 25
-      - MOHSEN A TEST 26
-      - MOHSEN A TEST 27
-      - MOHSEN A TEST 28
-      - MOHSEN A TEST 29
-      - MOHSEN A TEST 30
-      - MOHSEN A TEST 31
-      - MOHSEN A TEST 32
-      - MOHSEN A TEST 33
-      - MOHSEN A TEST 34
-      - MOHSEN A TEST 35
-      - MOHSEN A TEST 36
-      - MOHSEN A TEST 37
-      - MOHSEN A TEST 38
-      - MOHSEN A TEST 39
-      - MOHSEN A TEST 40
-      - MOHSEN A TEST 41
-      - MOHSEN A TEST 42
-      - MOHSEN A TEST 43
-      - MOHSEN A TEST 44
-      - MOHSEN A TEST 45
-      - MOHSEN A TEST 46
-      - MOHSEN A TEST 47
-      - MOHSEN A TEST 48
-      - MOHSEN A TEST 49
-      - MOHSEN A TEST 50
-      - MOHSEN A TEST 51
-      - MOHSEN A TEST 52
-      - MOHSEN A TEST 53
-      - MOHSEN A TEST 54
-      - MOHSEN A TEST 55
-      - MOHSEN A TEST 56
-      - MOHSEN A TEST 57
-      - MOHSEN A TEST 58
-      - MOHSEN A TEST 59
-      - MOHSEN A TEST 60
-      - MOHSEN A TEST 61
-      - MOHSEN A TEST 62
-      - MOHSEN A TEST 63
-      - MOHSEN SQ TEST 1
-      - MOHSEN SQ TEST 2
-      - MOHSEN SQ TEST 3
-      - MOHSEN SQ TEST 4
-      - MOHSEN SQ TEST 5
-      - MOHSEN SQ TEST 6
-      - MOHSEN SQ TEST 7
-      - MOHSEN SQ TEST 8
-      - MOHSEN SQ TEST 9
-      - MOHSEN SQ TEST 10
-      - MOHSEN SQ TEST 11
-      - MOHSEN SQ TEST 12
-      - MOHSEN SQ TEST 13
-      - MOHSEN SQ TEST 14
-      - MOHSEN SQ TEST 15
-      - MOHSEN SQ TEST 16
-      - MOHSEN SQ TEST 17
-      - MOHSEN SQ TEST 18
-      - MOHSEN SQ TEST 19
-      - MOHSEN SQ TEST 20
-      - MOHSEN SQ TEST 21
-      - MOHSEN SQ TEST 22
-      - MOHSEN SQ TEST 23
-      - MOHSEN SQ TEST 24
-      - MOHSEN SQ TEST 25
-      - MOHSEN SQ TEST 26
-      - MOHSEN SQ TEST 27
-      - MOHSEN SQ TEST 28
-      - MOHSEN SQ TEST 29
-      - MOHSEN SQ TEST 30
-      - MOHSEN SQ TEST 31
-      - MOHSEN SQ TEST 32
-      - MOHSEN SQ TEST 33
-      - MOHSEN SQ TEST 34
-      - MOHSEN SQ TEST 35
-      - MOHSEN SQ TEST 36
-      - MOHSEN SQ TEST 37
-      - MOHSEN SQ TEST 38
-      - MOHSEN SQ TEST 39
-      - MOHSEN SQ TEST 40
-      - MOHSEN SQ TEST 41
-      - MOHSEN SQ TEST 42
-      - MOHSEN SQ TEST 43
-      - MOHSEN SQ TEST 44
-      - MOHSEN SQ TEST 45
-      - MOHSEN SQ TEST 46
-      - MOHSEN SQ TEST 47
-      - MOHSEN SQ TEST 48
-      - MOHSEN SQ TEST 49
-      - MOHSEN XY TEST 1
-      - MOHSEN XY TEST 2
-      - MOHSEN XY TEST 3
-      - MOHSEN XY TEST 4
-      - MOHSEN XY TEST 5
-      - MOHSEN XY TEST 6
-      - MOHSEN XY TEST 7
-      - MOHSEN XY TEST 8
-      - MOHSEN XY TEST 9
-      - MOHSEN XY TEST 10
-      - MOHSEN XY TEST 11
-      - MOHSEN XY TEST 12
-      - MOHSEN XY TEST 13
-      - MOHSEN XY TEST 14
-      - MOHSEN XY TEST 15
-      - MOHSEN XY TEST 16
-      - MOHSEN PV TEST 1
-      - MOHSEN PV TEST 2
-      - MOHSEN PV TEST 3
-      - MOHSEN PV TEST 4
-      - MOHSEN PV TEST 5
-      - MOHSEN PV TEST 6
-      - MOHSEN PV TEST 7
-      - MOHSEN PV TEST 8
-      - MOHSEN PV TEST 9
-      - MOHSEN PV TEST 10
-      - MOHSEN PV TEST 11
-      - MOHSEN PV TEST 12
-      - MOHSEN PV TEST 13
-      - MOHSEN PV TEST 14
-      - MOHSEN PV TEST 15
-      - MOHSEN PV TEST 16
-      - MOHSEN PV TEST 17
-      - MOHSEN PV TEST 18
-      - MOHSEN PV TEST 19
-      - MOHSEN P TEST 1
-      - MOHSEN P TEST 2
-      - MOHSEN P TEST 3
-      - MOHSEN P TEST 4
-      - MOHSEN P TEST 5
-      - MOHSEN T TEST 1
-      - MOHSEN T TEST 2
-      - MOHSEN T TEST 3
-      - MOHSEN T TEST 4
-      - MOHSEN T TEST 5
-      - MOHSEN VF TEST 1
-      - MOHSEN VF TEST 2
-      - MOHSEN VF TEST 3
-      - MOHSEN VF TEST 4
-      - MOHSEN VF TEST 5
-      - MOHSEN VF TEST 6
-      - MOHSEN VF TEST 7
-      - MOHSEN VF TEST 8
-      - MOHSEN VF TEST 9
-      - MOHSEN VF TEST 10
-      - MOHSEN VF TEST 11
-      - MOHSEN VF TEST 12
-      - MOHSEN VF TEST 13
-      - MOHSEN VF TEST 14
-      - MOHSEN VF TEST 15
-      - MOHSEN VF TEST 16
-      - MOHSEN VF TEST 17
-      - MOHSEN VF TEST 18
-      - MOHSEN VF TEST 19
-      - MOHSEN VF TEST 20
-      - MOHSEN VF TEST 21
-      - MOHSEN VF TEST 22
-      - MOHSEN VF TEST 23
-      - MOHSEN VF TEST 24
-      - MOHSEN VF TEST 25
-      - MOHSEN VF TEST 26
-      - MOHSEN VF TEST 27
-      - MOHSEN VF TEST 28
-      - MOHSEN VF TEST 29
-      - MOHSEN VF TEST 30
-      - MOHSEN VF TEST 31
-      - MOHSEN VF TEST 32
-      - MOHSEN VF TEST 33
-      - MOHSEN VF TEST 34
-      - MOHSEN VF TEST 35
-      - MOHSEN VF TEST 36
-      - MOHSEN VF TEST 37
-      - MOHSEN VF TEST 38
-      - MOHSEN VF TEST 39
-      - MOHSEN VF TEST 40
-      - MOHSEN VF TEST 41
-      - MOHSEN VF TEST 42
-      - MOHSEN VF TEST 43
-      - MOHSEN VF TEST 44
-      - MOHSEN VF TEST 45
-      - MOHSEN VF TEST 46
-      - MOHSEN VF TEST 47
-      - MOHSEN VF TEST 48
-      - MOHSEN VF TEST 49
-      - MOHSEN VF TEST 50
-      - MOHSEN VF TEST 51
-      - MOHSEN VF TEST 52
-      - MOHSEN VF TEST 53
-      - MOHSEN VF TEST 54
-      - MOHSEN VF TEST 55
-      - MOHSEN VF TEST 56
-      - MOHSEN VF TEST 57
-      - MOHSEN VF TEST 58
-      - MOHSEN VF TEST 59
-      - MOHSEN VF TEST 60
-      - MOHSEN VF TEST 61
-      - MOHSEN VF TEST 62
-      - MOHSEN VF TEST 63
-      - MOHSEN VF TEST 64
-      - MOHSEN VF TEST 65
-      - MOHSEN VF TEST 66
-      - MOHSEN BN TEST 1 1
-      - MOHSEN BN TEST 1 2
-      - MOHSEN BN TEST 1 3
-      - MOHSEN BN TEST 1 4
-      - MOHSEN BN TEST 1 5
-      - MOHSEN BN TEST 1 6
-      - MOHSEN BN TEST 1 7
-      - MOHSEN BN TEST 1 8
-      - MOHSEN BN TEST 1 9
-      - MOHSEN BN TEST 1 10
-      - MOHSEN BN TEST 1 11
-      - MOHSEN BN TEST 1 12
-      - MOHSEN BN TEST 1 13
-      - MOHSEN BN TEST 1 14
-      - MOHSEN BN TEST 1 15
-      - MOHSEN BN TEST 1 16
-      - MOHSEN BN TEST 1 17
-      - MOHSEN BN TEST 1 18
-      - MOHSEN BN TEST 1 19
-      - MOHSEN BN TEST 1 20
-      - MOHSEN BN TEST 1 21
-      - MOHSEN BN TEST 1 22
-      - MOHSEN BN TEST 1 23
-      - MOHSEN BN TEST 1 24
-      - MOHSEN BN TEST 1 25
-      - MOHSEN BN TEST 1 26
-      - MOHSEN BN TEST 1 27
-      - MOHSEN BN TEST 1 28
-      - MOHSEN BN TEST 1 29
-      - MOHSEN BN TEST 1 30
-      - MOHSEN BN TEST 1 31
-      - MOHSEN BN TEST 1 32
-      - MOHSEN BN TEST 1 33
-      - MOHSEN BN TEST 1 34
-      - MOHSEN BN TEST 1 35
-      - MOHSEN BN TEST 1 36
-      - MOHSEN BN TEST 2 1
-      - MOHSEN BN TEST 2 2
-      - MOHSEN BN TEST 2 3
-      - MOHSEN BN TEST 2 4
-      - MOHSEN BN TEST 2 5
-      - MOHSEN BN TEST 2 6
-      - MOHSEN BN TEST 2 7
-      - MOHSEN BN TEST 2 8
-      - MOHSEN BN TEST 2 9
-      - MOHSEN BN TEST 2 10
-      - MOHSEN BN TEST 2 11
-      - MOHSEN BN TEST 2 12
-      - MOHSEN BN TEST 2 13
-      - MOHSEN BN TEST 2 14
-      - MOHSEN BN TEST 2 15
-      - MOHSEN BN TEST 2 16
-      - MOHSEN BN TEST 2 17
-      - MOHSEN BN TEST 2 18
-      - MOHSEN BN TEST 2 19
-      - MOHSEN BN TEST 2 20
-      - MOHSEN BN TEST 2 21
-      - MOHSEN BN TEST 2 22
-      - MOHSEN BN TEST 2 23
-      - MOHSEN BN TEST 2 24
-      - MOHSEN BN TEST 2 25
-      - MOHSEN BN TEST 2 26
-      - MOHSEN BN TEST 2 27
-      - MOHSEN BN TEST 2 28
-      - MOHSEN BN TEST 2 29
-      - MOHSEN BN TEST 2 30
-      - MOHSEN BN TEST 2 31
-      - MOHSEN BN TEST 2 32
-      - MOHSEN BN TEST 2 33
-      - MOHSEN BN TEST 2 34
-      - MOHSEN BN TEST 2 35
-      - MOHSEN BN TEST 2 36
-      - MOHSEN BN TEST 2 37
-
-  - name: Ufo
-    type: select
-    proxies:
-      - Australia 🇦🇺 Sydney
-      - Belgium 🇧🇪 Brussels
-      - Brazil 🇧🇷 SãoPaulo
-      - Canada 🇨🇦 Montreal
-      - China 🇨🇳 Beijing
-      - France 🇫🇷 Gravelines
-      - France 🇫🇷 Paris 2
-      - France 🇫🇷 Paris 3
-      - France 🇫🇷 Paris 4
-      - France 🇫🇷 Paris 5 YT
-      - France 🇫🇷 Paris 6
-      - France 🇫🇷 Paris 7
-      - France 🇫🇷 Paris
-      - Germany 🇩🇪 Berlin
-      - Germany 🇩🇪 Düsseldorf 2
-      - Germany 🇩🇪 Düsseldorf
-      - Germany 🇩🇪 FrankfurtamMain 3
-      - Germany 🇩🇪 FrankfurtamMain 2
-      - Germany 🇩🇪 FrankfurtamMain
-      - Germany 🇩🇪 LimburganderLahn 2
-      - Germany 🇩🇪 LimburganderLahn
-      - Hong Kong🇭🇰Central
-      - India 🇮🇳 Bengaluru
-      - India 🇮🇳 Mumbai 2
-      - India 🇮🇳 Mumbai 3
-      - India 🇮🇳 Mumbai
-      - Ireland 🇮🇪 Dublin
-      - Israel 🇮🇱 TelAviv
-      - Italy 🇮🇹 Milan 2
-      - Italy 🇮🇹 Milan 3
-      - Italy 🇮🇹 Milan 4
-      - Italy 🇮🇹 Milan
-      - Japan 🇯🇵 Tokyo 2
-      - Japan 🇯🇵 Tokyo 3
-      - Japan 🇯🇵 Tokyo 4
-      - Japan 🇯🇵 Tokyo 5
-      - Japan 🇯🇵 Tokyo
-      - Netherlands 🇳🇱 Naaldwijk
-      - New Zealand 🇳🇿 Auckland
-      - Norway 🇳🇴 Lensvik
-      - Philippines 🇵🇭 MakatiCity
-      - Russia 🇷🇺 Moscow
-      - Singapore 🇸🇬 QueenstownEstate 2
-      - Singapore 🇸🇬 QueenstownEstate
-      - Singapore 🇸🇬 Singapore 2
-      - Singapore 🇸🇬 Singapore 3
-      - Singapore 🇸🇬 Singapore
-      - South Korea 🇰🇷 Gangnam
-      - Sweden 🇸🇪 Stockholm
-      - Switzerland 🇨🇭 Zurich
-      - Taiwan 🇹🇼 Chang-hua
-      - Turkey 🇹🇷 Bahçelievler
-      - United Arab Emirates 🇦🇪 Dubai
-      - United Arab Emirates 🇦🇪 Sharjah 2
-      - United Arab Emirates 🇦🇪 Sharjah
-      - United Kingdom 🇬🇧 Basingstoke
-      - United Kingdom 🇬🇧 London 2
-      - United Kingdom 🇬🇧 London 3
-      - United Kingdom 🇬🇧 London 4
-      - United Kingdom 🇬🇧 London
-      - USA 🇺🇸 Atlanta 2
-      - USA 🇺🇸 Atlanta
-      - USA 🇺🇸 Chicago 2
-      - USA 🇺🇸 Chicago
-      - USA 🇺🇸 Dallas 2
-      - USA 🇺🇸 Dallas
-      - USA 🇺🇸 Denver
-      - USA 🇺🇸 LasVegas
-      - USA 🇺🇸 LosAngeles 2
-      - USA 🇺🇸 LosAngeles 3
-      - USA 🇺🇸 LosAngeles 4
-      - USA 🇺🇸 LosAngeles
-      - USA 🇺🇸 Miami 2
-      - USA 🇺🇸 Miami
-      - USA 🇺🇸 NewYork 2
-      - USA 🇺🇸 NewYork 3
-      - USA 🇺🇸 NewYork
-      - USA 🇺🇸 Phoenix
-      - USA 🇺🇸 SantaClara
-      - USA 🇺🇸 Seattle 2
-      - USA 🇺🇸 Seattle
-      - USA 🇺🇸 Washington
-
-  - name: VPN
-    type: select
-    proxies:
-      - AZR 🇦🇿 Baku
-      - AZR 🇦🇿 Baku (1)
-      - B&H 🇧🇦 Novi Travnik
-      - BGR 🇧🇬 Sofia
-      - BGR 🇧🇬 Sofia (1)
-      - BLG 🇧🇪 Flanders
-      - CAN 🇨🇦 Montreal
-      - CAN 🇨🇦 Montreal (1)
-      - CAN 🇨🇦 Montreal (2)
-      - CAN 🇨🇦 Toronto
-      - CAN 🇨🇦 Toronto (1)
-      - CAN 🇨🇦 Toronto (2)
-      - CAN 🇨🇦 Toronto (3)
-      - CAN 🇨🇦 Toronto (4)
-      - CAN 🇨🇦 Toronto (5)
-      - COL 🇨🇴 Bogota
-      - CYP 🇨🇾 Nicosia
-      - CZE 🇨🇿 Prague
-      - DNK 🇩🇰 Copenhagen
-      - DNK 🇩🇰 Copenhagen (1)
-      - DNK 🇩🇰 Copenhagen (2)
-      - GER 🇩🇪 Düsseldorf
-      - GER 🇩🇪 Düsseldorf (1)
-      - GER 🇩🇪 Hesse
-      - GER 🇩🇪 Hesse (1)
-      - GER 🇩🇪 Hesse (2)
-      - GER 🇩🇪 Nuremberg
-      - GRE 🇬🇷 Athens
-      - GRE 🇬🇷 Thessaloniki
-      - HUN 🇭🇺 Budapest
-      - HUN 🇭🇺 Budapest (1)
-      - ICL 🇮🇸 Hafnarfjordur
-      - IND 🇮🇳 Jaipur
-      - IRL 🇮🇪 Dublin
-      - 🇦🇷 ARG 🇦🇷 Buenos Aires
-      - 🇦🇺 AUT 🇦🇹 Graz
-      - 🇧🇪 BEL 🇧🇪 Oostkamp
-      - 🇧🇷 BRA 🇧🇷 Sao Paulo
-      - 🇧🇷 BRA 🇧🇷 Sao Paulo (1)
-      - 🇪🇸 EST 🇪🇪 Tallinn
-      - 🇫🇷 FRA 🇫🇷 Gravelines
-      - 🇫🇷 FRA 🇫🇷 Paris
-      - 🇫🇷 FRA 🇫🇷 Paris (1)
-      - 🇫🇷 FRA 🇫🇷 Roubaix
-      - 🇫🇷 FRA 🇫🇷 Roubaix (1)
-      - 🇫🇷 FRA 🇫🇷 Roubaix (2)
-      - 🇫🇷 FRA 🇫🇷 Roubaix (3)
-      - 🇫🇷 FRA 🇫🇷 Roubaix (4)
-      - 🇭🇰 HKG 🇭🇰 Central
-      - 🇷🇴 CROA 🇭🇷 Zagreb
-      - IND 🇮🇳 Mumbai
-      - IND 🇮🇳 Mumbai (1)
-      - ISLM 🇮🇲 Douglas
-      - ISR 🇮🇱 Haifa
-      - ISR 🇮🇱 Haifa (1)
-      - ISR 🇮🇱 Haifa (2)
-      - ISR 🇮🇱 TelAviv
-      - ITA 🇮🇹 Milan
-      - ITA 🇮🇹 Milan (1)
-      - ITA 🇮🇹 Milan (2)
-      - LTV 🇱🇻 Riga
-      - LUX 🇱🇺 Luxembourg
-      - MDA 🇲🇩 Chisinau
-      - MKD 🇲🇰 Skopje
-      - MLT 🇲🇹 Qormi
-      - MLT 🇲🇹 Safi
-      - NOR 🇳🇴 Kristiansad
-      - NOR 🇳🇴 Oslo
-      - NOR 🇳🇴 Oslo (1)
-      - SNG 🇸🇬 QueenstownEstate
-      - SPN 🇪🇸 Seville
-      - SRB 🇷🇸 Belgrade
-      - SVK 🇸🇰 Bratislava
-      - SWE 🇸🇪 Stockholm
-      - SWE 🇸🇪 Stockholm (1)
-      - SWIT 🇨🇭 Zurich
-      - TUR 🇹🇷 Bahçelievler
-      - TUR 🇹🇷 Istanbul
-      - TUR 🇹🇷 Istanbul (1)
-      - TUR 🇹🇷 Istanbul (2)
-      - TUR 🇹🇷 Istanbul (3)
-      - TUR 🇹🇷 Istanbul (4)
-      - 🇨🇳 TW 🇹🇼 Taipei
-      - 🇬🇧 UK 🇬🇧 London
-      - 🇬🇧 UK 🇬🇧 London (1)
-      - 🇬🇧 UK 🇬🇧 London (2)
-      - 🇬🇧 UK 🇬🇧 London (3)
-      - 🇬🇧 UK 🇬🇧 London (4)
-      - 🇯🇵 JPN 🇯🇵 Tokyo
-      - 🇯🇵 JPN 🇯🇵 Tokyo (1)
-      - 🇯🇵 JPN 🇯🇵 Tokyo (2)
-      - 🇰🇷 KOR 🇰🇷 Seoul
-      - 🇲🇾 MYS 🇲🇾 Kuala Lumpur
-      - 🇷🇴 ROM 🇷🇴 Bucharest
-      - 🇷🇴 ROM 🇷🇴 Lasi
-      - 🇷🇺 RUS 🇷🇺 Moscow
-      - 🇷🇺 RUS 🇷🇺 Moscow (1)
-      - 🇸🇬 SNG 🇸🇬 Singapore
-      - 🇸🇬 SNG 🇸🇬 Singapore (1)
-      - 🇻🇳 SVN 🇸🇮 Ljubljana
-      - 🇬🇧 UK 🇬🇧 London (10)
-      - 🇬🇧 UK 🇬🇧 London (11)
-      - 🇬🇧 UK 🇬🇧 London (12)
-      - 🇬🇧 UK 🇬🇧 London (13)
-      - 🇬🇧 UK 🇬🇧 London (14)
-      - 🇬🇧 UK 🇬🇧 London (15)
-      - 🇬🇧 UK 🇬🇧 London (16)
-      - 🇬🇧 UK 🇬🇧 London (17)
-      - 🇬🇧 UK 🇬🇧 London (18)
-      - 🇬🇧 UK 🇬🇧 London (19)
-      - 🇬🇧 UK 🇬🇧 London (20)
-      - 🇬🇧 UK 🇬🇧 London (21)
-      - 🇬🇧 UK 🇬🇧 London (22)
-      - 🇬🇧 UK 🇬🇧 London (5)
-      - 🇬🇧 UK 🇬🇧 London (6)
-      - 🇬🇧 UK 🇬🇧 London (7)
-      - 🇬🇧 UK 🇬🇧 London (8)
-      - 🇬🇧 UK 🇬🇧 London (9)
-      - 🇬🇧 UKR 🇺🇦 Kharkiv
-      - 🇺🇲 USA 🇺🇲 Virginia
-      - 🇺🇲 USA 🇺🇲 Virginia (1)
-      - 🇺🇲 USA 🇺🇲 Virginia (2)
-      - 🇺🇲 USA 🇺🇲 Virginia (3)
-      - 🇺🇲 USA 🇺🇸 Ashburn
-      - 🇺🇲 USA 🇺🇸 Ashburn (1)
-      - 🇺🇲 USA 🇺🇸 Ashburn (2)
-      - 🇺🇲 USA 🇺🇸 Ashburn (3)
-      - 🇺🇲 USA 🇺🇸 Atlanta
-      - 🇺🇲 USA 🇺🇸 California
-      - 🇺🇲 USA 🇺🇸 Dalas
-      - 🇺🇲 USA 🇺🇸 Georgia
-      - 🇺🇲 USA 🇺🇸 Georgia (1)
-      - 🇺🇲 USA 🇺🇸 Los Angeles
-      - 🇺🇲 USA 🇺🇸 Los Angeles (1)
-      - 🇺🇲 USA 🇺🇸 Los Angeles (2)
-      - 🇺🇲 USA 🇺🇸 Los Angeles (3)
-      - 🇺🇲 USA 🇺🇸 Los Angeles (4)
-      - 🇺🇲 USA 🇺🇸 LosAngeles
-      - 🇺🇲 USA 🇺🇸 LosAngeles (1)
-      - 🇺🇲 USA 🇺🇸 New Jersey
-      - 🇺🇲 USA 🇺🇸 New Memphis
-      - 🇺🇲 USA 🇺🇸 New Memphis (1)
-      - 🇺🇲 USA 🇺🇸 New York
-      - 🇺🇲 USA 🇺🇸 NewYork
-      - 🇺🇲 USA 🇺🇸 NewYork (1)
-      - 🇺🇲 USA 🇺🇸 San Jose
-      - 🇺🇲 USA 🇺🇸 Santa Clara
+      - MOHSENَ 1
+      - MOHSENَ 2
+      - MOHSENَ 3
+      - MOHSENَ 4
+      - MOHSENَ 5
+      - MOHSENَ 6
+      - MOHSENَ 7
+      - MOHSENَ 8
+      - MOHSENَ 9
+      - MOHSENَ 10
+      - MOHSENَ 11
+      - MOHSENَ 12
+      - MOHSENَ 13
+      - MOHSENَ 14
+      - MOHSENَ 15
+      - MOHSENَ 16
+      - MOHSENَ 17
+      - MOHSENَ 18
+      - MOHSENَ 19
+      - MOHSENَ 20
+      - MOHSENَ 21
+      - MOHSENَ 22
+      - MOHSENَ 23
+      - MOHSENَ 24
+      - MOHSENَ 25
+      - MOHSENَ 26
+      - MOHSENَ 27
+      - MOHSENَ 28
+      - MOHSENَ 29
+      - MOHSENَ 30
+      - MOHSENَ 31
+      - MOHSENَ 32
+      - MOHSENَ 33
+      - MOHSENَ 34
+      - MOHSENَ 35
+      - MOHSENَ 36
+      - MOHSENَ 37
+      - MOHSENَ 38
+      - MOHSENَ 39
+      - MOHSENَ 40
+      - MOHSENَ 41
+      - MOHSENَ 42
+      - MOHSENَ 43
+      - MOHSENَ 44
+      - MOHSENَ 45
+      - MOHSENَ 46
+      - MOHSENَ 47
+      - MOHSENَ 48
+      - MOHSENَ 49
+      - MOHSENَ 50
+      - MOHSENََ 1
+      - MOHSENََ 2
+      - MOHSENََ 3
+      - MOHSENََ 4
+      - MOHSENََ 5
+      - MOHSENََ 6
+      - MOHSENََ 7
+      - MOHSENََ 8
+      - MOHSENََ 9
+      - MOHSENََ 10
+      - MOHSENََ 11
+      - MOHSENََ 12
+      - MOHSENََ 13
+      - MOHSENََ 14
+      - MOHSENََ 15
+      - MOHSENََ 16
+      - MOHSENََ 17
+      - MOHSENََ 18
+      - MOHSENََ 19
+      - MOHSENََ 20
+      - MOHSENََ 21
+      - MOHSENََ 22
+      - MOHSENََ 23
+      - MOHSENََ 24
+      - MOHSENََ 25
+      - MOHSENََ 26
+      - MOHSENََ 27
+      - MOHSENََ 28
+      - MOHSENََ 29
+      - MOHSENََ 30
+      - MOHSENََ 31
+      - MOHSENََ 32
+      - MOHSENََ 33
+      - MOHSENََ 34
+      - MOHSENََ 35
+      - MOHSENََ 36
+      - MOHSENََ 37
+      - MOHSENََ 38
+      - MOHSENََ 39
+      - MOHSENََ 40
+      - MOHSENََ 41
+      - MOHSENََ 42
+      - MOHSENََ 43
+      - MOHSENََ 44
+      - MOHSENََ 45
+      - MOHSENََ 46
+      - MOHSENََ 47
+      - MOHSENََ 48
+      - MOHSENََ 49
+      - MOHSENََ 50
+      - MOHSENَََ 1
+      - MOHSENَََ 2
+      - MOHSENَََ 3
+      - MOHSENَََ 4
+      - MOHSENَََ 5
+      - MOHSENَََ 6
+      - MOHSENَََ 7
+      - MOHSENَََ 8
+      - MOHSENَََ 9
+      - MOHSENَََ 10
+      - MOHSENَََ 11
+      - MOHSENَََ 12
+      - MOHSENَََ 13
+      - MOHSENَََ 14
+      - MOHSENَََ 15
+      - MOHSENَََ 16
+      - MOHSENَََ 17
+      - MOHSENَََ 18
+      - MOHSENَََ 19
+      - MOHSENَََ 20
+      - MOHSENَََ 21
+      - MOHSENَََ 22
+      - MOHSENَََ 23
+      - MOHSENَََ 24
+      - MOHSENَََ 25
+      - MOHSENَََ 26
+      - MOHSENَََ 27
+      - MOHSENَََ 28
+      - MOHSENَََ 29
+      - MOHSENَََ 30
+      - MOHSENَََ 31
+      - MOHSENَََ 32
+      - MOHSENَََ 33
+      - MOHSENَََ 34
+      - MOHSENَََ 35
+      - MOHSENَََ 36
+      - MOHSENَََ 37
+      - MOHSENَََ 38
+      - MOHSENَََ 39
+      - MOHSENَََ 40
+      - MOHSENَََ 41
+      - MOHSENَََ 42
+      - MOHSENَََ 43
+      - MOHSENَََ 44
+      - MOHSENَََ 45
+      - MOHSENَََ 46
+      - MOHSENَََ 47
+      - MOHSENَََ 48
+      - MOHSENَََ 49
+      - MOHSENَََ 50
+      - MOHSENََََ 1
+      - MOHSENََََ 2
+      - MOHSENََََ 3
+      - MOHSENََََ 4
+      - MOHSENََََ 5
+      - MOHSENََََ 6
+      - MOHSENََََ 7
+      - MOHSENََََ 8
+      - MOHSENََََ 9
+      - MOHSENََََ 10
+      - MOHSENََََ 11
+      - MOHSENََََ 12
+      - MOHSENََََ 13
+      - MOHSENََََ 14
+      - MOHSENََََ 15
+      - MOHSENََََ 16
+      - MOHSENََََ 17
+      - MOHSENََََ 18
+      - MOHSENََََ 19
+      - MOHSENََََ 20
+      - MOHSENََََ 21
+      - MOHSENََََ 22
+      - MOHSENََََ 23
+      - MOHSENََََ 24
+      - MOHSENََََ 25
+      - MOHSENََََ 26
+      - MOHSENََََ 27
+      - MOHSENََََ 28
+      - MOHSENََََ 29
+      - MOHSENََََ 30
+      - MOHSENََََ 31
+      - MOHSENََََ 32
+      - MOHSENََََ 33
+      - MOHSENََََ 34
+      - MOHSENََََ 35
+      - MOHSENََََ 36
+      - MOHSENََََ 37
+      - MOHSENََََ 38
+      - MOHSENََََ 39
+      - MOHSENََََ 40
+      - MOHSENََََ 41
+      - MOHSENََََ 42
+      - MOHSENََََ 43
+      - MOHSENََََ 44
+      - MOHSENََََ 45
+      - MOHSENََََ 46
+      - MOHSENََََ 47
+      - MOHSENََََ 48
+      - MOHSENََََ 49
+      - MOHSENََََ 50
+      - MOHSENَََََ 1
+      - MOHSENَََََ 2
+      - MOHSENَََََ 3
+      - MOHSENَََََ 4
+      - MOHSENَََََ 5
+      - MOHSENَََََ 6
+      - MOHSENَََََ 7
+      - MOHSENَََََ 8
+      - MOHSENَََََ 9
+      - MOHSENَََََ 10
+      - MOHSENَََََ 11
+      - MOHSENَََََ 12
+      - MOHSENَََََ 13
+      - MOHSENَََََ 14
+      - MOHSENَََََ 15
+      - MOHSENَََََ 16
+      - MOHSENَََََ 17
+      - MOHSENَََََ 18
+      - MOHSENَََََ 19
+      - MOHSENَََََ 20
+      - MOHSENَََََ 21
+      - MOHSENَََََ 22
+      - MOHSENَََََ 23
+      - MOHSENَََََ 24
+      - MOHSENَََََ 25
+      - MOHSENَََََ 26
+      - MOHSENَََََ 27
+      - MOHSENَََََ 28
+      - MOHSENَََََ 29
+      - MOHSENَََََ 30
+      - MOHSENَََََ 31
+      - MOHSENَََََ 32
+      - MOHSENَََََ 33
+      - MOHSENَََََ 34
+      - MOHSENَََََ 35
+      - MOHSENَََََ 36
+      - MOHSENَََََ 37
+      - MOHSENَََََ 38
+      - MOHSENَََََ 39
+      - MOHSENَََََ 40
+      - MOHSENَََََ 41
+      - MOHSENَََََ 42
+      - MOHSENَََََ 43
+      - MOHSENَََََ 44
+      - MOHSENَََََ 45
+      - MOHSENَََََ 46
+      - MOHSENَََََ 47
+      - MOHSENَََََ 48
+      - MOHSENَََََ 49
+      - MOHSENَََََ 50
+      - MOHSENََََََ 1
+      - MOHSENََََََ 2
+      - MOHSENََََََ 3
+      - MOHSENََََََ 4
+      - MOHSENََََََ 5
+      - MOHSENََََََ 6
+      - MOHSENََََََ 7
+      - MOHSENََََََ 8
+      - MOHSENََََََ 9
+      - MOHSENََََََ 10
+      - MOHSENََََََ 11
+      - MOHSENََََََ 12
+      - MOHSENََََََ 13
+      - MOHSENََََََ 14
+      - MOHSENََََََ 15
+      - MOHSENََََََ 16
+      - MOHSENََََََ 17
+      - MOHSENََََََ 18
+      - MOHSENََََََ 19
+      - MOHSENََََََ 20
+      - MOHSENََََََ 21
+      - MOHSENََََََ 22
+      - MOHSENََََََ 23
+      - MOHSENََََََ 24
+      - MOHSENََََََ 25
+      - MOHSENََََََ 26
+      - MOHSENََََََ 27
+      - MOHSENََََََ 28
+      - MOHSENََََََ 29
+      - MOHSENََََََ 30
+      - MOHSENََََََ 31
+      - MOHSENََََََ 32
+      - MOHSENََََََ 33
+      - MOHSENََََََ 34
+      - MOHSENََََََ 35
+      - MOHSENََََََ 36
+      - MOHSENََََََ 37
+      - MOHSENََََََ 38
+      - MOHSENََََََ 39
+      - MOHSENََََََ 40
+      - MOHSENََََََ 41
+      - MOHSENََََََ 42
+      - MOHSENََََََ 43
+      - MOHSENََََََ 44
+      - MOHSENََََََ 45
+      - MOHSENََََََ 46
+      - MOHSENََََََ 47
+      - MOHSENََََََ 48
+      - MOHSENََََََ 49
+      - MOHSENََََََ 50
+      - MOHSENَََََََ 1
+      - MOHSENَََََََ 2
+      - MOHSENَََََََ 3
+      - MOHSENَََََََ 4
+      - MOHSENَََََََ 5
+      - MOHSENَََََََ 6
+      - MOHSENَََََََ 7
+      - MOHSENَََََََ 8
+      - MOHSENَََََََ 9
+      - MOHSENَََََََ 10
+      - MOHSENَََََََ 11
+      - MOHSENَََََََ 12
+      - MOHSENَََََََ 13
+      - MOHSENَََََََ 14
+      - MOHSENَََََََ 15
+      - MOHSENَََََََ 16
+      - MOHSENَََََََ 17
+      - MOHSENَََََََ 18
+      - MOHSENَََََََ 19
+      - MOHSENَََََََ 20
+      - MOHSENَََََََ 21
+      - MOHSENَََََََ 22
+      - MOHSENَََََََ 23
+      - MOHSENَََََََ 24
+      - MOHSENَََََََ 25
+      - MOHSENَََََََ 26
+      - MOHSENَََََََ 27
+      - MOHSENَََََََ 28
+      - MOHSENَََََََ 29
+      - MOHSENَََََََ 30
+      - MOHSENَََََََ 31
+      - MOHSENَََََََ 32
+      - MOHSENَََََََ 33
+      - MOHSENَََََََ 34
+      - MOHSENَََََََ 35
+      - MOHSENَََََََ 36
+      - MOHSENَََََََ 37
+      - MOHSENَََََََ 38
+      - MOHSENَََََََ 39
+      - MOHSENَََََََ 40
+      - MOHSENَََََََ 41
+      - MOHSENَََََََ 42
+      - MOHSENَََََََ 43
+      - MOHSENَََََََ 44
+      - MOHSENَََََََ 45
+      - MOHSENَََََََ 46
+      - MOHSENَََََََ 47
+      - MOHSENَََََََ 48
+      - MOHSENَََََََ 49
+      - MOHSENَََََََ 50
+      - MOHSENََََََََ 1
+      - MOHSENََََََََ 2
+      - MOHSENََََََََ 3
+      - MOHSENََََََََ 4
+      - MOHSENََََََََ 5
+      - MOHSENََََََََ 6
+      - MOHSENََََََََ 7
+      - MOHSENََََََََ 8
+      - MOHSENََََََََ 9
+      - MOHSENََََََََ 10
+      - MOHSENََََََََ 11
+      - MOHSENََََََََ 12
+      - MOHSENََََََََ 13
+      - MOHSENََََََََ 14
+      - MOHSENََََََََ 15
+      - MOHSENََََََََ 16
+      - MOHSENََََََََ 17
+      - MOHSENََََََََ 18
+      - MOHSENََََََََ 19
+      - MOHSENََََََََ 20
+      - MOHSENََََََََ 21
+      - MOHSENََََََََ 22
+      - MOHSENََََََََ 23
+      - MOHSENََََََََ 24
+      - MOHSENََََََََ 25
+      - MOHSENََََََََ 26
+      - MOHSENََََََََ 27
+      - MOHSENََََََََ 28
+      - MOHSENََََََََ 29
+      - MOHSENََََََََ 30
 
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
