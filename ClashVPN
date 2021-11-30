@@ -2958,7 +2958,7 @@ proxy-groups:
       - MOHSEN ¹¹ 15
       - MOHSEN ¹¹ 16
 
-    rules:
+rules:
   - DOMAIN-SUFFIX,local,DIRECT
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
