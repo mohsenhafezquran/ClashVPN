@@ -24,7 +24,6 @@ proxies:
   - {name: MOHSEN, server: 141.98.119.156, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
   - {name: MOHSEN 3, server: 185.17.113.234, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN 4, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: MOHSEN 5, server: 5.188.36.6, port: 4594, type: ss, cipher: chacha20, password: SwD7zdUBsT}
   - {name: MOHSEN 6, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: MOHSEN 7, server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: MOHSEN 8, server: 95.85.90.181, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -1298,7 +1297,6 @@ proxy-groups:
       - MOHSEN
       - MOHSEN 3
       - MOHSEN 4
-      - MOHSEN 5
       - MOHSEN 6
       - MOHSEN 7
       - MOHSEN 8
