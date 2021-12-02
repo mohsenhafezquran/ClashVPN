@@ -1296,7 +1296,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - MOHSEN 1
+      - MOHSEN
       - MOHSEN 2
       - MOHSEN 3
       - MOHSEN 4
@@ -1308,7 +1308,9 @@ proxy-groups:
       - MOHSEN 10
       - MOHSEN 11
       - MOHSEN 12
+      - MOHSEN 13
       - MOHSEN 14
+      - MOHSEN 15
       - MOHSEN 16
       - MOHSEN 17
       - MOHSEN 18
@@ -1463,6 +1465,7 @@ proxy-groups:
       - MOHSEN 167
       - MOHSEN 168
       - MOHSEN 169
+      - MOHSEN 170
       - MOHSEN 171
       - MOHSEN 172
       - MOHSEN 173
@@ -2171,6 +2174,7 @@ proxy-groups:
       - MOHSEN 876
       - MOHSEN 877
       - MOHSEN 878
+      - MOHSEN 879
       - MOHSEN 880
       - MOHSEN 881
       - MOHSEN 882
@@ -2236,18 +2240,6 @@ proxy-groups:
       - MOHSEN 942
       - MOHSEN 943
       - MOHSEN 944
-      - MOHSEN V 1
-      - MOHSEN V 2
-      - MOHSEN V 3
-      - MOHSEN V 4
-      - MOHSEN V 5
-      - MOHSEN V 6
-      - MOHSEN V 7
-      - MOHSEN V 8
-      - MOHSEN V 9
-      - MOHSEN V 10
-      - MOHSEN V 11
-      - MOHSEN V 12
       - MOHSEN 945
       - MOHSEN 946
       - MOHSEN 947
@@ -2552,44 +2544,21 @@ proxy-groups:
       - MOHSEN 1246
       - MOHSEN 1247
       - MOHSEN 1248
-      - MOHSEN 1249
-      - MOHSEN 1250
-      - MOHSEN 1251
-      - MOHSEN 1252
-      - MOHSEN 1253
-      - MOHSEN 1254
-      - MOHSEN 1255
-      - MOHSEN 1256
-      - MOHSEN 1257
-      - MOHSEN 1258
-      - MOHSEN 1259
-      - MOHSEN 1260
-      - MOHSEN 1261
-      - MOHSEN 1262
-      - MOHSEN 1263
-      - MOHSEN 1264
-      - MOHSEN 1265
-      - MOHSEN 1266
-      - MOHSEN 1267
-      - MOHSEN 1268
-      - MOHSEN 1269
-      - MOHSEN 1270
-      - MOHSEN 1271
-      - MOHSEN 1272
-      - MOHSEN 1273
-      - MOHSEN 1274
-      - MOHSEN 1275
-      - MOHSEN 1276
-      - MOHSEN 1277
-      - MOHSEN 1278
-      - MOHSEN 1279
-      - MOHSEN 1280
-      - MOHSEN 1281
-      - MOHSEN 1282
-      - MOHSEN 1283
-      - MOHSEN 1284
-      - MOHSEN 1285
-      - MOHSEN V 13
+      - v2cross.com
+      - v2cross.com 2
+      - v2cross.com 3
+      - v2cross.com 4
+      - v2cross.com 5
+      - v2cross.com 6
+      - v2cross.com 7
+      - v2cross.com 8
+      - v2cross.com 9
+      - v2cross.com 10
+      - v2cross.com 11
+      - v2cross.com 12
+      - v2cross.com 13
+      - v2cross.com 14
+      - v2cross.com 15
 
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
