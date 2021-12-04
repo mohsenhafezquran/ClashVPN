@@ -1691,12 +1691,12 @@ proxy-groups:
     type: select
     proxies:
       - ⚡Fastest
-      - 🎯 Select
+      - 📍Select 🗺
 
   - name: ⚡Fastest
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 600
+    interval: 1200
     proxies:
       - MOHSEN
       - MOHSEN 3
@@ -2958,7 +2958,7 @@ proxy-groups:
       - MOHSEN V 14
       - MOHSEN V 15
 
-  - name: 🎯 Select
+  - name: 📍Select 🗺
     type: select
     proxies:
       - Norway
