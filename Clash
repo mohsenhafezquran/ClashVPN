@@ -1168,33 +1168,33 @@ proxies:
   - {name: MOHSEN 1146, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: MOHSEN 1147, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: MOHSEN V, server: us1nhg-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: us1nhg-node.aiqiche123.com}, udp: true}
-  - {name: Norway, server: 46.29.218.170, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: Norway 2, server: 46.29.218.170, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 3, server: 46.29.218.170, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: Norway 4, server: 46.29.218.170, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: Norway 5, server: 46.29.218.170, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 6, server: 46.29.218.170, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: Norway 7, server: 46.29.218.146, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: Norway 8, server: 46.29.218.146, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: Norway 9, server: 46.29.218.146, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 10, server: 46.29.218.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: Norway 11, server: 46.29.218.146, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: Norway 12, server: 46.29.218.146, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: Norway 13, server: 46.29.218.146, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: Norway 14, server: 46.29.219.246, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: Norway 15, server: 46.29.219.246, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: Norway 16, server: 46.29.219.246, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 17, server: 46.29.219.246, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: Norway 18, server: 46.29.219.246, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: Norway 19, server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 20, server: 46.29.219.246, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 21, server: 46.29.218.6, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: Norway 22, server: 46.29.218.6, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 23, server: 46.29.218.6, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: Norway 24, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: Norway 25, server: 46.29.218.6, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: Norway 26, server: 46.29.218.6, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: Norway 27, server: 46.29.218.6, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway, server: 46.29.218.170, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 🇧🇻 Norway 2, server: 46.29.218.170, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 3, server: 46.29.218.170, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 🇧🇻 Norway 4, server: 46.29.218.170, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: 🇧🇻 Norway 5, server: 46.29.218.170, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 6, server: 46.29.218.170, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇧🇻 Norway 7, server: 46.29.218.146, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 🇧🇻 Norway 8, server: 46.29.218.146, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇧🇻 Norway 9, server: 46.29.218.146, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 10, server: 46.29.218.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇧🇻 Norway 11, server: 46.29.218.146, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 🇧🇻 Norway 12, server: 46.29.218.146, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇧🇻 Norway 13, server: 46.29.218.146, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇧🇻 Norway 14, server: 46.29.219.246, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇧🇻 Norway 15, server: 46.29.219.246, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 🇧🇻 Norway 16, server: 46.29.219.246, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 17, server: 46.29.219.246, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 🇧🇻 Norway 18, server: 46.29.219.246, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇧🇻 Norway 19, server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 20, server: 46.29.219.246, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 21, server: 46.29.218.6, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 🇧🇻 Norway 22, server: 46.29.218.6, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 23, server: 46.29.218.6, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 🇧🇻 Norway 24, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇧🇻 Norway 25, server: 46.29.218.6, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇧🇻 Norway 26, server: 46.29.218.6, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇧🇻 Norway 27, server: 46.29.218.6, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: 🇩🇪 Germany, server: 217.79.181.65, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: 🇩🇪 Germany 2, server: 139.162.135.191, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
   - {name: 🇩🇪 Germany 3, server: 91.194.84.53, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -1421,12 +1421,12 @@ proxies:
   - {name: 🇬🇧 United Kingdom 50, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
   - {name: 🇬🇧 United Kingdom 51, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: 🇬🇧 United Kingdom 52, server: 54.38.72.170, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: Poland, server: 194.15.196.78, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: Poland 2, server: 194.15.196.78, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: Poland 3, server: 54.38.195.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: Poland 4, server: 51.75.60.205, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: Poland 5, server: 51.75.60.205, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: Poland 6, server: 51.77.52.74, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇵🇱 Poland, server: 194.15.196.78, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: 🇵🇱 Poland 2, server: 194.15.196.78, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇵🇱 Poland 3, server: 54.38.195.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇵🇱 Poland 4, server: 51.75.60.205, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇵🇱 Poland 5, server: 51.75.60.205, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 🇵🇱 Poland 6, server: 51.77.52.74, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: 🇺🇸 United States, server: 172.99.188.99, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: 🇺🇸 United States 2, server: 172.99.188.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: 🇺🇸 United States 3, server: 172.99.188.99, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
@@ -1579,7 +1579,20 @@ proxy-groups:
     type: select
     proxies:
       - ⚡Fastest
-      - 📍Select
+      - 🇨🇦
+      - 🇧🇻
+      - 🇩🇪
+      - 🇭🇰
+      - 🇮🇳
+      - 🇯🇵
+      - 🇰🇷
+      - 🇮🇹
+      - 🇫🇷
+      - 🇦🇺
+      - 🇸🇬
+      - 🇬🇧
+      - 🇵🇱
+      - 🇺🇸
 
   - name: ⚡Fastest
     type: url-test
@@ -2734,337 +2747,11 @@ proxy-groups:
       - MOHSEN 1147
       - MOHSEN V
 
-  - name: 📍Select
-    type: select
+  - name: 🇨🇦
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
     proxies:
-      - Norway
-      - Norway 2
-      - Norway 3
-      - Norway 4
-      - Norway 5
-      - Norway 6
-      - Norway 7
-      - Norway 8
-      - Norway 9
-      - Norway 10
-      - Norway 11
-      - Norway 12
-      - Norway 13
-      - Norway 14
-      - Norway 15
-      - Norway 16
-      - Norway 17
-      - Norway 18
-      - Norway 19
-      - Norway 20
-      - Norway 21
-      - Norway 22
-      - Norway 23
-      - Norway 24
-      - Norway 25
-      - Norway 26
-      - Norway 27
-      - 🇩🇪 Germany
-      - 🇩🇪 Germany 2
-      - 🇩🇪 Germany 3
-      - 🇩🇪 Germany 4
-      - 🇩🇪 Germany 5
-      - 🇭🇰 Hong Kong
-      - 🇭🇰 Hong Kong 2
-      - 🇭🇰 Hong Kong 3
-      - 🇭🇰 Hong Kong 4
-      - 🇭🇰 Hong Kong 5
-      - 🇭🇰 Hong Kong 6
-      - 🇭🇰 Hong Kong 7
-      - 🇭🇰 Hong Kong 8
-      - 🇭🇰 Hong Kong 9
-      - 🇭🇰 Hong Kong 10
-      - 🇭🇰 Hong Kong 11
-      - 🇭🇰 Hong Kong 12
-      - 🇭🇰 Hong Kong 13
-      - 🇭🇰 Hong Kong 14
-      - 🇮🇳 India
-      - 🇮🇳 India 2
-      - 🇮🇳 India 3
-      - 🇮🇳 India 4
-      - 🇮🇳 India 5
-      - 🇮🇳 India 6
-      - 🇮🇳 India 7
-      - 🇮🇳 India 8
-      - 🇮🇳 India 9
-      - 🇮🇳 India 10
-      - 🇮🇳 India 11
-      - 🇮🇳 India 12
-      - 🇮🇳 India 13
-      - 🇯🇵 Japan
-      - 🇯🇵 Japan 2
-      - 🇯🇵 Japan 3
-      - 🇯🇵 Japan 4
-      - 🇯🇵 Japan 5
-      - 🇯🇵 Japan 6
-      - 🇯🇵 Japan 7
-      - 🇯🇵 Japan 8
-      - 🇯🇵 Japan 9
-      - 🇯🇵 Japan 10
-      - 🇯🇵 Japan 11
-      - 🇯🇵 Japan 12
-      - 🇯🇵 Japan 13
-      - 🇯🇵 Japan 14
-      - 🇯🇵 Japan 15
-      - 🇯🇵 Japan 16
-      - 🇯🇵 Japan 17
-      - 🇯🇵 Japan 18
-      - 🇯🇵 Japan 19
-      - 🇯🇵 Japan 20
-      - 🇯🇵 Japan 21
-      - 🇯🇵 Japan 22
-      - 🇯🇵 Japan 23
-      - 🇯🇵 Japan 24
-      - 🇯🇵 Japan 25
-      - 🇯🇵 Japan 26
-      - 🇯🇵 Japan 27
-      - 🇯🇵 Japan 28
-      - 🇯🇵 Japan 29
-      - 🇯🇵 Japan 30
-      - 🇯🇵 Japan 31
-      - 🇯🇵 Japan 32
-      - 🇯🇵 Japan 33
-      - 🇯🇵 Japan 34
-      - 🇯🇵 Japan 35
-      - 🇯🇵 Japan 36
-      - 🇯🇵 Japan 37
-      - 🇯🇵 Japan 38
-      - 🇰🇷 Korea, Republic of
-      - 🇰🇷 Korea, Republic of 2
-      - 🇰🇷 Korea, Republic of 3
-      - 🇰🇷 Korea, Republic of 4
-      - 🇰🇷 Korea, Republic of 5
-      - 🇰🇷 Korea, Republic of 6
-      - 🇰🇷 Korea, Republic of 7
-      - 🇰🇷 Korea, Republic of 8
-      - 🇰🇷 Korea, Republic of 9
-      - 🇰🇷 Korea, Republic of 10
-      - 🇰🇷 Korea, Republic of 11
-      - 🇰🇷 Korea, Republic of 12
-      - 🇰🇷 Korea, Republic of 13
-      - 🇰🇷 Korea, Republic of 14
-      - 🇰🇷 Korea, Republic of 15
-      - 🇰🇷 Korea, Republic of 16
-      - 🇰🇷 Korea, Republic of 17
-      - 🇰🇷 Korea, Republic of 18
-      - 🇰🇷 Korea, Republic of 19
-      - 🇰🇷 Korea, Republic of 20
-      - 🇰🇷 Korea, Republic of 21
-      - 🇰🇷 Korea, Republic of 22
-      - 🇰🇷 Korea, Republic of 23
-      - 🇰🇷 Korea, Republic of 24
-      - 🇰🇷 Korea, Republic of 25
-      - 🇰🇷 Korea, Republic of 26
-      - 🇰🇷 Korea, Republic of 27
-      - 🇰🇷 Korea, Republic of 28
-      - 🇰🇷 Korea, Republic of 29
-      - 🇰🇷 Korea, Republic of 30
-      - 🇰🇷 Korea, Republic of 31
-      - 🇰🇷 Korea, Republic of 32
-      - 🇰🇷 Korea, Republic of 33
-      - 🇰🇷 Korea, Republic of 34
-      - 🇰🇷 Korea, Republic of 35
-      - 🇰🇷 Korea, Republic of 36
-      - 🇰🇷 Korea, Republic of 37
-      - 🇰🇷 Korea, Republic of 38
-      - 🇰🇷 Korea, Republic of 39
-      - 🇰🇷 Korea, Republic of 40
-      - 🇰🇷 Korea, Republic of 41
-      - 🇰🇷 Korea, Republic of 42
-      - 🇰🇷 Korea, Republic of 43
-      - 🇰🇷 Korea, Republic of 44
-      - 🇰🇷 Korea, Republic of 45
-      - 🇰🇷 Korea, Republic of 46
-      - 🇰🇷 Korea, Republic of 47
-      - 🇰🇷 Korea, Republic of 48
-      - 🇰🇷 Korea, Republic of 49
-      - 🇰🇷 Korea, Republic of 50
-      - 🇰🇷 Korea, Republic of 51
-      - 🇰🇷 Korea, Republic of 52
-      - 🇰🇷 Korea, Republic of 53
-      - 🇰🇷 Korea, Republic of 54
-      - 🇰🇷 Korea, Republic of 55
-      - 🇰🇷 Korea, Republic of 56
-      - 🇰🇷 Korea, Republic of 57
-      - 🇰🇷 Korea, Republic of 58
-      - 🇰🇷 Korea, Republic of 59
-      - 🇰🇷 Korea, Republic of 60
-      - 🇰🇷 Korea, Republic of 61
-      - 🇰🇷 Korea, Republic of 62
-      - 🇰🇷 Korea, Republic of 63
-      - 🇰🇷 Korea, Republic of 64
-      - 🇰🇷 Korea, Republic of 65
-      - 🇰🇷 Korea, Republic of 66
-      - 🇰🇷 Korea, Republic of 67
-      - 🇰🇷 Korea, Republic of 68
-      - 🇰🇷 Korea, Republic of 69
-      - 🇰🇷 Korea, Republic of 70
-      - 🇮🇹 Italy
-      - 🇮🇹 Italy 2
-      - 🇮🇹 Italy 3
-      - 🇮🇹 Italy 4
-      - 🇮🇹 Italy 5
-      - 🇮🇹 Italy 6
-      - 🇮🇹 Italy 7
-      - 🇫🇷 France
-      - 🇫🇷 France 2
-      - 🇫🇷 France 3
-      - 🇫🇷 France 4
-      - 🇫🇷 France 5
-      - 🇫🇷 France 6
-      - 🇫🇷 France 7
-      - 🇫🇷 France 8
-      - 🇫🇷 France 9
-      - 🇫🇷 France 10
-      - 🇦🇺 Australia
-      - 🇦🇺 Australia 2
-      - 🇦🇺 Australia 3
-      - 🇦🇺 Australia 4
-      - 🇦🇺 Australia 5
-      - 🇦🇺 Australia 6
-      - 🇦🇺 Australia 7
-      - 🇦🇺 Australia 8
-      - 🇦🇺 Australia 9
-      - 🇦🇺 Australia 10
-      - 🇦🇺 Australia 11
-      - 🇸🇬 Singapore
-      - 🇸🇬 Singapore 2
-      - 🇸🇬 Singapore 3
-      - 🇸🇬 Singapore 4
-      - 🇸🇬 Singapore 5
-      - 🇸🇬 Singapore 6
-      - 🇬🇧 United Kingdom
-      - 🇬🇧 United Kingdom 2
-      - 🇬🇧 United Kingdom 3
-      - 🇬🇧 United Kingdom 4
-      - 🇬🇧 United Kingdom 5
-      - 🇬🇧 United Kingdom 6
-      - 🇬🇧 United Kingdom 7
-      - 🇬🇧 United Kingdom 8
-      - 🇬🇧 United Kingdom 9
-      - 🇬🇧 United Kingdom 10
-      - 🇬🇧 United Kingdom 11
-      - 🇬🇧 United Kingdom 12
-      - 🇬🇧 United Kingdom 13
-      - 🇬🇧 United Kingdom 14
-      - 🇬🇧 United Kingdom 15
-      - 🇬🇧 United Kingdom 16
-      - 🇬🇧 United Kingdom 17
-      - 🇬🇧 United Kingdom 18
-      - 🇬🇧 United Kingdom 19
-      - 🇬🇧 United Kingdom 20
-      - 🇬🇧 United Kingdom 21
-      - 🇬🇧 United Kingdom 22
-      - 🇬🇧 United Kingdom 23
-      - 🇬🇧 United Kingdom 24
-      - 🇬🇧 United Kingdom 25
-      - 🇬🇧 United Kingdom 26
-      - 🇬🇧 United Kingdom 27
-      - 🇬🇧 United Kingdom 28
-      - 🇬🇧 United Kingdom 29
-      - 🇬🇧 United Kingdom 30
-      - 🇬🇧 United Kingdom 31
-      - 🇬🇧 United Kingdom 32
-      - 🇬🇧 United Kingdom 33
-      - 🇬🇧 United Kingdom 34
-      - 🇬🇧 United Kingdom 35
-      - 🇬🇧 United Kingdom 36
-      - 🇬🇧 United Kingdom 37
-      - 🇬🇧 United Kingdom 38
-      - 🇬🇧 United Kingdom 39
-      - 🇬🇧 United Kingdom 40
-      - 🇬🇧 United Kingdom 41
-      - 🇬🇧 United Kingdom 42
-      - 🇬🇧 United Kingdom 43
-      - 🇬🇧 United Kingdom 44
-      - 🇬🇧 United Kingdom 45
-      - 🇬🇧 United Kingdom 46
-      - 🇬🇧 United Kingdom 47
-      - 🇬🇧 United Kingdom 48
-      - 🇬🇧 United Kingdom 49
-      - 🇬🇧 United Kingdom 50
-      - 🇬🇧 United Kingdom 51
-      - 🇬🇧 United Kingdom 52
-      - Poland
-      - Poland 2
-      - Poland 3
-      - Poland 4
-      - Poland 5
-      - Poland 6
-      - 🇺🇸 United States
-      - 🇺🇸 United States 2
-      - 🇺🇸 United States 3
-      - 🇺🇸 United States 4
-      - 🇺🇸 United States 5
-      - 🇺🇸 United States 6
-      - 🇺🇸 United States 7
-      - 🇺🇸 United States 8
-      - 🇺🇸 United States 9
-      - 🇺🇸 United States 10
-      - 🇺🇸 United States 11
-      - 🇺🇸 United States 12
-      - 🇺🇸 United States 13
-      - 🇺🇸 United States 14
-      - 🇺🇸 United States 15
-      - 🇺🇸 United States 16
-      - 🇺🇸 United States 17
-      - 🇺🇸 United States 18
-      - 🇺🇸 United States 19
-      - 🇺🇸 United States 20
-      - 🇺🇸 United States 21
-      - 🇺🇸 United States 22
-      - 🇺🇸 United States 23
-      - 🇺🇸 United States 24
-      - 🇺🇸 United States 25
-      - 🇺🇸 United States 26
-      - 🇺🇸 United States 27
-      - 🇺🇸 United States 28
-      - 🇺🇸 United States 29
-      - 🇺🇸 United States 30
-      - 🇺🇸 United States 31
-      - 🇺🇸 United States 32
-      - 🇺🇸 United States 33
-      - 🇺🇸 United States 34
-      - 🇺🇸 United States 35
-      - 🇺🇸 United States 36
-      - 🇺🇸 United States 37
-      - 🇺🇸 United States 38
-      - 🇺🇸 United States 39
-      - 🇺🇸 United States 40
-      - 🇺🇸 United States 41
-      - 🇺🇸 United States 42
-      - 🇺🇸 United States 43
-      - 🇺🇸 United States 44
-      - 🇺🇸 United States 45
-      - 🇺🇸 United States 46
-      - 🇺🇸 United States 47
-      - 🇺🇸 United States 48
-      - 🇺🇸 United States 49
-      - 🇺🇸 United States 50
-      - 🇺🇸 United States 51
-      - 🇺🇸 United States 52
-      - 🇺🇸 United States 53
-      - 🇺🇸 United States 54
-      - 🇺🇸 United States 55
-      - 🇺🇸 United States 56
-      - 🇺🇸 United States 57
-      - 🇺🇸 United States 58
-      - 🇺🇸 United States 59
-      - 🇺🇸 United States 60
-      - 🇺🇸 United States 61
-      - 🇺🇸 United States 62
-      - 🇺🇸 United States 63
-      - 🇺🇸 United States 64
-      - 🇺🇸 United States 65
-      - 🇺🇸 United States 66
-      - 🇺🇸 United States 67
-      - 🇺🇸 United States 68
-      - 🇺🇸 United States 69
       - 🇨🇦 Canada
       - 🇨🇦 Canada 2
       - 🇨🇦 Canada 3
@@ -3142,6 +2829,412 @@ proxy-groups:
       - 🇨🇦 Canada 75
       - 🇨🇦 Canada 76
       - 🇨🇦 Canada 77
+      
+  - name: 🇧🇻
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇧🇻 Norway
+      - 🇧🇻 Norway 2
+      - 🇧🇻 Norway 3
+      - 🇧🇻 Norway 4
+      - 🇧🇻 Norway 5
+      - 🇧🇻 Norway 6
+      - 🇧🇻 Norway 7
+      - 🇧🇻 Norway 8
+      - 🇧🇻 Norway 9
+      - 🇧🇻 Norway 10
+      - 🇧🇻 Norway 11
+      - 🇧🇻 Norway 12
+      - 🇧🇻 Norway 13
+      - 🇧🇻 Norway 14
+      - 🇧🇻 Norway 15
+      - 🇧🇻 Norway 16
+      - 🇧🇻 Norway 17
+      - 🇧🇻 Norway 18
+      - 🇧🇻 Norway 19
+      - 🇧🇻 Norway 20
+      - 🇧🇻 Norway 21
+      - 🇧🇻 Norway 22
+      - 🇧🇻 Norway 23
+      - 🇧🇻 Norway 24
+      - 🇧🇻 Norway 25
+      - 🇧🇻 Norway 26
+      - 🇧🇻 Norway 27
+      
+  - name: 🇩🇪
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇩🇪 Germany
+      - 🇩🇪 Germany 2
+      - 🇩🇪 Germany 3
+      - 🇩🇪 Germany 4
+      - 🇩🇪 Germany 5
+      
+  - name: 🇭🇰
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇭🇰 Hong Kong
+      - 🇭🇰 Hong Kong 2
+      - 🇭🇰 Hong Kong 3
+      - 🇭🇰 Hong Kong 4
+      - 🇭🇰 Hong Kong 5
+      - 🇭🇰 Hong Kong 6
+      - 🇭🇰 Hong Kong 7
+      - 🇭🇰 Hong Kong 8
+      - 🇭🇰 Hong Kong 9
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 Hong Kong 11
+      - 🇭🇰 Hong Kong 12
+      - 🇭🇰 Hong Kong 13
+      - 🇭🇰 Hong Kong 14
+      
+  - name: 🇮🇳
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇮🇳 India
+      - 🇮🇳 India 2
+      - 🇮🇳 India 3
+      - 🇮🇳 India 4
+      - 🇮🇳 India 5
+      - 🇮🇳 India 6
+      - 🇮🇳 India 7
+      - 🇮🇳 India 8
+      - 🇮🇳 India 9
+      - 🇮🇳 India 10
+      - 🇮🇳 India 11
+      - 🇮🇳 India 12
+      - 🇮🇳 India 13
+      
+  - name: 🇯🇵
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇯🇵 Japan
+      - 🇯🇵 Japan 2
+      - 🇯🇵 Japan 3
+      - 🇯🇵 Japan 4
+      - 🇯🇵 Japan 5
+      - 🇯🇵 Japan 6
+      - 🇯🇵 Japan 7
+      - 🇯🇵 Japan 8
+      - 🇯🇵 Japan 9
+      - 🇯🇵 Japan 10
+      - 🇯🇵 Japan 11
+      - 🇯🇵 Japan 12
+      - 🇯🇵 Japan 13
+      - 🇯🇵 Japan 14
+      - 🇯🇵 Japan 15
+      - 🇯🇵 Japan 16
+      - 🇯🇵 Japan 17
+      - 🇯🇵 Japan 18
+      - 🇯🇵 Japan 19
+      - 🇯🇵 Japan 20
+      - 🇯🇵 Japan 21
+      - 🇯🇵 Japan 22
+      - 🇯🇵 Japan 23
+      - 🇯🇵 Japan 24
+      - 🇯🇵 Japan 25
+      - 🇯🇵 Japan 26
+      - 🇯🇵 Japan 27
+      - 🇯🇵 Japan 28
+      - 🇯🇵 Japan 29
+      - 🇯🇵 Japan 30
+      - 🇯🇵 Japan 31
+      - 🇯🇵 Japan 32
+      - 🇯🇵 Japan 33
+      - 🇯🇵 Japan 34
+      - 🇯🇵 Japan 35
+      - 🇯🇵 Japan 36
+      - 🇯🇵 Japan 37
+      - 🇯🇵 Japan 38
+      
+  - name: 🇰🇷
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇰🇷 Korea, Republic of
+      - 🇰🇷 Korea, Republic of 2
+      - 🇰🇷 Korea, Republic of 3
+      - 🇰🇷 Korea, Republic of 4
+      - 🇰🇷 Korea, Republic of 5
+      - 🇰🇷 Korea, Republic of 6
+      - 🇰🇷 Korea, Republic of 7
+      - 🇰🇷 Korea, Republic of 8
+      - 🇰🇷 Korea, Republic of 9
+      - 🇰🇷 Korea, Republic of 10
+      - 🇰🇷 Korea, Republic of 11
+      - 🇰🇷 Korea, Republic of 12
+      - 🇰🇷 Korea, Republic of 13
+      - 🇰🇷 Korea, Republic of 14
+      - 🇰🇷 Korea, Republic of 15
+      - 🇰🇷 Korea, Republic of 16
+      - 🇰🇷 Korea, Republic of 17
+      - 🇰🇷 Korea, Republic of 18
+      - 🇰🇷 Korea, Republic of 19
+      - 🇰🇷 Korea, Republic of 20
+      - 🇰🇷 Korea, Republic of 21
+      - 🇰🇷 Korea, Republic of 22
+      - 🇰🇷 Korea, Republic of 23
+      - 🇰🇷 Korea, Republic of 24
+      - 🇰🇷 Korea, Republic of 25
+      - 🇰🇷 Korea, Republic of 26
+      - 🇰🇷 Korea, Republic of 27
+      - 🇰🇷 Korea, Republic of 28
+      - 🇰🇷 Korea, Republic of 29
+      - 🇰🇷 Korea, Republic of 30
+      - 🇰🇷 Korea, Republic of 31
+      - 🇰🇷 Korea, Republic of 32
+      - 🇰🇷 Korea, Republic of 33
+      - 🇰🇷 Korea, Republic of 34
+      - 🇰🇷 Korea, Republic of 35
+      - 🇰🇷 Korea, Republic of 36
+      - 🇰🇷 Korea, Republic of 37
+      - 🇰🇷 Korea, Republic of 38
+      - 🇰🇷 Korea, Republic of 39
+      - 🇰🇷 Korea, Republic of 40
+      - 🇰🇷 Korea, Republic of 41
+      - 🇰🇷 Korea, Republic of 42
+      - 🇰🇷 Korea, Republic of 43
+      - 🇰🇷 Korea, Republic of 44
+      - 🇰🇷 Korea, Republic of 45
+      - 🇰🇷 Korea, Republic of 46
+      - 🇰🇷 Korea, Republic of 47
+      - 🇰🇷 Korea, Republic of 48
+      - 🇰🇷 Korea, Republic of 49
+      - 🇰🇷 Korea, Republic of 50
+      - 🇰🇷 Korea, Republic of 51
+      - 🇰🇷 Korea, Republic of 52
+      - 🇰🇷 Korea, Republic of 53
+      - 🇰🇷 Korea, Republic of 54
+      - 🇰🇷 Korea, Republic of 55
+      - 🇰🇷 Korea, Republic of 56
+      - 🇰🇷 Korea, Republic of 57
+      - 🇰🇷 Korea, Republic of 58
+      - 🇰🇷 Korea, Republic of 59
+      - 🇰🇷 Korea, Republic of 60
+      - 🇰🇷 Korea, Republic of 61
+      - 🇰🇷 Korea, Republic of 62
+      - 🇰🇷 Korea, Republic of 63
+      - 🇰🇷 Korea, Republic of 64
+      - 🇰🇷 Korea, Republic of 65
+      - 🇰🇷 Korea, Republic of 66
+      - 🇰🇷 Korea, Republic of 67
+      - 🇰🇷 Korea, Republic of 68
+      - 🇰🇷 Korea, Republic of 69
+      - 🇰🇷 Korea, Republic of 70
+      
+  - name: 🇮🇹
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇮🇹 Italy
+      - 🇮🇹 Italy 2
+      - 🇮🇹 Italy 3
+      - 🇮🇹 Italy 4
+      - 🇮🇹 Italy 5
+      - 🇮🇹 Italy 6
+      - 🇮🇹 Italy 7
+      
+  - name: 🇫🇷
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇫🇷 France
+      - 🇫🇷 France 2
+      - 🇫🇷 France 3
+      - 🇫🇷 France 4
+      - 🇫🇷 France 5
+      - 🇫🇷 France 6
+      - 🇫🇷 France 7
+      - 🇫🇷 France 8
+      - 🇫🇷 France 9
+      - 🇫🇷 France 10
+      
+  - name: 🇦🇺
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇦🇺 Australia
+      - 🇦🇺 Australia 2
+      - 🇦🇺 Australia 3
+      - 🇦🇺 Australia 4
+      - 🇦🇺 Australia 5
+      - 🇦🇺 Australia 6
+      - 🇦🇺 Australia 7
+      - 🇦🇺 Australia 8
+      - 🇦🇺 Australia 9
+      - 🇦🇺 Australia 10
+      - 🇦🇺 Australia 11
+      
+  - name: 🇸🇬
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇸🇬 Singapore
+      - 🇸🇬 Singapore 2
+      - 🇸🇬 Singapore 3
+      - 🇸🇬 Singapore 4
+      - 🇸🇬 Singapore 5
+      - 🇸🇬 Singapore 6
+      
+  - name: 🇬🇧
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇬🇧 United Kingdom
+      - 🇬🇧 United Kingdom 2
+      - 🇬🇧 United Kingdom 3
+      - 🇬🇧 United Kingdom 4
+      - 🇬🇧 United Kingdom 5
+      - 🇬🇧 United Kingdom 6
+      - 🇬🇧 United Kingdom 7
+      - 🇬🇧 United Kingdom 8
+      - 🇬🇧 United Kingdom 9
+      - 🇬🇧 United Kingdom 10
+      - 🇬🇧 United Kingdom 11
+      - 🇬🇧 United Kingdom 12
+      - 🇬🇧 United Kingdom 13
+      - 🇬🇧 United Kingdom 14
+      - 🇬🇧 United Kingdom 15
+      - 🇬🇧 United Kingdom 16
+      - 🇬🇧 United Kingdom 17
+      - 🇬🇧 United Kingdom 18
+      - 🇬🇧 United Kingdom 19
+      - 🇬🇧 United Kingdom 20
+      - 🇬🇧 United Kingdom 21
+      - 🇬🇧 United Kingdom 22
+      - 🇬🇧 United Kingdom 23
+      - 🇬🇧 United Kingdom 24
+      - 🇬🇧 United Kingdom 25
+      - 🇬🇧 United Kingdom 26
+      - 🇬🇧 United Kingdom 27
+      - 🇬🇧 United Kingdom 28
+      - 🇬🇧 United Kingdom 29
+      - 🇬🇧 United Kingdom 30
+      - 🇬🇧 United Kingdom 31
+      - 🇬🇧 United Kingdom 32
+      - 🇬🇧 United Kingdom 33
+      - 🇬🇧 United Kingdom 34
+      - 🇬🇧 United Kingdom 35
+      - 🇬🇧 United Kingdom 36
+      - 🇬🇧 United Kingdom 37
+      - 🇬🇧 United Kingdom 38
+      - 🇬🇧 United Kingdom 39
+      - 🇬🇧 United Kingdom 40
+      - 🇬🇧 United Kingdom 41
+      - 🇬🇧 United Kingdom 42
+      - 🇬🇧 United Kingdom 43
+      - 🇬🇧 United Kingdom 44
+      - 🇬🇧 United Kingdom 45
+      - 🇬🇧 United Kingdom 46
+      - 🇬🇧 United Kingdom 47
+      - 🇬🇧 United Kingdom 48
+      - 🇬🇧 United Kingdom 49
+      - 🇬🇧 United Kingdom 50
+      - 🇬🇧 United Kingdom 51
+      - 🇬🇧 United Kingdom 52
+      
+  - name: 🇵🇱
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇵🇱 Poland
+      - 🇵🇱 Poland 2
+      - 🇵🇱 Poland 3
+      - 🇵🇱 Poland 4
+      - 🇵🇱 Poland 5
+      - 🇵🇱 Poland 6
+      
+  - name: 🇺🇸
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇺🇸 United States
+      - 🇺🇸 United States 2
+      - 🇺🇸 United States 3
+      - 🇺🇸 United States 4
+      - 🇺🇸 United States 5
+      - 🇺🇸 United States 6
+      - 🇺🇸 United States 7
+      - 🇺🇸 United States 8
+      - 🇺🇸 United States 9
+      - 🇺🇸 United States 10
+      - 🇺🇸 United States 11
+      - 🇺🇸 United States 12
+      - 🇺🇸 United States 13
+      - 🇺🇸 United States 14
+      - 🇺🇸 United States 15
+      - 🇺🇸 United States 16
+      - 🇺🇸 United States 17
+      - 🇺🇸 United States 18
+      - 🇺🇸 United States 19
+      - 🇺🇸 United States 20
+      - 🇺🇸 United States 21
+      - 🇺🇸 United States 22
+      - 🇺🇸 United States 23
+      - 🇺🇸 United States 24
+      - 🇺🇸 United States 25
+      - 🇺🇸 United States 26
+      - 🇺🇸 United States 27
+      - 🇺🇸 United States 28
+      - 🇺🇸 United States 29
+      - 🇺🇸 United States 30
+      - 🇺🇸 United States 31
+      - 🇺🇸 United States 32
+      - 🇺🇸 United States 33
+      - 🇺🇸 United States 34
+      - 🇺🇸 United States 35
+      - 🇺🇸 United States 36
+      - 🇺🇸 United States 37
+      - 🇺🇸 United States 38
+      - 🇺🇸 United States 39
+      - 🇺🇸 United States 40
+      - 🇺🇸 United States 41
+      - 🇺🇸 United States 42
+      - 🇺🇸 United States 43
+      - 🇺🇸 United States 44
+      - 🇺🇸 United States 45
+      - 🇺🇸 United States 46
+      - 🇺🇸 United States 47
+      - 🇺🇸 United States 48
+      - 🇺🇸 United States 49
+      - 🇺🇸 United States 50
+      - 🇺🇸 United States 51
+      - 🇺🇸 United States 52
+      - 🇺🇸 United States 53
+      - 🇺🇸 United States 54
+      - 🇺🇸 United States 55
+      - 🇺🇸 United States 56
+      - 🇺🇸 United States 57
+      - 🇺🇸 United States 58
+      - 🇺🇸 United States 59
+      - 🇺🇸 United States 60
+      - 🇺🇸 United States 61
+      - 🇺🇸 United States 62
+      - 🇺🇸 United States 63
+      - 🇺🇸 United States 64
+      - 🇺🇸 United States 65
+      - 🇺🇸 United States 66
+      - 🇺🇸 United States 67
+      - 🇺🇸 United States 68
+      - 🇺🇸 United States 69
 
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
