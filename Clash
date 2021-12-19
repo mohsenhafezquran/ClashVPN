@@ -10,7 +10,7 @@ dns:
   ipv6: false
   enhanced-mode: redir-host
   default-nameserver:
-    - 8.8.8.8
+    - 1.1.1.1
   nameserver:
     - https://doh-de.blahdns.com/dns-query
     - https://dns.comss.one/dns-query
@@ -1597,7 +1597,7 @@ proxy-groups:
   - name: ⚡Fastest
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 1200
+    interval: 1500
     proxies:
       - MOHSEN
       - MOHSEN 2
