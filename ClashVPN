@@ -21,6 +21,19 @@ dns:
     geoip: true
 
 proxies:
+  - {"name":"MOHSEN_1","server":"185.17.113.234","port":800,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_2","server":"185.17.113.234","port":801,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_3","server":"185.17.113.234","port":802,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_4","server":"185.17.113.234","port":803,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_5","server":"185.17.113.234","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_6","server":"185.17.113.234","port":805,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_7","server":"185.17.113.234","port":806,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_8","server":"185.17.113.234","port":807,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_9","server":"185.17.113.234","port":808,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_10","server":"185.17.113.234","port":809,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_11","server":"185.17.113.234","port":810,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_12","server":"185.17.113.234","port":811,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_13","server":"185.17.113.234","port":812,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"name":"MOHSEN 1","server":"141.95.0.23","port":804,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"name":"MOHSEN 2","server":"139.162.132.116","port":8881,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
   - {"name":"MOHSEN 3","server":"141.95.0.23","port":812,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
@@ -1452,6 +1465,19 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - MOHSEN_1
+      - MOHSEN_2
+      - MOHSEN_3
+      - MOHSEN_4
+      - MOHSEN_5
+      - MOHSEN_6
+      - MOHSEN_7
+      - MOHSEN_8
+      - MOHSEN_9
+      - MOHSEN_10
+      - MOHSEN_11
+      - MOHSEN_12
+      - MOHSEN_13
       - MOHSEN 1
       - MOHSEN 2
       - MOHSEN 3
