@@ -10,7 +10,7 @@ dns:
   ipv6: false
   enhanced-mode: redir-host
   default-nameserver:
-    - 1.1.1.1
+    - 8.8.8.8
   nameserver:
     - https://doh-de.blahdns.com/dns-query
     - https://dns.comss.one/dns-query
