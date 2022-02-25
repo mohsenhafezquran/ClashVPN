@@ -34,6 +34,131 @@ proxies:
   - {"name":"爪ㄖ卄丂乇几_11","server":"185.17.113.234","port":810,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"name":"爪ㄖ卄丂乇几_12","server":"185.17.113.234","port":811,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"name":"爪ㄖ卄丂乇几_13","server":"185.17.113.234","port":812,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 1","server":"172.99.188.99","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 2","server":"172.99.190.170","port":5601,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 3","server":"172.99.190.61","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 4","server":"172.99.188.99","port":8119,"type":"ss","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 5","server":"172.99.190.149","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 6","server":"51.15.0.113","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 7","server":"172.99.188.99","port":4444,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 8","server":"212.38.189.174","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 9","server":"83.217.9.76","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 10","server":"172.99.188.99","port":7307,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 11","server":"172.99.190.170","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 12","server":"172.99.190.61","port":8090,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 13","server":"62.112.9.220","port":5600,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 14","server":"89.163.140.155","port":5003,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 15","server":"212.38.189.174","port":7306,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 16","server":"172.99.190.170","port":8080,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 17","server":"212.38.189.174","port":6697,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 18","server":"89.163.224.82","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 19","server":"172.99.190.149","port":7001,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 20","server":"172.99.190.61","port":2375,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 21","server":"172.99.190.61","port":6697,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 22","server":"217.79.184.107","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 23","server":"212.38.189.174","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 24","server":"62.112.9.220","port":7306,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 25","server":"169.197.143.192","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 26","server":"172.99.190.61","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 27","server":"172.99.190.61","port":5001,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 28","server":"172.105.43.19","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 29","server":"212.38.189.174","port":8009,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 30","server":"5.180.76.74","port":6697,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 31","server":"172.99.190.158","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 32","server":"192.46.208.123","port":2375,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 33","server":"172.99.190.149","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 34","server":"172.105.41.63","port":3306,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 35","server":"85.208.108.134","port":8009,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 36","server":"172.99.190.170","port":6697,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 37","server":"172.99.188.99","port":5601,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 38","server":"172.99.190.170","port":8000,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 39","server":"169.197.143.192","port":5601,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 40","server":"212.38.189.174","port":8881,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 41","server":"192.46.209.215","port":8000,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 42","server":"85.208.108.134","port":8881,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 43","server":"169.197.143.192","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 44","server":"185.213.21.5","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 45","server":"37.252.5.234","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 46","server":"85.208.110.178","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 47","server":"172.99.190.149","port":5003,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 48","server":"85.208.108.234","port":8009,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 49","server":"45.79.121.234","port":5001,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 50","server":"185.213.21.5","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 51","server":"185.213.21.5","port":8090,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 52","server":"62.112.9.220","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 53","server":"185.213.21.5","port":8009,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 54","server":"185.213.21.5","port":2375,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 55","server":"172.99.188.99","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 56","server":"185.213.21.5","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 57","server":"172.105.232.147","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 58","server":"172.99.188.99","port":2376,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 59","server":"185.213.21.5","port":5001,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 60","server":"172.105.184.113","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 61","server":"172.105.186.247","port":3306,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 62","server":"172.99.190.170","port":5500,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 63","server":"31.133.102.100","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 64","server":"192.53.169.18","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 65","server":"172.105.184.12","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 66","server":"158.247.223.116","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 67","server":"158.247.209.92","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 68","server":"158.247.213.165","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 69","server":"158.247.200.56","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 70","server":"141.164.49.240","port":9102,"type":"ss","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 71","server":"158.247.213.165","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 72","server":"141.164.56.110","port":8090,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 73","server":"141.164.56.250","port":443,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 74","server":"158.247.200.56","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 75","server":"158.247.208.21","port":8881,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 76","server":"141.164.53.152","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 77","server":"158.247.200.56","port":8000,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 78","server":"158.247.227.123","port":9102,"type":"ss","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 79","server":"158.247.208.21","port":5500,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 80","server":"158.247.206.19","port":7001,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 81","server":"95.174.23.218","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 82","server":"158.247.206.19","port":7307,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 83","server":"109.166.37.246","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 84","server":"141.164.53.152","port":443,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 85","server":"85.208.108.234","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 86","server":"158.247.223.116","port":5001,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 87","server":"85.208.108.134","port":8008,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 88","server":"5.180.76.74","port":7307,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 89","server":"85.208.110.178","port":9102,"type":"ss","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 90","server":"85.208.110.178","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 91","server":"192.53.169.18","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 92","server":"85.208.108.234","port":7306,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 93","server":"212.38.189.174","port":8091,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 94","server":"85.208.110.178","port":8091,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 95","server":"192.46.209.215","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 96","server":"85.208.108.234","port":5003,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 97","server":"172.105.232.147","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 98","server":"85.208.110.178","port":6697,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 99","server":"194.71.130.160","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 100","server":"213.169.137.221","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 101","server":"85.208.108.134","port":5500,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 102","server":"85.208.108.234","port":445,"type":"ss","cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 103","server":"172.105.187.158","port":8888,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 104","server":"172.105.63.240","port":443,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 105","server":"172.105.232.147","port":4444,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 106","server":"172.105.187.158","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 107","server":"85.208.110.178","port":5500,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 108","server":"109.166.37.246","port":8080,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 109","server":"5.180.76.74","port":9102,"type":"ss","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 110","server":"131.255.4.219","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 111","server":"5.180.76.74","port":8009,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 112","server":"85.208.108.134","port":443,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 113","server":"85.208.108.234","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 114","server":"141.164.46.233","port":2375,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 115","server":"141.164.56.110","port":5600,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 116","server":"141.164.46.233","port":8091,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 117","server":"141.164.49.240","port":5601,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 118","server":"141.164.56.110","port":8080,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 119","server":"141.164.46.233","port":5000,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 120","server":"141.164.49.240","port":3389,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 121","server":"172.99.190.149","port":9102,"type":"ss","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 122","server":"202.59.10.102","port":989,"type":"ss","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 123","server":"5.180.76.74","port":3306,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 124","server":"89.163.212.17","port":8118,"type":"ss","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
+  - {"name":"爪ㄖ卄丂乇几 ¹ 125","server":"89.163.212.17","port":4444,"type":"ss","cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
   - {"name":"爪ㄖ卄丂乇几 1","server":"172.105.251.193","port":7306,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
   - {"name":"爪ㄖ卄丂乇几 2","server":"212.38.189.174","port":2375,"type":"ss","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
   - {"name":"爪ㄖ卄丂乇几 3","server":"212.38.189.174","port":7306,"type":"ss","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
@@ -1700,6 +1825,131 @@ proxy-groups:
       - 爪ㄖ卄丂乇几_11
       - 爪ㄖ卄丂乇几_12
       - 爪ㄖ卄丂乇几_13
+      - 爪ㄖ卄丂乇几 ¹ 1
+      - 爪ㄖ卄丂乇几 ¹ 2
+      - 爪ㄖ卄丂乇几 ¹ 3
+      - 爪ㄖ卄丂乇几 ¹ 4
+      - 爪ㄖ卄丂乇几 ¹ 5
+      - 爪ㄖ卄丂乇几 ¹ 6
+      - 爪ㄖ卄丂乇几 ¹ 7
+      - 爪ㄖ卄丂乇几 ¹ 8
+      - 爪ㄖ卄丂乇几 ¹ 9
+      - 爪ㄖ卄丂乇几 ¹ 10
+      - 爪ㄖ卄丂乇几 ¹ 11
+      - 爪ㄖ卄丂乇几 ¹ 12
+      - 爪ㄖ卄丂乇几 ¹ 13
+      - 爪ㄖ卄丂乇几 ¹ 14
+      - 爪ㄖ卄丂乇几 ¹ 15
+      - 爪ㄖ卄丂乇几 ¹ 16
+      - 爪ㄖ卄丂乇几 ¹ 17
+      - 爪ㄖ卄丂乇几 ¹ 18
+      - 爪ㄖ卄丂乇几 ¹ 19
+      - 爪ㄖ卄丂乇几 ¹ 20
+      - 爪ㄖ卄丂乇几 ¹ 21
+      - 爪ㄖ卄丂乇几 ¹ 22
+      - 爪ㄖ卄丂乇几 ¹ 23
+      - 爪ㄖ卄丂乇几 ¹ 24
+      - 爪ㄖ卄丂乇几 ¹ 25
+      - 爪ㄖ卄丂乇几 ¹ 26
+      - 爪ㄖ卄丂乇几 ¹ 27
+      - 爪ㄖ卄丂乇几 ¹ 28
+      - 爪ㄖ卄丂乇几 ¹ 29
+      - 爪ㄖ卄丂乇几 ¹ 30
+      - 爪ㄖ卄丂乇几 ¹ 31
+      - 爪ㄖ卄丂乇几 ¹ 32
+      - 爪ㄖ卄丂乇几 ¹ 33
+      - 爪ㄖ卄丂乇几 ¹ 34
+      - 爪ㄖ卄丂乇几 ¹ 35
+      - 爪ㄖ卄丂乇几 ¹ 36
+      - 爪ㄖ卄丂乇几 ¹ 37
+      - 爪ㄖ卄丂乇几 ¹ 38
+      - 爪ㄖ卄丂乇几 ¹ 39
+      - 爪ㄖ卄丂乇几 ¹ 40
+      - 爪ㄖ卄丂乇几 ¹ 41
+      - 爪ㄖ卄丂乇几 ¹ 42
+      - 爪ㄖ卄丂乇几 ¹ 43
+      - 爪ㄖ卄丂乇几 ¹ 44
+      - 爪ㄖ卄丂乇几 ¹ 45
+      - 爪ㄖ卄丂乇几 ¹ 46
+      - 爪ㄖ卄丂乇几 ¹ 47
+      - 爪ㄖ卄丂乇几 ¹ 48
+      - 爪ㄖ卄丂乇几 ¹ 49
+      - 爪ㄖ卄丂乇几 ¹ 50
+      - 爪ㄖ卄丂乇几 ¹ 51
+      - 爪ㄖ卄丂乇几 ¹ 52
+      - 爪ㄖ卄丂乇几 ¹ 53
+      - 爪ㄖ卄丂乇几 ¹ 54
+      - 爪ㄖ卄丂乇几 ¹ 55
+      - 爪ㄖ卄丂乇几 ¹ 56
+      - 爪ㄖ卄丂乇几 ¹ 57
+      - 爪ㄖ卄丂乇几 ¹ 58
+      - 爪ㄖ卄丂乇几 ¹ 59
+      - 爪ㄖ卄丂乇几 ¹ 60
+      - 爪ㄖ卄丂乇几 ¹ 61
+      - 爪ㄖ卄丂乇几 ¹ 62
+      - 爪ㄖ卄丂乇几 ¹ 63
+      - 爪ㄖ卄丂乇几 ¹ 64
+      - 爪ㄖ卄丂乇几 ¹ 65
+      - 爪ㄖ卄丂乇几 ¹ 66
+      - 爪ㄖ卄丂乇几 ¹ 67
+      - 爪ㄖ卄丂乇几 ¹ 68
+      - 爪ㄖ卄丂乇几 ¹ 69
+      - 爪ㄖ卄丂乇几 ¹ 70
+      - 爪ㄖ卄丂乇几 ¹ 71
+      - 爪ㄖ卄丂乇几 ¹ 72
+      - 爪ㄖ卄丂乇几 ¹ 73
+      - 爪ㄖ卄丂乇几 ¹ 74
+      - 爪ㄖ卄丂乇几 ¹ 75
+      - 爪ㄖ卄丂乇几 ¹ 76
+      - 爪ㄖ卄丂乇几 ¹ 77
+      - 爪ㄖ卄丂乇几 ¹ 78
+      - 爪ㄖ卄丂乇几 ¹ 79
+      - 爪ㄖ卄丂乇几 ¹ 80
+      - 爪ㄖ卄丂乇几 ¹ 81
+      - 爪ㄖ卄丂乇几 ¹ 82
+      - 爪ㄖ卄丂乇几 ¹ 83
+      - 爪ㄖ卄丂乇几 ¹ 84
+      - 爪ㄖ卄丂乇几 ¹ 85
+      - 爪ㄖ卄丂乇几 ¹ 86
+      - 爪ㄖ卄丂乇几 ¹ 87
+      - 爪ㄖ卄丂乇几 ¹ 88
+      - 爪ㄖ卄丂乇几 ¹ 89
+      - 爪ㄖ卄丂乇几 ¹ 90
+      - 爪ㄖ卄丂乇几 ¹ 91
+      - 爪ㄖ卄丂乇几 ¹ 92
+      - 爪ㄖ卄丂乇几 ¹ 93
+      - 爪ㄖ卄丂乇几 ¹ 94
+      - 爪ㄖ卄丂乇几 ¹ 95
+      - 爪ㄖ卄丂乇几 ¹ 96
+      - 爪ㄖ卄丂乇几 ¹ 97
+      - 爪ㄖ卄丂乇几 ¹ 98
+      - 爪ㄖ卄丂乇几 ¹ 99
+      - 爪ㄖ卄丂乇几 ¹ 100
+      - 爪ㄖ卄丂乇几 ¹ 101
+      - 爪ㄖ卄丂乇几 ¹ 102
+      - 爪ㄖ卄丂乇几 ¹ 103
+      - 爪ㄖ卄丂乇几 ¹ 104
+      - 爪ㄖ卄丂乇几 ¹ 105
+      - 爪ㄖ卄丂乇几 ¹ 106
+      - 爪ㄖ卄丂乇几 ¹ 107
+      - 爪ㄖ卄丂乇几 ¹ 108
+      - 爪ㄖ卄丂乇几 ¹ 109
+      - 爪ㄖ卄丂乇几 ¹ 110
+      - 爪ㄖ卄丂乇几 ¹ 111
+      - 爪ㄖ卄丂乇几 ¹ 112
+      - 爪ㄖ卄丂乇几 ¹ 113
+      - 爪ㄖ卄丂乇几 ¹ 114
+      - 爪ㄖ卄丂乇几 ¹ 115
+      - 爪ㄖ卄丂乇几 ¹ 116
+      - 爪ㄖ卄丂乇几 ¹ 117
+      - 爪ㄖ卄丂乇几 ¹ 118
+      - 爪ㄖ卄丂乇几 ¹ 119
+      - 爪ㄖ卄丂乇几 ¹ 120
+      - 爪ㄖ卄丂乇几 ¹ 121
+      - 爪ㄖ卄丂乇几 ¹ 122
+      - 爪ㄖ卄丂乇几 ¹ 123
+      - 爪ㄖ卄丂乇几 ¹ 124
+      - 爪ㄖ卄丂乇几 ¹ 125
       - 爪ㄖ卄丂乇几 1
       - 爪ㄖ卄丂乇几 2
       - 爪ㄖ卄丂乇几 3
