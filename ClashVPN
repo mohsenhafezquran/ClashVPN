@@ -1150,8 +1150,8 @@ proxy-groups:
 
   - name: ⚡Fastest
     type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
+    url: http://google.com
+    interval: 900
     proxies:
       - MOHSEN_1
       - MOHSEN_2
@@ -1857,7 +1857,7 @@ proxy-groups:
 
   - name: 🇨🇦
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇨🇦 Canada
@@ -1940,7 +1940,7 @@ proxy-groups:
       
   - name: 🇧🇻
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇧🇻 Norway
@@ -1973,7 +1973,7 @@ proxy-groups:
       
   - name: 🇩🇪
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇩🇪 Germany
@@ -1984,7 +1984,7 @@ proxy-groups:
       
   - name: 🇭🇰
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇭🇰 Hong Kong
@@ -2004,7 +2004,7 @@ proxy-groups:
       
   - name: 🇮🇳
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇮🇳 India
@@ -2023,7 +2023,7 @@ proxy-groups:
       
   - name: 🇯🇵
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇯🇵 Japan
@@ -2067,7 +2067,7 @@ proxy-groups:
       
   - name: 🇰🇷
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇰🇷 Korea, Republic of
@@ -2143,7 +2143,7 @@ proxy-groups:
       
   - name: 🇮🇹
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇮🇹 Italy
@@ -2156,7 +2156,7 @@ proxy-groups:
       
   - name: 🇫🇷
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇫🇷 France
@@ -2172,7 +2172,7 @@ proxy-groups:
       
   - name: 🇦🇺
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇦🇺 Australia
@@ -2189,7 +2189,7 @@ proxy-groups:
       
   - name: 🇸🇬
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇸🇬 Singapore
@@ -2201,7 +2201,7 @@ proxy-groups:
       
   - name: 🇬🇧
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇬🇧 United Kingdom
@@ -2259,7 +2259,7 @@ proxy-groups:
       
   - name: 🇵🇱
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇵🇱 Poland
@@ -2271,7 +2271,7 @@ proxy-groups:
       
   - name: 🇺🇸
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://google.com
     interval: 300
     proxies:
       - 🇺🇸 United States
