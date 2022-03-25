@@ -723,6 +723,18 @@ proxies:
   - {"name":"MOHSEN 700","server":"38.68.134.85","port":8091,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
   - {"name":"MOHSEN 701","server":"38.75.136.139","port":8090,"type":"ss","cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
   - {"name":"MOHSEN 702","server":"167.88.62.62","port":5004,"type":"ss","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"name":"Y no AD 1","server":"178.239.173.23","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 2","server":"185.134.22.24","port":18760,"type":"ss","cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 3","server":"84.33.193.79","port":18760,"type":"ss","cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 4","server":"185.233.150.6","port":18760,"type":"ss","cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 5","server":"185.134.22.25","port":18760,"type":"ss","cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 6","server":"104.237.224.144","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 7","server":"194.34.239.105","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 8","server":"78.138.99.86","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 9","server":"37.61.223.23","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 10","server":"212.68.55.11","port":18760,"type":"ss","cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 11","server":"178.239.173.20","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"name":"Y no AD 12","server":"104.237.224.145","port":18760,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
   - {name: 🇧🇻 Norway, server: 46.29.218.170, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: 🇧🇻 Norway 2, server: 46.29.218.170, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: 🇧🇻 Norway 3, server: 46.29.218.170, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
@@ -1134,6 +1146,7 @@ proxy-groups:
     type: select
     proxies:
       - ⚡Fastest
+      - Y NO AD
       - 🇨🇦
       - 🇧🇻
       - 🇩🇪
@@ -1856,6 +1869,24 @@ proxy-groups:
       - MOHSEN 700
       - MOHSEN 701
       - MOHSEN 702
+
+  - name: Y NO AD
+    type: url-test
+    url: http://google.com
+    interval: 300
+    proxies:
+      - Y no AD 1
+      - Y no AD 2
+      - Y no AD 3
+      - Y no AD 4
+      - Y no AD 5
+      - Y no AD 6
+      - Y no AD 7
+      - Y no AD 8
+      - Y no AD 9
+      - Y no AD 10
+      - Y no AD 11
+      - Y no AD 12
 
   - name: 🇨🇦
     type: url-test
