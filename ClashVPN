@@ -536,7 +536,7 @@ proxies:
   - {name: 🇯🇵 Japan 16, server: 85.208.108.134, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: 🇯🇵 Japan 17, server: 85.208.108.134, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: 🇯🇵 Japan 18, server: 139.162.116.154, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: 🇯?? Japan 19, server: 85.208.108.66, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 🇯🇵 Japan 19, server: 85.208.108.66, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
   - {name: 🇯🇵 Japan 20, server: 85.208.108.66, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: 🇯🇵 Japan 21, server: 85.208.108.66, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
   - {name: 🇯🇵 Japan 22, server: 85.208.108.66, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
