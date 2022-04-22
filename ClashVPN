@@ -21,6 +21,10 @@ dns:
     geoip: true
 
 proxies:
+  - {"name":"MOHSEN_1","server":"194.34.133.168","port":443,"type":"ss","country":"MOHSEN_1","cipher":"chacha20-ietf-poly1305","password":"QiITD07tVIlT", udp: true}
+  - {"name":"MOHSEN_2","server":"37.218.241.223","port":443,"type":"ss","country":"MOHSEN_2","cipher":"chacha20-ietf-poly1305","password":"LoLAN1hK8QnY", udp: true}
+  - {"name":"MOHSEN_3","server":"167.86.82.16","port":443,"type":"ss","country":"MOHSEN_3","cipher":"chacha20-ietf-poly1305","password":"JxbSUY8eYJoN", udp: true}
+  - {"name":"MOHSEN_4","server":"217.70.189.155","port":443,"type":"ss","country":"MOHSEN_4","cipher":"chacha20-ietf-poly1305","password":"bOOi88mJwE8y", udp: true}
   - {"name":"MOHSEN 1","server":"185.225.69.134","port":45081,"type":"vmess","uuid":"3c3bfd75-dc30-4e76-8940-47e1137e21f9","alterId":64,"cipher":"auto","country":"MOHSEN 1","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
   - {"name":"MOHSEN 2","server":"194.195.240.132","port":33210,"type":"vmess","uuid":"f46d05d6-8d41-4e0a-993e-e2658ac29f85","alterId":0,"cipher":"auto","country":"MOHSEN 2","skip-cert-verify":true,"tls":false,"network":"ws","ws-opts":{"path":"/"}, udp: true}
   - {"name":"MOHSEN 3","server":"150.230.43.65","port":14564,"type":"vmess","uuid":"1556e040-31d3-4c47-b0d2-ddf888010b4e","alterId":0,"cipher":"auto","country":"MOHSEN 3","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
@@ -642,6 +646,10 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - MOHSEN_1
+      - MOHSEN_2
+      - MOHSEN_3
+      - MOHSEN_4
       - MOHSEN 1
       - MOHSEN 2
       - MOHSEN 3
