@@ -69,6 +69,43 @@ proxies:
   - {"name":"MOHSEN 46","server":"us-ny-rn.licom.ga","port":62008,"type":"vmess","uuid":"f81e990e-1283-48f9-9eff-acacad6fb661","alterId":0,"cipher":"auto","country":"MOHSEN 46","skip-cert-verify":true,"tls":true,"network":"ws","ws-opts":{"path":"/"}, udp: true}
   - {"name":"MOHSEN 47","server":"v2ray.cool","port":10086,"type":"vmess","uuid":"a3482e88-686a-4a58-8126-99c9df64b7bf","alterId":64,"cipher":"auto","country":"MOHSEN 47","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
   - {"name":"MOHSEN 48","server":"129.227.201.234","port":443,"type":"vmess","uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","country":"MOHSEN 48","skip-cert-verify":true,"tls":true,"network":"ws","ws-opts":{"path":"/ws","headers":{"host":"aicoo6du.com"}}, udp: true}
+  - {"name":"MOHSEN_1","server":"185.101.35.172","port":812,"type":"ss","country":"MOHSEN_1","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_2","server":"195.154.114.187","port":989,"type":"ss","country":"MOHSEN_2","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_3","server":"51.15.0.113","port":989,"type":"ss","country":"MOHSEN_3","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_4","server":"194.71.126.31","port":989,"type":"ss","country":"MOHSEN_4","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_5","server":"193.9.114.34","port":812,"type":"ss","country":"MOHSEN_5","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_6","server":"92.38.139.136","port":812,"type":"ss","country":"MOHSEN_6","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_7","server":"95.174.23.218","port":989,"type":"ss","country":"MOHSEN_7","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_8","server":"192.36.41.28","port":989,"type":"ss","country":"MOHSEN_8","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_9","server":"212.237.210.158","port":989,"type":"ss","country":"MOHSEN_9","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_10","server":"192.71.244.49","port":989,"type":"ss","country":"MOHSEN_10","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_11","server":"46.183.185.15","port":989,"type":"ss","country":"MOHSEN_11","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_12","server":"37.235.49.158","port":989,"type":"ss","country":"MOHSEN_12","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_13","server":"93.186.201.124","port":812,"type":"ss","country":"MOHSEN_13","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_14","server":"194.71.130.160","port":989,"type":"ss","country":"MOHSEN_14","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_15","server":"31.133.102.100","port":989,"type":"ss","country":"MOHSEN_15","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_16","server":"103.84.192.228","port":989,"type":"ss","country":"MOHSEN_16","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_17","server":"135.125.244.103","port":989,"type":"ss","country":"MOHSEN_17","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_18","server":"185.160.24.217","port":812,"type":"ss","country":"MOHSEN_18","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_19","server":"89.31.125.101","port":812,"type":"ss","country":"MOHSEN_19","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_20","server":"213.169.137.221","port":989,"type":"ss","country":"MOHSEN_20","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_21","server":"103.123.0.28","port":989,"type":"ss","country":"MOHSEN_21","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_22","server":"103.238.213.96","port":989,"type":"ss","country":"MOHSEN_22","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_23","server":"185.164.35.9","port":989,"type":"ss","country":"MOHSEN_23","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_24","server":"5.181.234.254","port":812,"type":"ss","country":"MOHSEN_24","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_25","server":"103.62.49.141","port":812,"type":"ss","country":"MOHSEN_25","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_26","server":"91.245.255.59","port":989,"type":"ss","country":"MOHSEN_26","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_27","server":"109.169.72.249","port":812,"type":"ss","country":"MOHSEN_27","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_28","server":"193.37.252.210","port":812,"type":"ss","country":"MOHSEN_28","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_29","server":"167.88.61.236","port":812,"type":"ss","country":"MOHSEN_29","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_30","server":"172.245.218.162","port":812,"type":"ss","country":"MOHSEN_30","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_31","server":"51.159.30.61","port":812,"type":"ss","country":"MOHSEN_31","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_32","server":"172.255.248.35","port":989,"type":"ss","country":"MOHSEN_32","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"name":"MOHSEN_33","server":"38.91.107.225","port":812,"type":"ss","country":"MOHSEN_33","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_34","server":"78.129.253.9","port":812,"type":"ss","country":"MOHSEN_34","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_35","server":"38.68.134.135","port":812,"type":"ss","country":"MOHSEN_35","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_36","server":"169.197.143.15","port":812,"type":"ss","country":"MOHSEN_36","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"name":"MOHSEN_37","server":"162.251.61.221","port":812,"type":"ss","country":"MOHSEN_37","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"name":"🇦🇺AU_01","server":"172.105.184.113","port":8000,"type":"ss","country":"🇦🇺AU_01","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
   - {"name":"🇦🇺AU_02","server":"172.105.184.113","port":7307,"type":"ss","country":"🇦🇺AU_02","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
   - {"name":"🇦🇺AU_03","server":"185.167.116.38","port":9056,"type":"ss","country":"🇦🇺AU_03","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB", udp: true}
@@ -690,6 +727,43 @@ proxy-groups:
       - MOHSEN 46
       - MOHSEN 47
       - MOHSEN 48
+      - MOHSEN_1
+      - MOHSEN_2
+      - MOHSEN_3
+      - MOHSEN_4
+      - MOHSEN_5
+      - MOHSEN_6
+      - MOHSEN_7
+      - MOHSEN_8
+      - MOHSEN_9
+      - MOHSEN_10
+      - MOHSEN_11
+      - MOHSEN_12
+      - MOHSEN_13
+      - MOHSEN_14
+      - MOHSEN_15
+      - MOHSEN_16
+      - MOHSEN_17
+      - MOHSEN_18
+      - MOHSEN_19
+      - MOHSEN_20
+      - MOHSEN_21
+      - MOHSEN_22
+      - MOHSEN_23
+      - MOHSEN_24
+      - MOHSEN_25
+      - MOHSEN_26
+      - MOHSEN_27
+      - MOHSEN_28
+      - MOHSEN_29
+      - MOHSEN_30
+      - MOHSEN_31
+      - MOHSEN_32
+      - MOHSEN_33
+      - MOHSEN_34
+      - MOHSEN_35
+      - MOHSEN_36
+      - MOHSEN_37
 
   - name: 🗺 Location
     type: select
