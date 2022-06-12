@@ -559,54 +559,6 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - MOHSEN V 1
-      - MOHSEN V 2
-      - MOHSEN V 3
-      - MOHSEN V 4
-      - MOHSEN V 5
-      - MOHSEN V 6
-      - MOHSEN V 7
-      - MOHSEN V 8
-      - MOHSEN V 9
-      - MOHSEN V 10
-      - MOHSEN V 11
-      - MOHSEN V 12
-      - MOHSEN V 13
-      - MOHSEN V 14
-      - MOHSEN V 15
-      - MOHSEN V 16
-      - MOHSEN V 17
-      - MOHSEN V 18
-      - MOHSEN V 19
-      - MOHSEN V 20
-      - MOHSEN V 21
-      - MOHSEN V 22
-      - MOHSEN V 23
-      - MOHSEN V 24
-      - MOHSEN V 25
-      - MOHSEN V 26
-      - MOHSEN V 27
-      - MOHSEN V 28
-      - MOHSEN V 29
-      - MOHSEN V 30
-      - MOHSEN V 31
-      - MOHSEN V 32
-      - MOHSEN V 33
-      - MOHSEN V 34
-      - MOHSEN V 35
-      - MOHSEN V 36
-      - MOHSEN V 37
-      - MOHSEN V 38
-      - MOHSEN V 39
-      - MOHSEN V 40
-      - MOHSEN V 41
-      - MOHSEN V 42
-      - MOHSEN V 43
-      - MOHSEN V 44
-      - MOHSEN V 45
-      - MOHSEN V 46
-      - MOHSEN V 47
-      - MOHSEN V 48
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
@@ -1084,6 +1036,54 @@ proxy-groups:
       - MOHSEN S 475
       - MOHSEN S 476
       - MOHSEN S 477
+      - MOHSEN V 1
+      - MOHSEN V 2
+      - MOHSEN V 3
+      - MOHSEN V 4
+      - MOHSEN V 5
+      - MOHSEN V 6
+      - MOHSEN V 7
+      - MOHSEN V 8
+      - MOHSEN V 9
+      - MOHSEN V 10
+      - MOHSEN V 11
+      - MOHSEN V 12
+      - MOHSEN V 13
+      - MOHSEN V 14
+      - MOHSEN V 15
+      - MOHSEN V 16
+      - MOHSEN V 17
+      - MOHSEN V 18
+      - MOHSEN V 19
+      - MOHSEN V 20
+      - MOHSEN V 21
+      - MOHSEN V 22
+      - MOHSEN V 23
+      - MOHSEN V 24
+      - MOHSEN V 25
+      - MOHSEN V 26
+      - MOHSEN V 27
+      - MOHSEN V 28
+      - MOHSEN V 29
+      - MOHSEN V 30
+      - MOHSEN V 31
+      - MOHSEN V 32
+      - MOHSEN V 33
+      - MOHSEN V 34
+      - MOHSEN V 35
+      - MOHSEN V 36
+      - MOHSEN V 37
+      - MOHSEN V 38
+      - MOHSEN V 39
+      - MOHSEN V 40
+      - MOHSEN V 41
+      - MOHSEN V 42
+      - MOHSEN V 43
+      - MOHSEN V 44
+      - MOHSEN V 45
+      - MOHSEN V 46
+      - MOHSEN V 47
+      - MOHSEN V 48
 
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
@@ -1097,4 +1097,4 @@ rules:
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
   - IP-CIDR6,fd00::/8,DIRECT,no-resolve
   - GEOIP,IR,DIRECT,
-  - MATCH,☰ MENU
+  - MATCH,☰ MENU0
