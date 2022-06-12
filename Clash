@@ -1097,4 +1097,4 @@ rules:
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
   - IP-CIDR6,fd00::/8,DIRECT,no-resolve
   - GEOIP,IR,DIRECT,
-  - MATCH,☰ MENU0
+  - MATCH,☰ MENU
