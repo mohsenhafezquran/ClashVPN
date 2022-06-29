@@ -21,206 +21,57 @@ dns:
     geoip: true
 
 proxies:
-  - {"type":"ss","name":"MOHSEN S 1","server":"213.183.63.221","port":9027,"cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 2","server":"213.183.63.221","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 3","server":"213.183.63.221","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4", udp: true}
-  - {"type":"ss","name":"MOHSEN S 4","server":"213.183.63.221","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM", udp: true}
-  - {"type":"ss","name":"MOHSEN S 5","server":"213.183.63.221","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 6","server":"213.183.63.221","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA", udp: true}
-  - {"type":"ss","name":"MOHSEN S 7","server":"213.183.63.221","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk", udp: true}
-  - {"type":"ss","name":"MOHSEN S 8","server":"213.183.63.221","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 9","server":"213.183.63.221","port":9011,"cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa", udp: true}
-  - {"type":"ss","name":"MOHSEN S 10","server":"213.183.63.221","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y", udp: true}
-  - {"type":"ss","name":"MOHSEN S 11","server":"213.183.63.221","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf", udp: true}
-  - {"type":"ss","name":"MOHSEN S 12","server":"213.183.63.221","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 13","server":"213.183.63.221","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 14","server":"213.183.63.221","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj", udp: true}
-  - {"type":"ss","name":"MOHSEN S 15","server":"213.183.63.221","port":9053,"cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C", udp: true}
-  - {"type":"ss","name":"MOHSEN S 16","server":"213.183.63.221","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 17","server":"213.183.63.221","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 18","server":"213.183.63.221","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 19","server":"213.183.63.221","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 20","server":"213.183.63.221","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 21","server":"213.183.63.221","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 22","server":"213.183.63.221","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 23","server":"213.183.63.221","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm", udp: true}
-  - {"type":"ss","name":"MOHSEN S 24","server":"213.183.63.221","port":9007,"cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 25","server":"213.183.63.221","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 26","server":"213.183.63.221","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 27","server":"92.223.65.31","port":29092,"cipher":"chacha20-ietf-poly1305","password":"ypoq8dJBPqst", udp: true}
-  - {"type":"ss","name":"MOHSEN S 28","server":"217.30.10.68","port":9046,"cipher":"aes-256-cfb","password":"NvS8N4Vf8qAGPSCL", udp: true}
-  - {"type":"ss","name":"MOHSEN S 29","server":"217.30.10.63","port":9079,"cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb", udp: true}
-  - {"type":"ss","name":"MOHSEN S 30","server":"82.145.41.125","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 31","server":"82.145.41.125","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 32","server":"217.30.10.63","port":9043,"cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF", udp: true}
-  - {"type":"ss","name":"MOHSEN S 33","server":"51.38.118.42","port":811,"cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017", udp: true}
-  - {"type":"ss","name":"MOHSEN S 34","server":"217.30.10.63","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf", udp: true}
-  - {"type":"ss","name":"MOHSEN S 35","server":"213.183.53.212","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe", udp: true}
-  - {"type":"ss","name":"MOHSEN S 36","server":"217.30.10.63","port":9053,"cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C", udp: true}
-  - {"type":"ss","name":"MOHSEN S 37","server":"172.99.188.99","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 38","server":"213.183.53.202","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 39","server":"217.30.10.63","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE", udp: true}
-  - {"type":"ss","name":"MOHSEN S 40","server":"213.183.53.222","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 41","server":"217.30.10.63","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9", udp: true}
-  - {"type":"ss","name":"MOHSEN S 42","server":"217.30.10.63","port":9038,"cipher":"aes-256-cfb","password":"gYCYXfkUQEs2TaJQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 43","server":"213.183.63.221","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 44","server":"212.38.189.174","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-  - {"type":"ss","name":"MOHSEN S 45","server":"213.183.53.222","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 46","server":"212.38.189.174","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
-  - {"type":"ss","name":"MOHSEN S 47","server":"213.183.53.221","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE", udp: true}
-  - {"type":"ss","name":"MOHSEN S 48","server":"213.183.53.182","port":9056,"cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB", udp: true}
-  - {"type":"ss","name":"MOHSEN S 49","server":"213.183.53.222","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z", udp: true}
-  - {"type":"ss","name":"MOHSEN S 50","server":"217.30.10.68","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm", udp: true}
-  - {"type":"ss","name":"MOHSEN S 51","server":"213.183.63.221","port":9079,"cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb", udp: true}
-  - {"type":"ss","name":"MOHSEN S 52","server":"213.183.53.182","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj", udp: true}
-  - {"type":"ss","name":"MOHSEN S 53","server":"172.99.190.61","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 54","server":"172.99.190.61","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 55","server":"172.99.190.61","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
-  - {"type":"ss","name":"MOHSEN S 56","server":"217.30.10.63","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 57","server":"213.183.53.221","port":9007,"cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 58","server":"213.183.53.182","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 59","server":"172.99.190.61","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 60","server":"217.30.10.63","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y", udp: true}
-  - {"type":"ss","name":"MOHSEN S 61","server":"185.219.134.52","port":50003,"cipher":"aes-256-cfb","password":"8460400130", udp: true}
-  - {"type":"ss","name":"MOHSEN S 62","server":"82.145.41.125","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 63","server":"217.30.10.67","port":9056,"cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB", udp: true}
-  - {"type":"ss","name":"MOHSEN S 64","server":"217.30.10.63","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 65","server":"213.183.53.222","port":9061,"cipher":"aes-256-cfb","password":"4R3hUfZ2FHhDmNcP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 66","server":"212.38.189.174","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
-  - {"type":"ss","name":"MOHSEN S 67","server":"213.183.53.182","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 68","server":"212.38.189.174","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 69","server":"213.183.53.221","port":9030,"cipher":"aes-256-cfb","password":"GeregetR8cvQHzYr", udp: true}
-  - {"type":"ss","name":"MOHSEN S 70","server":"217.30.10.68","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y", udp: true}
-  - {"type":"ss","name":"MOHSEN S 71","server":"213.183.53.222","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9", udp: true}
-  - {"type":"ss","name":"MOHSEN S 72","server":"213.183.53.208","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 73","server":"217.30.10.63","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm", udp: true}
-  - {"type":"ss","name":"MOHSEN S 74","server":"213.183.53.221","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 75","server":"213.183.53.182","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm", udp: true}
-  - {"type":"ss","name":"MOHSEN S 76","server":"217.30.10.63","port":9056,"cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB", udp: true}
-  - {"type":"ss","name":"MOHSEN S 77","server":"217.30.10.63","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 78","server":"217.30.10.63","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA", udp: true}
-  - {"type":"ss","name":"MOHSEN S 79","server":"213.183.53.202","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 80","server":"213.183.53.222","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE", udp: true}
-  - {"type":"ss","name":"MOHSEN S 81","server":"217.30.10.63","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 82","server":"212.38.189.174","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
-  - {"type":"ss","name":"MOHSEN S 83","server":"213.183.53.212","port":9053,"cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C", udp: true}
-  - {"type":"ss","name":"MOHSEN S 84","server":"213.183.53.222","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 85","server":"213.183.53.182","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM", udp: true}
-  - {"type":"ss","name":"MOHSEN S 86","server":"51.15.0.113","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 87","server":"217.30.10.63","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 88","server":"82.145.41.125","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
-  - {"type":"ss","name":"MOHSEN S 89","server":"217.30.10.63","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga", udp: true}
-  - {"type":"ss","name":"MOHSEN S 90","server":"217.30.10.63","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 91","server":"213.183.53.182","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 92","server":"213.183.53.222","port":9011,"cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa", udp: true}
-  - {"type":"ss","name":"MOHSEN S 93","server":"217.30.10.63","port":9011,"cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa", udp: true}
-  - {"type":"ss","name":"MOHSEN S 94","server":"217.30.10.68","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 95","server":"213.183.63.221","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 96","server":"213.183.53.202","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA", udp: true}
-  - {"type":"ss","name":"MOHSEN S 97","server":"213.183.53.182","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y", udp: true}
-  - {"type":"ss","name":"MOHSEN S 98","server":"213.183.53.182","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 99","server":"213.183.53.182","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA", udp: true}
-  - {"type":"ss","name":"MOHSEN S 100","server":"213.183.63.221","port":9043,"cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF", udp: true}
-  - {"type":"ss","name":"MOHSEN S 101","server":"185.246.155.29","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9", udp: true}
-  - {"type":"ss","name":"MOHSEN S 102","server":"213.183.59.185","port":9046,"cipher":"aes-256-cfb","password":"NvS8N4Vf8qAGPSCL", udp: true}
-  - {"type":"ss","name":"MOHSEN S 103","server":"163.172.110.153","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
-  - {"type":"ss","name":"MOHSEN S 104","server":"213.183.59.185","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 105","server":"213.183.59.211","port":9061,"cipher":"aes-256-cfb","password":"4R3hUfZ2FHhDmNcP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 106","server":"217.30.10.63","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c", udp: true}
-  - {"type":"ss","name":"MOHSEN S 107","server":"213.183.59.218","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA", udp: true}
-  - {"type":"ss","name":"MOHSEN S 108","server":"217.30.10.63","port":9037,"cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU", udp: true}
-  - {"type":"ss","name":"MOHSEN S 109","server":"213.183.59.185","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c", udp: true}
-  - {"type":"ss","name":"MOHSEN S 110","server":"185.204.1.253","port":443,"cipher":"chacha20-ietf-poly1305","password":"V29BpbtkhWZr", udp: true}
-  - {"type":"ss","name":"MOHSEN S 111","server":"217.30.10.63","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 112","server":"185.246.155.29","port":9043,"cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF", udp: true}
-  - {"type":"ss","name":"MOHSEN S 113","server":"217.30.10.63","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj", udp: true}
-  - {"type":"ss","name":"MOHSEN S 114","server":"77.83.247.20","port":443,"cipher":"chacha20-ietf-poly1305","password":"ihtUBnhX69ji", udp: true}
-  - {"type":"ss","name":"MOHSEN S 115","server":"217.30.10.63","port":9007,"cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 116","server":"51.195.217.22","port":50004,"cipher":"aes-256-cfb","password":"4415934295", udp: true}
-  - {"type":"ss","name":"MOHSEN S 117","server":"217.30.10.64","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c", udp: true}
-  - {"type":"ss","name":"MOHSEN S 118","server":"217.30.10.68","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 119","server":"217.30.10.67","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 120","server":"217.30.10.68","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 121","server":"217.30.10.64","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 122","server":"217.30.10.64","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 123","server":"217.30.10.64","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 124","server":"217.30.10.63","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 125","server":"95.174.23.218","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 126","server":"213.183.59.185","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 127","server":"217.30.10.63","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 128","server":"217.30.10.63","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4", udp: true}
-  - {"type":"ss","name":"MOHSEN S 129","server":"217.30.10.63","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP", udp: true}
-  - {"type":"ss","name":"MOHSEN S 130","server":"217.30.10.63","port":9027,"cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 131","server":"213.183.59.185","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 132","server":"217.30.10.63","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 133","server":"217.30.10.67","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 134","server":"217.30.10.63","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 135","server":"217.30.10.67","port":9020,"cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu", udp: true}
-  - {"type":"ss","name":"MOHSEN S 136","server":"213.183.59.185","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9", udp: true}
-  - {"type":"ss","name":"MOHSEN S 137","server":"217.30.10.63","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 138","server":"217.30.10.64","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm", udp: true}
-  - {"type":"ss","name":"MOHSEN S 139","server":"217.30.10.63","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 140","server":"84.33.193.79","port":18760,"cipher":"aes-256-gcm","password":"hg49$WH8943g3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 141","server":"213.183.59.185","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 142","server":"217.30.10.63","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 143","server":"217.30.10.64","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 144","server":"217.30.10.63","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 145","server":"217.30.10.64","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y", udp: true}
-  - {"type":"ss","name":"MOHSEN S 146","server":"213.183.59.218","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 147","server":"213.183.59.211","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4", udp: true}
-  - {"type":"ss","name":"MOHSEN S 148","server":"213.183.59.218","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 149","server":"217.30.10.64","port":9020,"cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu", udp: true}
-  - {"type":"ss","name":"MOHSEN S 150","server":"217.30.10.64","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 151","server":"217.30.10.64","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 152","server":"217.30.10.63","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 153","server":"217.30.10.67","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c", udp: true}
-  - {"type":"ss","name":"MOHSEN S 154","server":"217.30.10.67","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 155","server":"185.246.155.35","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 156","server":"217.30.10.67","port":9079,"cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb", udp: true}
-  - {"type":"ss","name":"MOHSEN S 157","server":"217.30.10.68","port":9027,"cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 158","server":"217.30.10.63","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z", udp: true}
-  - {"type":"ss","name":"MOHSEN S 159","server":"217.30.10.67","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 160","server":"217.30.10.64","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 161","server":"217.30.10.67","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9", udp: true}
-  - {"type":"ss","name":"MOHSEN S 162","server":"217.30.10.68","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c", udp: true}
-  - {"type":"ss","name":"MOHSEN S 163","server":"217.30.10.64","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 164","server":"217.30.10.68","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM", udp: true}
-  - {"type":"ss","name":"MOHSEN S 165","server":"213.183.59.185","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z", udp: true}
-  - {"type":"ss","name":"MOHSEN S 166","server":"217.30.10.63","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk", udp: true}
-  - {"type":"ss","name":"MOHSEN S 167","server":"83.217.9.76","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 168","server":"194.34.239.105","port":18760,"cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 169","server":"uk.london1.vpntester.net","port":15256,"cipher":"chacha20-ietf-poly1305","password":"4SGLMZ7Z83fN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 170","server":"217.30.10.64","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 171","server":"194.71.130.160","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
-  - {"type":"ss","name":"MOHSEN S 172","server":"217.30.10.67","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8", udp: true}
-  - {"type":"ss","name":"MOHSEN S 173","server":"185.4.65.6","port":21247,"cipher":"aes-256-cfb","password":"vDS9G2p", udp: true}
-  - {"type":"ss","name":"MOHSEN S 174","server":"213.183.53.182","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga", udp: true}
-  - {"type":"ss","name":"MOHSEN S 175","server":"213.183.53.182","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 176","server":"213.183.53.202","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt", udp: true}
-  - {"type":"ss","name":"MOHSEN S 177","server":"213.183.53.212","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 178","server":"217.30.10.67","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf", udp: true}
-  - {"type":"ss","name":"MOHSEN S 179","server":"213.183.53.182","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 180","server":"213.183.59.185","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn", udp: true}
-  - {"type":"ss","name":"MOHSEN S 181","server":"213.183.53.182","port":9053,"cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C", udp: true}
-  - {"type":"ss","name":"MOHSEN S 182","server":"213.183.53.182","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE", udp: true}
-  - {"type":"ss","name":"MOHSEN S 183","server":"213.183.53.182","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq", udp: true}
-  - {"type":"ss","name":"MOHSEN S 184","server":"213.183.53.202","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 185","server":"213.183.53.182","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk", udp: true}
-  - {"type":"ss","name":"MOHSEN S 186","server":"213.183.53.221","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 187","server":"213.183.53.221","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH", udp: true}
-  - {"type":"ss","name":"MOHSEN S 188","server":"213.183.53.202","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk", udp: true}
-  - {"type":"ss","name":"MOHSEN S 189","server":"213.183.53.182","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 190","server":"213.183.53.221","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 191","server":"213.183.53.212","port":9080,"cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ", udp: true}
-  - {"type":"ss","name":"MOHSEN S 192","server":"213.183.53.221","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN", udp: true}
-  - {"type":"ss","name":"MOHSEN S 193","server":"213.183.53.202","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj", udp: true}
-  - {"type":"ss","name":"MOHSEN S 194","server":"213.183.53.212","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX", udp: true}
-  - {"type":"ss","name":"MOHSEN S 195","server":"213.183.53.212","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE", udp: true}
-  - {"type":"ss","name":"MOHSEN S 196","server":"213.183.53.202","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z", udp: true}
-  - {"type":"ss","name":"MOHSEN S 197","server":"213.183.53.182","port":9030,"cipher":"aes-256-cfb","password":"GeregetR8cvQHzYr", udp: true}
-  - {"type":"ss","name":"MOHSEN S 198","server":"213.183.53.202","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7", udp: true}
-  - {"type":"ss","name":"MOHSEN S 199","server":"213.183.53.182","port":9007,"cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY", udp: true}
-  - {"type":"ss","name":"MOHSEN S 200","server":"213.183.53.202","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH", udp: true}
+  - {"type":"ss","name":"MOHSEN S 1","server":"38.75.136.21","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"type":"ss","name":"MOHSEN S 2","server":"169.197.141.5","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"type":"ss","name":"MOHSEN S 3","server":"167.88.63.82","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 4","server":"167.88.63.99","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"type":"ss","name":"MOHSEN S 5","server":"167.88.63.123","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"type":"ss","name":"MOHSEN S 6","server":"142.202.48.34","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"type":"ss","name":"MOHSEN S 7","server":"142.202.48.7","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 8","server":"142.202.48.52","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"type":"ss","name":"MOHSEN S 9","server":"142.202.48.99","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"type":"ss","name":"MOHSEN S 10","server":"167.88.63.79","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"type":"ss","name":"MOHSEN S 11","server":"167.88.63.59","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
+  - {"type":"ss","name":"MOHSEN S 12","server":"167.88.63.44","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 13","server":"38.91.102.74","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"type":"ss","name":"MOHSEN S 14","server":"38.91.102.125","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 15","server":"38.91.102.30","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"type":"ss","name":"MOHSEN S 16","server":"38.75.136.161","port":9090,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 17","server":"38.114.114.67","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"type":"ss","name":"MOHSEN S 18","server":"167.88.62.68","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
+  - {"type":"ss","name":"MOHSEN S 19","server":"38.86.135.27","port":5499,"cipher":"aes-256-gcm","password":"lGqs95QkFHo2NV", udp: true}
+  - {"type":"ss","name":"MOHSEN S 20","server":"38.86.135.36","port":9090,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 21","server":"134.195.196.108","port":9090,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 22","server":"134.195.196.19","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 23","server":"134.195.196.107","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 24","server":"134.195.196.149","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
+  - {"type":"ss","name":"MOHSEN S 25","server":"134.195.196.89","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 26","server":"134.195.196.128","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"type":"ss","name":"MOHSEN S 27","server":"134.195.196.150","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 28","server":"134.195.196.200","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"type":"ss","name":"MOHSEN S 29","server":"134.195.196.64","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"type":"ss","name":"MOHSEN S 30","server":"172.99.190.149","port":5499,"cipher":"aes-256-gcm","password":"lGqs95QkFHo2NV", udp: true}
+  - {"type":"ss","name":"MOHSEN S 31","server":"172.99.190.61","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 32","server":"212.38.189.174","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4", udp: true}
+  - {"type":"ss","name":"MOHSEN S 33","server":"82.145.41.125","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM", udp: true}
+  - {"type":"ss","name":"MOHSEN S 34","server":"172.99.189.204","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"type":"ss","name":"MOHSEN S 35","server":"62.210.222.195","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"type":"ss","name":"MOHSEN S 36","server":"139.99.68.21","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"type":"ss","name":"MOHSEN S 37","server":"51.79.178.41","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"type":"ss","name":"MOHSEN S 38","server":"54.36.174.181","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"type":"ss","name":"MOHSEN S 39","server":"217.182.198.219","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"type":"ss","name":"MOHSEN S 40","server":"193.108.118.34","port":445,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"type":"ss","name":"MOHSEN S 41","server":"193.108.117.75","port":445,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"type":"ss","name":"MOHSEN S 42","server":"172.99.188.71","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 43","server":"194.15.196.106","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v", udp: true}
+  - {"type":"ss","name":"MOHSEN S 44","server":"51.68.205.66","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7", udp: true}
+  - {"type":"ss","name":"MOHSEN S 45","server":"142.202.48.74","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"type":"ss","name":"MOHSEN S 46","server":"169.197.141.39","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY", udp: true}
+  - {"type":"ss","name":"MOHSEN S 47","server":"134.195.198.95","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
+  - {"type":"ss","name":"MOHSEN S 48","server":"38.91.107.43","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP", udp: true}
+  - {"type":"ss","name":"MOHSEN S 49","server":"38.68.135.239","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"MOHSEN S 50","server":"167.88.61.175","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm", udp: true}
+  - {"type":"ss","name":"MOHSEN S 51","server":"38.64.138.145","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
   - {"name":"MOHSEN V 1","server":"185.225.69.134","port":45081,"type":"vmess","uuid":"3c3bfd75-dc30-4e76-8940-47e1137e21f9","alterId":64,"cipher":"auto","country":"MOHSEN V 1","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
   - {"name":"MOHSEN V 2","server":"194.195.240.132","port":33210,"type":"vmess","uuid":"f46d05d6-8d41-4e0a-993e-e2658ac29f85","alterId":0,"cipher":"auto","country":"MOHSEN V 2","skip-cert-verify":true,"tls":false,"network":"ws","ws-opts":{"path":"/"}, udp: true}
   - {"name":"MOHSEN V 3","server":"150.230.43.65","port":14564,"type":"vmess","uuid":"1556e040-31d3-4c47-b0d2-ddf888010b4e","alterId":0,"cipher":"auto","country":"MOHSEN V 3","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
@@ -1915,155 +1766,6 @@ proxy-groups:
       - MOHSEN S 49
       - MOHSEN S 50
       - MOHSEN S 51
-      - MOHSEN S 52
-      - MOHSEN S 53
-      - MOHSEN S 54
-      - MOHSEN S 55
-      - MOHSEN S 56
-      - MOHSEN S 57
-      - MOHSEN S 58
-      - MOHSEN S 59
-      - MOHSEN S 60
-      - MOHSEN S 61
-      - MOHSEN S 62
-      - MOHSEN S 63
-      - MOHSEN S 64
-      - MOHSEN S 65
-      - MOHSEN S 66
-      - MOHSEN S 67
-      - MOHSEN S 68
-      - MOHSEN S 69
-      - MOHSEN S 70
-      - MOHSEN S 71
-      - MOHSEN S 72
-      - MOHSEN S 73
-      - MOHSEN S 74
-      - MOHSEN S 75
-      - MOHSEN S 76
-      - MOHSEN S 77
-      - MOHSEN S 78
-      - MOHSEN S 79
-      - MOHSEN S 80
-      - MOHSEN S 81
-      - MOHSEN S 82
-      - MOHSEN S 83
-      - MOHSEN S 84
-      - MOHSEN S 85
-      - MOHSEN S 86
-      - MOHSEN S 87
-      - MOHSEN S 88
-      - MOHSEN S 89
-      - MOHSEN S 90
-      - MOHSEN S 91
-      - MOHSEN S 92
-      - MOHSEN S 93
-      - MOHSEN S 94
-      - MOHSEN S 95
-      - MOHSEN S 96
-      - MOHSEN S 97
-      - MOHSEN S 98
-      - MOHSEN S 99
-      - MOHSEN S 100
-      - MOHSEN S 101
-      - MOHSEN S 102
-      - MOHSEN S 103
-      - MOHSEN S 104
-      - MOHSEN S 105
-      - MOHSEN S 106
-      - MOHSEN S 107
-      - MOHSEN S 108
-      - MOHSEN S 109
-      - MOHSEN S 110
-      - MOHSEN S 111
-      - MOHSEN S 112
-      - MOHSEN S 113
-      - MOHSEN S 114
-      - MOHSEN S 115
-      - MOHSEN S 116
-      - MOHSEN S 117
-      - MOHSEN S 118
-      - MOHSEN S 119
-      - MOHSEN S 120
-      - MOHSEN S 121
-      - MOHSEN S 122
-      - MOHSEN S 123
-      - MOHSEN S 124
-      - MOHSEN S 125
-      - MOHSEN S 126
-      - MOHSEN S 127
-      - MOHSEN S 128
-      - MOHSEN S 129
-      - MOHSEN S 130
-      - MOHSEN S 131
-      - MOHSEN S 132
-      - MOHSEN S 133
-      - MOHSEN S 134
-      - MOHSEN S 135
-      - MOHSEN S 136
-      - MOHSEN S 137
-      - MOHSEN S 138
-      - MOHSEN S 139
-      - MOHSEN S 140
-      - MOHSEN S 141
-      - MOHSEN S 142
-      - MOHSEN S 143
-      - MOHSEN S 144
-      - MOHSEN S 145
-      - MOHSEN S 146
-      - MOHSEN S 147
-      - MOHSEN S 148
-      - MOHSEN S 149
-      - MOHSEN S 150
-      - MOHSEN S 151
-      - MOHSEN S 152
-      - MOHSEN S 153
-      - MOHSEN S 154
-      - MOHSEN S 155
-      - MOHSEN S 156
-      - MOHSEN S 157
-      - MOHSEN S 158
-      - MOHSEN S 159
-      - MOHSEN S 160
-      - MOHSEN S 161
-      - MOHSEN S 162
-      - MOHSEN S 163
-      - MOHSEN S 164
-      - MOHSEN S 165
-      - MOHSEN S 166
-      - MOHSEN S 167
-      - MOHSEN S 168
-      - MOHSEN S 169
-      - MOHSEN S 170
-      - MOHSEN S 171
-      - MOHSEN S 172
-      - MOHSEN S 173
-      - MOHSEN S 174
-      - MOHSEN S 175
-      - MOHSEN S 176
-      - MOHSEN S 177
-      - MOHSEN S 178
-      - MOHSEN S 179
-      - MOHSEN S 180
-      - MOHSEN S 181
-      - MOHSEN S 182
-      - MOHSEN S 183
-      - MOHSEN S 184
-      - MOHSEN S 185
-      - MOHSEN S 186
-      - MOHSEN S 187
-      - MOHSEN S 188
-      - MOHSEN S 189
-      - MOHSEN S 190
-      - MOHSEN S 191
-      - MOHSEN S 192
-      - MOHSEN S 193
-      - MOHSEN S 194
-      - MOHSEN S 195
-      - MOHSEN S 196
-      - MOHSEN S 197
-      - MOHSEN S 198
-      - MOHSEN S 199
-      - MOHSEN S 200
       - MOHSEN V 1
       - MOHSEN V 2
       - MOHSEN V 3
