@@ -788,7 +788,7 @@ proxies:
   - {"type":"ss","name":"🇺🇸US_1414","server":"38.114.114.19","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG", udp: true}
   - {"type":"ss","name":"🇺🇸US_1416","server":"38.68.135.19","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
   - {"type":"ss","name":"🇺🇸US_1418","server":"38.114.114.69","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
-  - {"type":"ss","name":"🇺??US_1419","server":"38.68.135.239","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
+  - {"type":"ss","name":"🇺🇸US_1419","server":"38.68.135.239","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
   - {"type":"ss","name":"🇺🇸US_1424","server":"172.99.190.149","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
   - {"type":"ss","name":"🇺🇸US_1431","server":"38.114.114.69","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN", udp: true}
   - {"type":"ss","name":"🇺🇸US_1434","server":"38.75.136.21","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId", udp: true}
