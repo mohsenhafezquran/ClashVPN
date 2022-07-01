@@ -21,6 +21,13 @@ dns:
     geoip: true
 
 proxies:
+  - {"type":"ssr","name":"SSR 1","server":"192.3.187.240","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 2","server":"82.145.41.145","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 3","server":"178.132.5.206","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 4","server":"152.228.187.145","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 5","server":"178.132.5.223","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 6","server":"82.145.41.150","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
+  - {"type":"ssr","name":"SSR 7","server":"172.245.214.41","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
   - {"type":"ss","name":"MOHSEN_S_1","server":"172.99.190.84","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27", udp: true}
   - {"type":"ss","name":"MOHSEN_S_2","server":"185.104.184.78","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"MOHSEN_S_3","server":"51.159.30.61","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
@@ -146,9 +153,6 @@ proxies:
   - {"name":"MOHSEN V 46","server":"us-ny-rn.licom.ga","port":62008,"type":"vmess","uuid":"f81e990e-1283-48f9-9eff-acacad6fb661","alterId":0,"cipher":"auto","country":"MOHSEN V 46","skip-cert-verify":true,"tls":true,"network":"ws","ws-opts":{"path":"/"}, udp: true}
   - {"name":"MOHSEN V 47","server":"v2ray.cool","port":10086,"type":"vmess","uuid":"a3482e88-686a-4a58-8126-99c9df64b7bf","alterId":64,"cipher":"auto","country":"MOHSEN V 47","skip-cert-verify":true,"tls":false,"network":"tcp", udp: true}
   - {"name":"MOHSEN V 48","server":"129.227.201.234","port":443,"type":"vmess","uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","country":"MOHSEN V 48","skip-cert-verify":true,"tls":true,"network":"ws","ws-opts":{"path":"/ws","headers":{"host":"aicoo6du.com"}}, udp: true}
-  - {"type":"ssr","name":"SSR 1","server":"192.3.187.240","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
-  - {"type":"ssr","name":"SSR 2","server":"82.145.41.145","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
-  - {"type":"ssr","name":"SSR 3","server":"178.132.5.206","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
   - {"type":"ss","name":"🇦🇪AE_07","server":"109.169.72.249","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"🇦🇪AE_08","server":"109.169.72.249","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"🇦🇪AE_13","server":"109.169.72.249","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
@@ -922,6 +926,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - SSR 1
+      - SSR 2
+      - SSR 3
+      - SSR 4
+      - SSR 5
+      - SSR 6
+      - SSR 7
       - MOHSEN_S_1
       - MOHSEN_S_2
       - MOHSEN_S_3
@@ -1047,9 +1058,6 @@ proxy-groups:
       - MOHSEN V 46
       - MOHSEN V 47
       - MOHSEN V 48
-      - SSR 1
-      - SSR 2
-      - SSR 3
 
   - name: 🗺 Location
     type: select
