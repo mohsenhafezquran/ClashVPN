@@ -21,6 +21,26 @@ dns:
     geoip: true
 
 proxies:
+  - {"type":"ss","name":"MOHSEN SS 1","server":"72.140.224.196","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 2","server":"85.114.138.92","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 3","server":"93.186.201.124","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 4","server":"109.169.72.249","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 5","server":"38.91.107.225","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 6","server":"167.88.61.236","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 7","server":"94.20.154.26","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 8","server":"213.169.137.221","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 9","server":"192.71.166.102","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 10","server":"51.15.0.113","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 11","server":"46.183.185.15","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 12","server":"158.247.213.230","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 13","server":"213.174.129.4","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 14","server":"139.99.135.133","port":50003,"cipher":"aes-256-cfb","password":"8460400130", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 15","server":"51.222.142.94","port":50003,"cipher":"aes-256-cfb","password":"8460400130", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 16","server":"185.162.125.91","port":50003,"cipher":"aes-256-cfb","password":"8460400130", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 17","server":"5.188.111.182","port":826,"cipher":"chacha20-ietf-poly1305","password":"sF43Xt2gONqcgFX563", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 18","server":"185.4.65.6","port":21247,"cipher":"aes-256-cfb","password":"vDS9G2p", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 19","server":"37.120.219.218","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
+  - {"type":"ss","name":"MOHSEN SS 20","server":"192.36.41.28","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
   - {"type":"ss","name":"MOHSEN S 1","server":"92.223.93.233","port":1035,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg", udp: true}
   - {"type":"ss","name":"MOHSEN S 2","server":"51.77.53.200","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
   - {"type":"ss","name":"MOHSEN S 3","server":"134.195.196.89","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS", udp: true}
@@ -514,6 +534,26 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - MOHSEN SS 1
+      - MOHSEN SS 2
+      - MOHSEN SS 3
+      - MOHSEN SS 4
+      - MOHSEN SS 5
+      - MOHSEN SS 6
+      - MOHSEN SS 7
+      - MOHSEN SS 8
+      - MOHSEN SS 9
+      - MOHSEN SS 10
+      - MOHSEN SS 11
+      - MOHSEN SS 12
+      - MOHSEN SS 13
+      - MOHSEN SS 14
+      - MOHSEN SS 15
+      - MOHSEN SS 16
+      - MOHSEN SS 17
+      - MOHSEN SS 18
+      - MOHSEN SS 19
+      - MOHSEN SS 20
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
@@ -997,6 +1037,26 @@ proxy-groups:
   - name: 🗺 Location
     type: select
     proxies:
+      - MOHSEN SS 1
+      - MOHSEN SS 2
+      - MOHSEN SS 3
+      - MOHSEN SS 4
+      - MOHSEN SS 5
+      - MOHSEN SS 6
+      - MOHSEN SS 7
+      - MOHSEN SS 8
+      - MOHSEN SS 9
+      - MOHSEN SS 10
+      - MOHSEN SS 11
+      - MOHSEN SS 12
+      - MOHSEN SS 13
+      - MOHSEN SS 14
+      - MOHSEN SS 15
+      - MOHSEN SS 16
+      - MOHSEN SS 17
+      - MOHSEN SS 18
+      - MOHSEN SS 19
+      - MOHSEN SS 20
       - MOHSEN S 1
       - MOHSEN S 2
       - MOHSEN S 3
