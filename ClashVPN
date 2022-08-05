@@ -270,6 +270,35 @@ proxies:
   - {"type":"ss","name":"MOHSEN_S_T_42","server":"38.107.226.146","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
   - {"type":"ss","name":"MOHSEN_S_T_43","server":"38.91.101.159","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC", udp: true}
   - {"type":"ss","name":"MOHSEN_S_T_44","server":"142.202.48.7","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 1","server":"137.74.76.58","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 2","server":"51.75.228.106","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 3","server":"51.75.228.107","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 4","server":"149.202.154.142","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 5","server":"149.202.154.140","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 6","server":"141.94.37.87","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 7","server":"141.94.37.86","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 8","server":"141.94.37.84","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 9","server":"51.75.236.20","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 10","server":"51.254.60.187","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 11","server":"194.233.85.47","port":9595,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"sk80Likez95", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 12","server":"193.25.215.156","port":56182,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"speedupvpn.com
+    tLce$xidbxgsGQ", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 13","server":"51.158.145.224","port":50189,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"speedupvpn.com
+    tLidbGcex869xgsQ", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 14","server":"173.82.186.25","port":50005,"protocol":"auth_chain_a","cipher":"dummy","obfs":"plain","password":"IOSwgAYTREask(&1UHYTiq'&%12afSSR", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 15","server":"173.82.232.91","port":50005,"protocol":"auth_chain_a","cipher":"dummy","obfs":"plain","password":"IOSwgAYTREask(&1UHYTiq'&%12afSSR", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 16","server":"173.82.245.228","port":50005,"protocol":"auth_chain_a","cipher":"dummy","obfs":"plain","password":"IOSwgAYTREask(&1UHYTiq'&%12afSSR", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 17","server":"173.82.219.96","port":50005,"protocol":"auth_chain_a","cipher":"dummy","obfs":"plain","password":"IOSwgAYTREask(&1UHYTiq'&%12afSSR", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 18","server":"37.48.80.203","port":50003,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"8460400130", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 19","server":"213.183.59.206","port":9097,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"Sn5B7jTqr76aCJT8", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 20","server":"172.82.176.66","port":10629,"protocol":"auth_chain_a","cipher":"dummy","obfs":"plain","password":".hideu0430.","obfs-param":"V2tWTk1XUkdjRlJQVkVwcVVucFdkbGRXYUZJPQ","protocol-param":"258433:lUoukm", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 21","server":"13.250.116.141","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME","obfs-param":"Vm0wd2QyUXlVWGxWV0d4V1YwZDRWMVl3WkRSV01WbDNXa1JTV0ZKdGVGWlZNakExVmpBeFYySkVUbGhoTWsweFZtcEdZV015U2tWVWJHaG9UV3N3ZUZacVFtRlRNazE1VTJ0V1ZXSkhhRzlVVjNOM1pVWmFkR05GZEZSTlZXdzFWVEowVjFaWFNraGhSemxWVm0xb1JGWldXbUZrUlRGVlZXeFNUbUY2UlRGV2EyUXdZekpHYzFOdVVtaFNlbXhXVm1wT1QwMHhjRlpYYlVaclVqQTFSMVV5TVRSVk1rcFhVMnR3VjJKVVJYZFdha1pYWkVaT2MxZHNhR2xTTW1oWlYxZDRiMkl5Vm5OVmJGWlRZbFZhY2xWcVFURlNNVlY1VFZSU1ZrMXJjRmhWTW5SM1ZqSktWVkpZWkZwbGEzQklWbXBHVDJSV1ZuUmhSazVzWWxob1dGWnRNWGRVTVZGM1RVaG9hbEpzY0ZsWmJGWmhZMnhXY1ZGVVJsTk5WbFkxVkZaU1UxWnJNWEpqUm1oV1RXNVNNMVpxU2t0V1ZrcFpXa1p3YkdFelFrbFhXSEJIVkRKU1YxWnVUbGhpVjNoVVZGY3hiMWRHV25STlZFSlhUVmQ0V0ZaWGRHdGhiRXAwVld4c1dtSkhhRlJXTUZwVFZqSkdSbFJzVG1sU2JrSmFWMnhXYjJFeFdYZE5WVlpUWWtkU1lWUlZXbUZOTVZweFUydDBWMVpyY0ZwWGExcDNZa2RGZWxGcmJGaFhTRUpJVmtSS1UxWXhXblZVYkdocFZqTm9WVlpHWTNoaU1sSnpWMjVTVGxkSFVsWlVWM1J6VGxaV2RHUkhkRmhTTUhCSlZsZDRjMWR0U2tkWGJXaGFUVlp3ZWxreU1VZFNiRkp6Vkcxc1UySnJTbUZXTW5oWFlqSkZlRmRZWkU1V1ZscFVXV3RrVTFsV1VsWlhibVJzWWtad2VGVnRNVWRVTWtwR1YyeHdXbFpXY0doWmEyUkdaVWRPUlZkc1pHbFhSVXBKVm10U1MxVXhXWGhYYmxaVllrZG9jRlpxVG05V1ZtUlhWV3M1VWsxcmJEUldNV2h2VjBkS1JrNVdVbFZXYlZFd1ZtcEdVMVp0UmtoUFZtUk9WakZLU2xkV1ZtRmpNV1IwVTJ0b2FGSnNTbGhVVlZwM1ZrWmFjVkp0ZEd0U2EzQXdXbFZhYTJGV1duSmlla1pYWWxoQ1MxUldaRVpsUm1SWldrVTFWMVpzY0ZWWFYzUnJWVEZzVjFWc1dsaGliVkp6V1d0YWQyVkdWblJOVldSVlRXdHdSMVl5ZUhkWGJGcFhZMGhLVjFaRldreFdNVnBIWTIxS1IyRkdhRlJTVlhCS1ZtMTBVMU14VlhoWFdHaFlZbXhhVmxsclpHOWpSbHB4VkcwNVYxWnNjRWhYVkU1dllWVXhjbUpFVWxkTmFsWlVWa2Q0WVZKc1RuTmhSbFpYWWxaRmQxWnFRbUZYYlZaWVZHdGFUMUZVTURrPQ", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 22","server":"213.183.53.177","port":9059,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"9XwYyZsK8SNzQDtY", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 23","server":"213.183.53.177","port":9056,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"rNBfNuuANFCAk7KB", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 24","server":"213.183.53.177","port":9010,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"f63gg8EruDnUrmz4", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 25","server":"183.232.141.105","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"2634:vFr9Fx23xZR(1)", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 26","server":"213.183.53.177","port":9003,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"JdmRK9gMEqFgs8nP", udp: true}
+  - {"type":"ssr","name":"MOHSEN SSR 27","server":"213.183.53.177","port":9041,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"U6qnYRhfyDmn8sgn", udp: true}
   - {"type":"ssr","name":"MOHSEN_SSR_1","server":"152.228.187.145","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
   - {"type":"ssr","name":"MOHSEN_SSR_2","server":"178.132.5.223","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
   - {"type":"ssr","name":"MOHSEN_SSR_3","server":"82.145.41.150","port":443,"protocol":"auth_chain_a","cipher":"chacha20-ietf","obfs":"http_simple","password":"MyYekt@K3y","obfs-param":"MA","protocol-param":"0"}
@@ -783,6 +812,33 @@ proxy-groups:
       - MOHSEN_S_T_42
       - MOHSEN_S_T_43
       - MOHSEN_S_T_44
+      - MOHSEN SSR 1
+      - MOHSEN SSR 2
+      - MOHSEN SSR 3
+      - MOHSEN SSR 4
+      - MOHSEN SSR 5
+      - MOHSEN SSR 6
+      - MOHSEN SSR 7
+      - MOHSEN SSR 8
+      - MOHSEN SSR 9
+      - MOHSEN SSR 10
+      - MOHSEN SSR 11
+      - MOHSEN SSR 12
+      - MOHSEN SSR 13
+      - MOHSEN SSR 14
+      - MOHSEN SSR 15
+      - MOHSEN SSR 16
+      - MOHSEN SSR 17
+      - MOHSEN SSR 18
+      - MOHSEN SSR 19
+      - MOHSEN SSR 20
+      - MOHSEN SSR 21
+      - MOHSEN SSR 22
+      - MOHSEN SSR 23
+      - MOHSEN SSR 24
+      - MOHSEN SSR 25
+      - MOHSEN SSR 26
+      - MOHSEN SSR 27
       - MOHSEN_SSR_1
       - MOHSEN_SSR_2
       - MOHSEN_SSR_3
@@ -1286,6 +1342,33 @@ proxy-groups:
       - MOHSEN_S_T_42
       - MOHSEN_S_T_43
       - MOHSEN_S_T_44
+      - MOHSEN SSR 1
+      - MOHSEN SSR 2
+      - MOHSEN SSR 3
+      - MOHSEN SSR 4
+      - MOHSEN SSR 5
+      - MOHSEN SSR 6
+      - MOHSEN SSR 7
+      - MOHSEN SSR 8
+      - MOHSEN SSR 9
+      - MOHSEN SSR 10
+      - MOHSEN SSR 11
+      - MOHSEN SSR 12
+      - MOHSEN SSR 13
+      - MOHSEN SSR 14
+      - MOHSEN SSR 15
+      - MOHSEN SSR 16
+      - MOHSEN SSR 17
+      - MOHSEN SSR 18
+      - MOHSEN SSR 19
+      - MOHSEN SSR 20
+      - MOHSEN SSR 21
+      - MOHSEN SSR 22
+      - MOHSEN SSR 23
+      - MOHSEN SSR 24
+      - MOHSEN SSR 25
+      - MOHSEN SSR 26
+      - MOHSEN SSR 27
       - MOHSEN_SSR_1
       - MOHSEN_SSR_2
       - MOHSEN_SSR_3
