@@ -21,6 +21,19 @@ dns:
     geoip: true
 
 proxies:
+  - {"type":"ss","name":"MOHSEN 🇷🇺 1","server":"185.4.65.6","port":21247,"cipher":"aes-256-cfb","password":"vDS9G2p", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 2","server":"5.188.224.107","port":5623,"cipher":"chacha20-ietf-poly1305","password":"Sx61v42tDfxp", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 3","server":"92.223.65.31","port":29092,"cipher":"chacha20-ietf-poly1305","password":"ypoq8dJBPqst", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 4","server":"194.34.239.105","port":18760,"cipher":"chacha20-ietf-poly1305","password":"hg49$WH8943g3", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 5","server":"83.217.9.76","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 6","server":"213.183.53.182","port":9080,"cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 7","server":"213.183.53.177","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 8","server":"213.183.53.207","port":9038,"cipher":"aes-256-cfb","password":"gYCYXfkUQEs2TaJQ", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 9","server":"213.183.53.179","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 10","server":"213.183.53.207","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 11","server":"213.183.53.222","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 12","server":"213.183.53.182","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN", udp: true}
+  - {"type":"ss","name":"MOHSEN 🇷🇺 13","server":"92.38.139.136","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"MOHSEN SS 1","server":"72.140.224.196","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"MOHSEN SS 2","server":"85.114.138.92","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
   - {"type":"ss","name":"MOHSEN SS 3","server":"93.186.201.124","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao", udp: true}
@@ -563,6 +576,19 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - MOHSEN 🇷🇺 1
+      - MOHSEN 🇷🇺 2
+      - MOHSEN 🇷🇺 3
+      - MOHSEN 🇷🇺 4
+      - MOHSEN 🇷🇺 5
+      - MOHSEN 🇷🇺 6
+      - MOHSEN 🇷🇺 7
+      - MOHSEN 🇷🇺 8
+      - MOHSEN 🇷🇺 9
+      - MOHSEN 🇷🇺 10
+      - MOHSEN 🇷🇺 11
+      - MOHSEN 🇷🇺 12
+      - MOHSEN 🇷🇺 13
       - MOHSEN SS 1
       - MOHSEN SS 2
       - MOHSEN SS 3
@@ -1093,6 +1119,19 @@ proxy-groups:
   - name: 🗺 Location
     type: select
     proxies:
+      - MOHSEN 🇷🇺 1
+      - MOHSEN 🇷🇺 2
+      - MOHSEN 🇷🇺 3
+      - MOHSEN 🇷🇺 4
+      - MOHSEN 🇷🇺 5
+      - MOHSEN 🇷🇺 6
+      - MOHSEN 🇷🇺 7
+      - MOHSEN 🇷🇺 8
+      - MOHSEN 🇷🇺 9
+      - MOHSEN 🇷🇺 10
+      - MOHSEN 🇷🇺 11
+      - MOHSEN 🇷🇺 12
+      - MOHSEN 🇷🇺 13
       - MOHSEN SS 1
       - MOHSEN SS 2
       - MOHSEN SS 3
