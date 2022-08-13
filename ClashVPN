@@ -21,6 +21,67 @@ dns:
     geoip: true
 
 proxies:
+  - {"type":"ss","name":"MOHSEN_1","server":"185.167.116.24","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
+  - {"type":"ss","name":"MOHSEN_2","server":"185.167.116.253","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
+  - {"type":"ss","name":"MOHSEN_3","server":"185.167.116.253","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
+  - {"type":"ss","name":"MOHSEN_4","server":"196.247.59.154","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_5","server":"196.247.59.154","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_6","server":"196.247.59.154","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_7","server":"149.202.82.172","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_8","server":"145.239.1.100","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_9","server":"145.239.1.100","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_10","server":"149.202.82.172","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_11","server":"195.154.200.150","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"MOHSEN_12","server":"145.239.1.100","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"MOHSEN_13","server":"85.208.108.21","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"MOHSEN_14","server":"85.208.108.21","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"MOHSEN_15","server":"85.208.108.21","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_16","server":"85.208.108.21","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_17","server":"85.208.108.21","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"MOHSEN_18","server":"85.208.108.20","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"MOHSEN_19","server":"85.208.108.21","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"MOHSEN_20","server":"85.208.108.21","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"MOHSEN_21","server":"85.208.108.21","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_22","server":"85.208.108.21","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_23","server":"85.208.108.21","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"MOHSEN_24","server":"85.208.108.21","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_25","server":"85.208.108.21","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"MOHSEN_26","server":"85.208.108.21","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"MOHSEN_27","server":"85.208.108.21","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"MOHSEN_28","server":"85.208.108.20","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"MOHSEN_29","server":"85.208.108.20","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_30","server":"85.208.108.21","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_31","server":"85.208.108.21","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_32","server":"85.208.108.21","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"MOHSEN_33","server":"85.208.108.21","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"MOHSEN_34","server":"85.208.108.20","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_35","server":"85.208.108.21","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"MOHSEN_36","server":"85.208.108.20","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_37","server":"185.4.65.6","port":21247,"cipher":"aes-256-cfb","password":"vDS9G2p"}
+  - {"type":"ss","name":"MOHSEN_38","server":"217.197.160.117","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_39","server":"217.197.160.117","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_40","server":"217.197.160.117","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"MOHSEN_41","server":"38.64.138.145","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_42","server":"38.75.136.21","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_43","server":"38.114.114.19","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_44","server":"38.75.136.21","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_45","server":"138.68.248.130","port":811,"cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"type":"ss","name":"MOHSEN_46","server":"38.75.136.21","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"MOHSEN_47","server":"38.143.66.99","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"MOHSEN_48","server":"38.143.66.99","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_49","server":"167.88.61.14","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"MOHSEN_50","server":"38.68.134.85","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"MOHSEN_51","server":"38.121.43.71","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"MOHSEN_52","server":"38.68.134.85","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"MOHSEN_53","server":"167.88.61.14","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_54","server":"38.121.43.71","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"MOHSEN_55","server":"167.88.61.14","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"MOHSEN_56","server":"167.88.61.14","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"MOHSEN_57","server":"167.88.61.14","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"MOHSEN_58","server":"167.88.61.175","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"MOHSEN_59","server":"167.88.61.14","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"MOHSEN_60","server":"38.114.114.19","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"MOHSEN_61","server":"134.195.196.149","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
   - {"type":"ss","name":"MOHSEN 🇷🇺 1","server":"185.4.65.6","port":21247,"cipher":"aes-256-cfb","password":"vDS9G2p", udp: true}
   - {"type":"ss","name":"MOHSEN 🇷🇺 2","server":"5.188.224.107","port":5623,"cipher":"chacha20-ietf-poly1305","password":"Sx61v42tDfxp", udp: true}
   - {"type":"ss","name":"MOHSEN 🇷🇺 3","server":"92.223.65.31","port":29092,"cipher":"chacha20-ietf-poly1305","password":"ypoq8dJBPqst", udp: true}
@@ -624,446 +685,67 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - MOHSEN_SSSS_1
-      - MOHSEN_SSSS_2
-      - MOHSEN_SSSS_3
-      - MOHSEN_SSSS_4
-      - MOHSEN_SSSS_5
-      - MOHSEN_SSSS_6
-      - MOHSEN_SSSS_7
-      - MOHSEN_SSSS_8
-      - MOHSEN_SSSS_9
-      - MOHSEN_SSSS_10
-      - MOHSEN_SSSS_11
-      - MOHSEN_SSSS_12
-      - MOHSEN_SSSS_13
-      - MOHSEN_SSSS_14
-      - MOHSEN_SSSS_15
-      - MOHSEN_SSSS_16
-      - MOHSEN_SSSS_17
-      - MOHSEN_SSSS_18
-      - MOHSEN_SSSS_19
-      - MOHSEN_SSSS_20
-      - MOHSEN_SSSS_21
-      - MOHSEN_SSSS_22
-      - MOHSEN_SSSS_23
-      - MOHSEN_SSS_1
-      - MOHSEN_SSS_2
-      - MOHSEN_SSS_3
-      - MOHSEN_SSS_4
-      - MOHSEN_SSS_5
-      - MOHSEN_SSS_6
-      - MOHSEN_SSS_7
-      - MOHSEN_SSS_8
-      - MOHSEN_SSS_9
-      - MOHSEN_SSS_10
-      - MOHSEN_SSS_11
-      - MOHSEN_SSS_12
-      - MOHSEN_SSS_13
-      - MOHSEN SS 1
-      - MOHSEN SS 2
-      - MOHSEN SS 3
-      - MOHSEN SS 4
-      - MOHSEN SS 5
-      - MOHSEN SS 6
-      - MOHSEN SS 7
-      - MOHSEN SS 8
-      - MOHSEN SS 9
-      - MOHSEN SS 10
-      - MOHSEN SS 11
-      - MOHSEN SS 12
-      - MOHSEN SS 13
-      - MOHSEN SS 14
-      - MOHSEN SS 15
-      - MOHSEN SS 16
-      - MOHSEN SS 17
-      - MOHSEN SS 18
-      - MOHSEN SS 19
-      - MOHSEN SS 20
-      - MOHSEN_S_P_1
-      - MOHSEN_S_P_2
-      - MOHSEN_S_P_3
-      - MOHSEN_S_P_4
-      - MOHSEN_S_P_5
-      - MOHSEN_S_P_6
-      - MOHSEN_S_P_7
-      - MOHSEN_S_P_8
-      - MOHSEN_S_P_9
-      - MOHSEN_S_P_10
-      - MOHSEN_S_P_11
-      - MOHSEN_S_P_12
-      - MOHSEN_S_M_1
-      - MOHSEN_S_M_2
-      - MOHSEN_S_M_3
-      - MOHSEN_S_M_4
-      - MOHSEN_S_M_5
-      - MOHSEN_S_M_6
-      - MOHSEN_S_M_7
-      - MOHSEN_S_M_8
-      - MOHSEN_S_M_9
-      - MOHSEN_S_M_10
-      - MOHSEN_S_M_11
-      - MOHSEN_S_M_12
-      - MOHSEN_S_M_13
-      - MOHSEN_S_M_14
-      - MOHSEN_S_M_15
-      - MOHSEN_S_M_16
-      - MOHSEN_S_M_17
-      - MOHSEN_S_M_18
-      - MOHSEN_S_M_19
-      - MOHSEN_S_M_20
-      - MOHSEN_S_M_21
-      - MOHSEN_S_M_22
-      - MOHSEN_S_M_23
-      - MOHSEN_S_M_24
-      - MOHSEN_S_M_25
-      - MOHSEN_S_M_26
-      - MOHSEN_S_M_27
-      - MOHSEN_S_M_28
-      - MOHSEN_S_M_29
-      - MOHSEN_S_M_30
-      - MOHSEN_S_M_31
-      - MOHSEN_S_M_32
-      - MOHSEN_S_M_33
-      - MOHSEN_S_M_34
-      - MOHSEN_S_M_35
-      - MOHSEN_S_M_36
-      - MOHSEN_S_M_37
-      - MOHSEN_S_M_38
-      - MOHSEN_S_M_39
-      - MOHSEN_S_M_40
-      - MOHSEN_S_M_41
-      - MOHSEN_S_M_42
-      - MOHSEN_S_M_43
-      - MOHSEN_S_M_44
-      - MOHSEN_S_M_45
-      - MOHSEN_S_M_46
-      - MOHSEN_S_M_47
-      - MOHSEN_S_M_48
-      - MOHSEN_S_M_49
-      - MOHSEN_S_M_50
-      - MOHSEN_S_M_51
-      - MOHSEN_S_T_1
-      - MOHSEN_S_T_2
-      - MOHSEN_S_T_3
-      - MOHSEN_S_T_4
-      - MOHSEN_S_T_5
-      - MOHSEN_S_T_6
-      - MOHSEN_S_T_7
-      - MOHSEN_S_T_8
-      - MOHSEN_S_T_9
-      - MOHSEN_S_T_10
-      - MOHSEN_S_T_11
-      - MOHSEN_S_T_12
-      - MOHSEN_S_T_13
-      - MOHSEN_S_T_14
-      - MOHSEN_S_T_15
-      - MOHSEN_S_T_16
-      - MOHSEN_S_T_17
-      - MOHSEN_S_T_18
-      - MOHSEN_S_T_19
-      - MOHSEN_S_T_20
-      - MOHSEN_S_T_21
-      - MOHSEN_S_T_22
-      - MOHSEN_S_T_23
-      - MOHSEN_S_T_24
-      - MOHSEN_S_T_25
-      - MOHSEN_S_T_26
-      - MOHSEN_S_T_27
-      - MOHSEN_S_T_28
-      - MOHSEN_S_T_29
-      - MOHSEN_S_T_30
-      - MOHSEN_S_T_31
-      - MOHSEN_S_T_32
-      - MOHSEN_S_T_33
-      - MOHSEN_S_T_34
-      - MOHSEN_S_T_35
-      - MOHSEN_S_T_36
-      - MOHSEN_S_T_37
-      - MOHSEN_S_T_38
-      - MOHSEN_S_T_39
-      - MOHSEN_S_T_40
-      - MOHSEN_S_T_41
-      - MOHSEN_S_T_42
-      - MOHSEN_S_T_43
-      - MOHSEN_S_T_44
-      - MOHSEN SSR 1
-      - MOHSEN SSR 2
-      - MOHSEN SSR 3
-      - MOHSEN SSR 4
-      - MOHSEN SSR 5
-      - MOHSEN SSR 6
-      - MOHSEN SSR 7
-      - MOHSEN SSR 8
-      - MOHSEN SSR 9
-      - MOHSEN SSR 10
-      - MOHSEN SSR 11
-      - MOHSEN SSR 12
-      - MOHSEN SSR 13
-      - MOHSEN SSR 14
-      - MOHSEN SSR 15
-      - MOHSEN SSR 16
-      - MOHSEN SSR 17
-      - MOHSEN SSR 18
-      - MOHSEN SSR 19
-      - MOHSEN SSR 20
-      - MOHSEN SSR 21
-      - MOHSEN SSR 22
-      - MOHSEN SSR 23
-      - MOHSEN SSR 24
-      - MOHSEN SSR 25
-      - MOHSEN SSR 26
-      - MOHSEN SSR 27
-      - MOHSEN_SSR_1
-      - MOHSEN_SSR_2
-      - MOHSEN_SSR_3
-      - MOHSEN_SSR_4
-      - MOHSEN_SSR_5
-      - MOHSEN_SSR_6
-      - MOHSEN_SSR_7
-      - MOHSEN_SSR_8
-      - MOHSEN_SSR_9
-      - MOHSEN_SSR_10
-      - MOHSEN_T_1
-      - MOHSEN_T_2
-      - MOHSEN_T_3
-      - MOHSEN_T_4
-      - MOHSEN_T_5
-      - MOHSEN_T_6
-      - MOHSEN_T_7
-      - MOHSEN_T_8
-      - MOHSEN_T_9
-      - MOHSEN_T_10
-      - MOHSEN_T_11
-      - MOHSEN_T_12
-      - MOHSEN_T_13
-      - MOHSEN_T_14
-      - MOHSEN_T_15
-      - MOHSEN_T_16
-      - MOHSEN_T_17
-      - MOHSEN_T_18
-      - MOHSEN_T_19
-      - MOHSEN_T_20
-      - MOHSEN_T_21
-      - MOHSEN_T_22
-      - MOHSEN_T_23
-      - MOHSEN_T_24
-      - MOHSEN_T_25
-      - MOHSEN_T_26
-      - MOHSEN_T_27
-      - MOHSEN_T_28
-      - MOHSEN_T_29
-      - MOHSEN_T_30
-      - MOHSEN_T_31
-      - MOHSEN_T_32
-      - MOHSEN_T_33
-      - MOHSEN_T_34
-      - MOHSEN_T_35
-      - MOHSEN_T_36
-      - MOHSEN_T_37
-      - MOHSEN_T_38
-      - MOHSEN_T_39
-      - MOHSEN_T_40
-      - MOHSEN_T_41
-      - MOHSEN_T_42
-      - MOHSEN_T_43
-      - MOHSEN_T_44
-      - MOHSEN_T_45
-      - MOHSEN_T_46
-      - MOHSEN_T_47
-      - MOHSEN_T_48
-      - MOHSEN_T_49
-      - MOHSEN_T_50
-      - MOHSEN_T_51
-      - MOHSEN_T_52
-      - MOHSEN_T_53
-      - MOHSEN_T_54
-      - MOHSEN_T_55
-      - MOHSEN_T_56
-      - MOHSEN_T_57
-      - MOHSEN_T_58
-      - MOHSEN_T_59
-      - MOHSEN_T_60
-      - MOHSEN_T_61
-      - MOHSEN_T_62
-      - MOHSEN_T_63
-      - MOHSEN_T_64
-      - MOHSEN_T_65
-      - MOHSEN_T_66
-      - MOHSEN_T_67
-      - MOHSEN_T_68
-      - MOHSEN_T_69
-      - MOHSEN_T_70
-      - MOHSEN_T_71
-      - MOHSEN_T_72
-      - MOHSEN_T_73
-      - MOHSEN_T_74
-      - MOHSEN_T_75
-      - MOHSEN_T_76
-      - MOHSEN_T_77
-      - MOHSEN_T_78
-      - MOHSEN_T_79
-      - MOHSEN_T_80
-      - MOHSEN_T_81
-      - MOHSEN_T_82
-      - MOHSEN_T_83
-      - MOHSEN_T_84
-      - MOHSEN_T_85
-      - MOHSEN_T_86
-      - MOHSEN_T_87
-      - MOHSEN_T_88
-      - MOHSEN_T_89
-      - MOHSEN_T_90
-      - MOHSEN_T_91
-      - MOHSEN_T_92
-      - MOHSEN_T_93
-      - MOHSEN_T_94
-      - MOHSEN_T_95
-      - MOHSEN_T_96
-      - MOHSEN_T_97
-      - MOHSEN_T_98
-      - MOHSEN_T_99
-      - MOHSEN_T_100
-      - MOHSEN_T_101
-      - MOHSEN_T_102
-      - MOHSEN_T_103
-      - MOHSEN_T_104
-      - MOHSEN_T_105
-      - MOHSEN_T_106
-      - MOHSEN_T_107
-      - MOHSEN_T_108
-      - MOHSEN_T_109
-      - MOHSEN_T_110
-      - MOHSEN_T_111
-      - MOHSEN_T_112
-      - MOHSEN_T_113
-      - MOHSEN_T_114
-      - MOHSEN_T_115
-      - MOHSEN_T_116
-      - MOHSEN_T_117
-      - MOHSEN_T_118
-      - MOHSEN_T_119
-      - MOHSEN_T_120
-      - MOHSEN_T_121
-      - MOHSEN_T_122
-      - MOHSEN_T_123
-      - MOHSEN_T_124
-      - MOHSEN_T_125
-      - MOHSEN_T_126
-      - MOHSEN_T_127
-      - MOHSEN_T_128
-      - MOHSEN_T_129
-      - MOHSEN_T_130
-      - MOHSEN_T_131
-      - MOHSEN_T_132
-      - MOHSEN_T_133
-      - MOHSEN_T_134
-      - MOHSEN_T_135
-      - MOHSEN_T_136
-      - MOHSEN_T_137
-      - MOHSEN V_1
-      - MOHSEN V_2
-      - MOHSEN V_3
-      - MOHSEN V_4
-      - MOHSEN V_5
-      - MOHSEN V_6
-      - MOHSEN V_7
-      - MOHSEN V_8
-      - MOHSEN V_9
-      - MOHSEN V_10
-      - MOHSEN V_11
-      - MOHSEN V_12
-      - MOHSEN V_13
-      - MOHSEN V_14
-      - MOHSEN V_15
-      - MOHSEN V_16
-      - MOHSEN V_17
-      - MOHSEN V_18
-      - MOHSEN V_19
-      - MOHSEN V_20
-      - MOHSEN V_21
-      - MOHSEN V_22
-      - MOHSEN V_23
-      - MOHSEN V_24
-      - MOHSEN V_25
-      - MOHSEN V_26
-      - MOHSEN V_27
-      - MOHSEN V_28
-      - MOHSEN_V_1
-      - MOHSEN_V_2
-      - MOHSEN_V_3
-      - MOHSEN_V_4
-      - MOHSEN_V_5
-      - MOHSEN_V_6
-      - MOHSEN_V_7
-      - MOHSEN_V_8
-      - MOHSEN_V_9
-      - MOHSEN_V_10
-      - MOHSEN_V_11
-      - MOHSEN_V_12
-      - MOHSEN_V_13
-      - MOHSEN_V_14
-      - MOHSEN_V_15
-      - MOHSEN_V_16
-      - MOHSEN_V_17
-      - MOHSEN_V_18
-      - MOHSEN_V_19
-      - MOHSEN_V_20
-      - MOHSEN_V_21
-      - MOHSEN_V_22
-      - MOHSEN_V_23
-      - MOHSEN_V_24
-      - MOHSEN_V_25
-      - MOHSEN_V_26
-      - MOHSEN_V_27
-      - MOHSEN V 1
-      - MOHSEN V 2
-      - MOHSEN V 3
-      - MOHSEN V 4
-      - MOHSEN V 5
-      - MOHSEN V 6
-      - MOHSEN V 7
-      - MOHSEN V 8
-      - MOHSEN V 9
-      - MOHSEN V 10
-      - MOHSEN V 11
-      - MOHSEN V 12
-      - MOHSEN V 13
-      - MOHSEN V 14
-      - MOHSEN V 15
-      - MOHSEN V 16
-      - MOHSEN V 17
-      - MOHSEN V 18
-      - MOHSEN V 19
-      - MOHSEN V 20
-      - MOHSEN V 21
-      - MOHSEN V 22
-      - MOHSEN V 23
-      - MOHSEN V 24
-      - MOHSEN V 25
-      - MOHSEN V 26
-      - MOHSEN V 27
-      - MOHSEN V 28
-      - MOHSEN V 29
-      - MOHSEN V 30
-      - MOHSEN V 31
-      - MOHSEN V 32
-      - MOHSEN V 33
-      - MOHSEN V 34
-      - MOHSEN V 35
-      - MOHSEN V 36
-      - MOHSEN V 37
-      - MOHSEN V 38
-      - MOHSEN V 39
-      - MOHSEN V 40
-      - MOHSEN V 41
-      - MOHSEN V 42
-      - MOHSEN V 43
-      - MOHSEN V 44
-      - MOHSEN V 45
-      - MOHSEN V 46
-      - MOHSEN V 47
-      - MOHSEN V 48
+      - MOHSEN_1
+      - MOHSEN_2
+      - MOHSEN_3
+      - MOHSEN_4
+      - MOHSEN_5
+      - MOHSEN_6
+      - MOHSEN_7
+      - MOHSEN_8
+      - MOHSEN_9
+      - MOHSEN_10
+      - MOHSEN_11
+      - MOHSEN_12
+      - MOHSEN_13
+      - MOHSEN_14
+      - MOHSEN_15
+      - MOHSEN_16
+      - MOHSEN_17
+      - MOHSEN_18
+      - MOHSEN_19
+      - MOHSEN_20
+      - MOHSEN_21
+      - MOHSEN_22
+      - MOHSEN_23
+      - MOHSEN_24
+      - MOHSEN_25
+      - MOHSEN_26
+      - MOHSEN_27
+      - MOHSEN_28
+      - MOHSEN_29
+      - MOHSEN_30
+      - MOHSEN_31
+      - MOHSEN_32
+      - MOHSEN_33
+      - MOHSEN_34
+      - MOHSEN_35
+      - MOHSEN_36
+      - MOHSEN_37
+      - MOHSEN_38
+      - MOHSEN_39
+      - MOHSEN_40
+      - MOHSEN_41
+      - MOHSEN_42
+      - MOHSEN_43
+      - MOHSEN_44
+      - MOHSEN_45
+      - MOHSEN_46
+      - MOHSEN_47
+      - MOHSEN_48
+      - MOHSEN_49
+      - MOHSEN_50
+      - MOHSEN_51
+      - MOHSEN_52
+      - MOHSEN_53
+      - MOHSEN_54
+      - MOHSEN_55
+      - MOHSEN_56
+      - MOHSEN_57
+      - MOHSEN_58
+      - MOHSEN_59
+      - MOHSEN_60
+      - MOHSEN_61
 
   - name: 🗺 Location
     type: select
