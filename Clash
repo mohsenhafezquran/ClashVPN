@@ -7,6 +7,7 @@ external-controller: 127.0.0.1:9090
 
 proxies:
   - {"type":"vmess","name":"MOHSEN DAKHELY","ws-opts":{"path":"/trades"},"server":"api.cloudbazaar.de","port":"80","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"MOHSEN_DAKHELY","ws-opts":{"path":"/trades"},"server":"api.cloudbazaar.de","port":"80","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":"0","cipher":"chacha20-poly1305","network":"ws"}
   - {"type":"ss","name":"MOHSEN 1","server":"213.169.137.221","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
   - {"type":"ss","name":"MOHSEN 2","server":"91.245.255.59","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
   - {"type":"ss","name":"MOHSEN 3","server":"176.97.70.125","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
@@ -358,6 +359,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - MOHSEN DAKHELY
+      - MOHSEN_DAKHELY
       - MOHSEN 1
       - MOHSEN 2
       - MOHSEN 3
@@ -699,6 +701,7 @@ proxy-groups:
     type: select
     proxies:
       - MOHSEN DAKHELY
+      - MOHSEN_DAKHELY
       - MOHSEN 1
       - MOHSEN 2
       - MOHSEN 3
