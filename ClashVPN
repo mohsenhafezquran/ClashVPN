@@ -6,6 +6,9 @@ log-level: info
 external-controller: 127.0.0.1:9090
 
 proxies:
+  - {"type":"vmess","name":"MOHSEN-DAKHELY1","ws-opts":{"path":"/ray","headers":{"host":"localhoster.ml"}},"server":"104.18.45.0","port":"443","uuid":"4db99e96-3ee3-419c-b1fb-856975801380","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"MOHSEN-DAKHELY2","ws-opts":{"path":"/ray","headers":{"host":"localhoster.ml"}},"server":"104.16.236.0","port":"443","uuid":"4db99e96-3ee3-419c-b1fb-856975801380","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"MOHSEN-DAKHELY3","ws-opts":{"path":"/ray","headers":{"host":"localhoster.ml"}},"server":"104.19.33.0","port":"443","uuid":"4db99e96-3ee3-419c-b1fb-856975801380","alterId":"64","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"MOHSEN DAKHELY","ws-opts":{"path":"/trades"},"server":"api.cloudbazaar.de","port":"80","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"MOHSEN_DAKHELY","ws-opts":{"path":"/trades"},"server":"api.cloudbazaar.de","port":"80","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":"0","cipher":"chacha20-poly1305","network":"ws"}
   - {"type":"vmess","name":"MOHSEN_DAKHELY_1","ws-opts":{"path":"/ray","headers":{"host":"localhoster.ml"}},"server":"104.18.45.0","port":"443","uuid":"4db99e96-3ee3-419c-b1fb-856975801380","alterId":"64","cipher":"auto","network":"ws","tls":true}
@@ -189,6 +192,9 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - MOHSEN-DAKHELY1
+      - MOHSEN-DAKHELY2
+      - MOHSEN-DAKHELY3
       - MOHSEN DAKHELY
       - MOHSEN_DAKHELY
       - MOHSEN_DAKHELY_1
@@ -362,6 +368,9 @@ proxy-groups:
   - name: 🗺 Location
     type: select
     proxies:
+      - MOHSEN-DAKHELY1
+      - MOHSEN-DAKHELY2
+      - MOHSEN-DAKHELY3
       - MOHSEN DAKHELY
       - MOHSEN_DAKHELY
       - MOHSEN_DAKHELY_1
